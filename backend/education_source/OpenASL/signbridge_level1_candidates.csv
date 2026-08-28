@@ -1,0 +1,201 @@
+﻿topic,score,sentence,matches,split,vid,yid,start,end,row_number
+NAME,61,My name is Dominice and I'm 11.,my name is | my name | name,train,vi4MuOpuhcg-00:13:10.519-00:13:13.980,vi4MuOpuhcg,00:13:10.519,00:13:13.980,46826
+NAME,61,I AM [choose one: DEAF/HARD OF HEARING/DEAFBLIND].   MY NAME IS [add your name here].   I WILL HOLD UP MY PHONE FOR YOU TO SPEAK INTO MY SPEECH-TO-TEXT APP.,my name is | my name | your name | name,train,jfdwjt7RzFU-00:24:25.400-00:24:46.480,jfdwjt7RzFU,00:24:25.400,00:24:46.480,52278
+NAME,59,"Hello, what’s your name?",your name | what's your name | name,test,fNT8a6e1gx8-00:04:20.100-00:04:21.233,fNT8a6e1gx8,00:04:20.100,00:04:21.233,97576
+NAME,59,MY NAME IS __.,my name is | my name | name,train,CnBZlJ39ESQ-00:06:34.060-00:06:36.879,CnBZlJ39ESQ,00:06:34.060,00:06:36.879,64087
+NAME,59,My name is Aubrie.,my name is | my name | name,train,0KcUZlotmlo-00:05:01.279-00:05:02.560,0KcUZlotmlo,00:05:01.279,00:05:02.560,25428
+NAME,59,My name is Cayden.,my name is | my name | name,train,0KcUZlotmlo-00:11:57.360-00:12:00.360,0KcUZlotmlo,00:11:57.360,00:12:00.360,25218
+NAME,59,My name is Christian.,my name is | my name | name,train,0KcUZlotmlo-00:09:32.077-00:09:35.480,0KcUZlotmlo,00:09:32.077,00:09:35.480,25203
+NAME,59,My name is Ellis.,my name is | my name | name,train,pQEx6ySX0Bk-00:14:13.018-00:14:13.994,pQEx6ySX0Bk,00:14:13.018,00:14:13.994,7698
+NAME,59,My name is Faith.,my name is | my name | name,train,vi4MuOpuhcg-00:04:09.020-00:04:10.580,vi4MuOpuhcg,00:04:09.020,00:04:10.580,46796
+NAME,59,My name is Gabriella.,my name is | my name | name,train,e1ufQQzu6Xw-01:12:54.423-01:12:58.716,e1ufQQzu6Xw,01:12:54.423,01:12:58.716,69512
+NAME,59,My name is Hiruni.,my name is | my name | name,train,e1ufQQzu6Xw-01:10:12.904-01:10:17.465,e1ufQQzu6Xw,01:10:12.904,01:10:17.465,69548
+NAME,59,My name is Jake.,my name is | my name | name,train,P59eHXwD2ao-00:00:54.200-00:00:57.119,P59eHXwD2ao,00:00:54.200,00:00:57.119,43025
+NAME,59,My name is Jarvis.,my name is | my name | name,train,DvFrW_NwzsI-00:00:33.450-00:00:35.125,DvFrW_NwzsI,00:00:33.450,00:00:35.125,67925
+NAME,59,My name is Jurmel.,my name is | my name | name,train,oC8_PahiMVs-00:02:21.807-00:02:25.211,oC8_PahiMVs,00:02:21.807,00:02:25.211,44521
+NAME,59,My name is Lorne.,my name is | my name | name,train,ZUT99XZ46DA-00:00:00.000-00:00:02.101,ZUT99XZ46DA,00:00:00.000,00:00:02.101,37479
+NAME,59,My name is Miriah.,my name is | my name | name,train,vi4MuOpuhcg-00:04:04.840-00:04:06.406,vi4MuOpuhcg,00:04:04.840,00:04:06.406,46798
+NAME,59,My name is Olivia.,my name is | my name | name,train,0KcUZlotmlo-00:09:47.080-00:09:49.080,0KcUZlotmlo,00:09:47.080,00:09:49.080,25198
+NAME,59,My name is Phillippe.,my name is | my name | name,train,NhcbG0pBqaY-00:00:54.137-00:00:56.259,NhcbG0pBqaY,00:00:54.137,00:00:56.259,52146
+NAME,59,My name is Renca.,my name is | my name | name,train,QcDQuT8j3xU-00:00:01.141-00:00:03.068,QcDQuT8j3xU,00:00:01.141,00:00:03.068,31268
+NAME,59,My name is Sammi.,my name is | my name | name,train,CnT3ke7yiIY-00:00:00.680-00:00:01.940,CnT3ke7yiIY,00:00:00.680,00:00:01.940,62784
+NAME,59,My name is Starla.,my name is | my name | name,train,_dOtiTnkoxk-00:00:29.538-00:00:33.399,_dOtiTnkoxk,00:00:29.538,00:00:33.399,33949
+NAME,59,What is your name?,your name | what is your name | name,train,LXNi7HTTzWU-00:05:14.079-00:05:15.399,LXNi7HTTzWU,00:05:14.079,00:05:15.399,27640
+NAME,59,"Hello, my name is Donna.",my name is | my name | name,train,tjyvBlXjpq4-00:00:00.840-00:00:02.399,tjyvBlXjpq4,00:00:00.840,00:00:02.399,68248
+NAME,59,"Hello, my name is Lorne.",my name is | my name | name,train,6vmtT8VJus8-00:00:31.059-00:00:33.079,6vmtT8VJus8,00:00:31.059,00:00:33.079,62958
+NAME,59,"Hello, my name is Melissa.",my name is | my name | name,train,XYNjr7LMf9g-00:00:00.680-00:00:02.439,XYNjr7LMf9g,00:00:00.680,00:00:02.439,69942
+MEETING,57,Nice to meet you!,nice to meet you | meet you | meet,train,jFh4BZRJLRI-00:01:45.599-00:01:47.799,jFh4BZRJLRI,00:01:45.599,00:01:47.799,20919
+MEETING,57,Nice to meet you.,nice to meet you | meet you | meet,train,e1ufQQzu6Xw-01:07:10.137-01:07:11.193,e1ufQQzu6Xw,01:07:10.137,01:07:11.193,69402
+MEETING,57,"Nice to meet you, Jan.",nice to meet you | meet you | meet,train,1jOUjpZ8ZzA-00:01:27.403-00:01:29.724,1jOUjpZ8ZzA,00:01:27.403,00:01:29.724,61406
+MEETING,57,"Nice to meet you, too.",nice to meet you | meet you | meet,train,e1ufQQzu6Xw-01:10:19.255-01:10:22.819,e1ufQQzu6Xw,01:10:19.255,01:10:22.819,69545
+MEETING,57,Trey Caprani Nice to meet you.,nice to meet you | meet you | meet,train,qOLlQehpQvM-00:02:40.340-00:02:43.460,qOLlQehpQvM,00:02:40.340,00:02:43.460,67039
+MEETING,41,Each one of you can meet your legislators.,meet you | meet,train,t386fjyHvkE-00:06:20.250-00:06:25.350,t386fjyHvkE,00:06:20.250,00:06:25.350,54512
+MEETING,37,Or meet you!,meet you | meet,train,PF0xRBYOcBg-00:15:05.916-00:15:07.125,PF0xRBYOcBg,00:15:05.916,00:15:07.125,39678
+MEETING,37,"I never expected to meet you at this place.""",meet you | meet,train,XH50c6aFmzE-00:02:44.259-00:02:50.379,XH50c6aFmzE,00:02:44.259,00:02:50.379,59678
+MEETING,37,You must meet your legislators on a regular basis year-round.,meet you | meet,train,t386fjyHvkE-00:07:05.550-00:07:10.550,t386fjyHvkE,00:07:05.550,00:07:10.550,54537
+MEETING,37,Ask them  who is my interpreter?  Does that interpreter meet your needs?,meet you | meet,train,qvN9q5kPC74-00:02:38.740-00:02:42.000,qvN9q5kPC74,00:02:38.740,00:02:42.000,68798
+MEETING,34,"He said,  I want you to meet your half sister.  I had never met her.",meet you | meet,train,dBKY0y6Zypk-00:10:57.460-00:11:02.759,dBKY0y6Zypk,00:10:57.460,00:11:02.759,31144
+MEETING,32,"If you are in Washington, DC next Monday, November 11, we would love to meet you.",meet you | meet,train,tU_EnJ2E9zo-00:00:23.559-00:00:35.280,tU_EnJ2E9zo,00:00:23.559,00:00:35.280,82860
+MEETING,30,"Legislators are always ready to meet you, to discuss topics and to ask you questions.",meet you | meet,train,Xfua6HqFHzU-00:00:07.879-00:00:12.919,Xfua6HqFHzU,00:00:07.879,00:00:12.919,63062
+MEETING,27,"Because it is accessible to all, those involved in your care know how to meet your needs and what to plan for.",meet you | meet,train,1jOUjpZ8ZzA-00:05:06.362-00:05:17.233,1jOUjpZ8ZzA,00:05:06.362,00:05:17.233,61415
+MEETING,19,You will meet him.,meet,train,8j5uolV235U-00:00:21.000-00:00:22.928,8j5uolV235U,00:00:21.000,00:00:22.928,62668
+MEETING,19,How did you both meet?,meet,train,dBKY0y6Zypk-00:00:55.158-00:00:56.560,dBKY0y6Zypk,00:00:55.158,00:00:56.560,31414
+MEETING,19,We must meet our legislators.,meet,train,t386fjyHvkE-00:06:17.500-00:06:20.000,t386fjyHvkE,00:06:17.500,00:06:20.000,54514
+MEETING,19,You ll meet other colleagues.,meet,train,7-uJbyWnwfU-00:00:06.580-00:00:09.060,7-uJbyWnwfU,00:00:06.580,00:00:09.060,72581
+MEETING,19,"Then, we may meet again in college.",meet,train,_oWLmAGxeBM-00:00:35.100-00:00:39.539,_oWLmAGxeBM,00:00:35.100,00:00:39.539,61203
+MEETING,19,I had the opportunity to meet 14 students.,meet,train,MILWmTtYmx8-00:24:31.803-00:24:36.557,MILWmTtYmx8,00:24:31.803,00:24:36.557,20742
+MEETING,19,I'm more than happy to meet with you.,meet,train,HyGIBdTs9yg-00:21:20.945-00:21:24.657,HyGIBdTs9yg,00:21:20.945,00:21:24.657,3016
+MEETING,19,We could compromise to meet in two hours.,meet,train,6vrfEopSMeo-00:01:31.579-00:01:33.840,6vrfEopSMeo,00:01:31.579,00:01:33.840,61818
+MEETING,17,Meet new friends!,meet,train,ve2SjPdhxv4-00:00:38.399-00:00:40.320,ve2SjPdhxv4,00:00:38.399,00:00:40.320,47764
+MEETING,17,Meet Doug and Barbara.,meet,train,OXKC6-d6dNg-00:07:19.120-00:07:24.959,OXKC6-d6dNg,00:07:19.120,00:07:24.959,58574
+MEETING,17,"Meet over it Chrissy.""",meet,train,x7ieo_bLOt8-00:05:23.793-00:05:26.240,x7ieo_bLOt8,00:05:23.793,00:05:26.240,58322
+INTRODUCTION,52,"I'm Josie Krueger, and I am a transgender woman.",i am | i'm,train,1Q9Mo892UTU-00:18:02.663-00:18:06.501,1Q9Mo892UTU,00:18:02.663,00:18:06.501,38732
+INTRODUCTION,52,"I am Joshua Beckman, and I'm the Business Manager for YLC 2010.",i am | i'm,train,9VviAP3FNv4-00:02:15.312-00:02:22.000,9VviAP3FNv4,00:02:15.312,00:02:22.000,61579
+INTRODUCTION,52,I'm Erica West Oyedele and I am the RID Region V Representative.,i am | i'm,valid,0ttF9J-6Gjs-00:01:53.766-00:02:03.300,0ttF9J-6Gjs,00:01:53.766,00:02:03.300,96691
+INTRODUCTION,47,"I'm not an ""angry Black woman"" but I am angry as a human being.",i am | i'm,train,j2iRHiIYtTg-00:01:16.442-00:01:24.850,j2iRHiIYtTg,00:01:16.442,00:01:24.850,8627
+INTRODUCTION,44,"I'm proud to say that I am now a leader, and I want to continue to fight for change in our community.",i am | i'm,train,e1ufQQzu6Xw-00:13:39.402-00:13:49.296,e1ufQQzu6Xw,00:13:39.402,00:13:49.296,69070
+INTRODUCTION,40,"Hello, can you introduce yourself again and where you work?",introduce yourself | introduce | hello,train,ur-HzfnbPSI-00:00:00.100-00:00:04.637,ur-HzfnbPSI,00:00:00.100,00:00:04.637,4166
+INTRODUCTION,39,"Hello, I'm Melissa.",i'm | hello,train,DiuUsIp_HwQ-00:00:00.680-00:00:02.000,DiuUsIp_HwQ,00:00:00.680,00:00:02.000,51754
+INTRODUCTION,39,"Hello, I'm Starla.",i'm | hello,train,_dOtiTnkoxk-00:01:02.496-00:01:05.141,_dOtiTnkoxk,00:01:02.496,00:01:05.141,33939
+INTRODUCTION,39,Hello I'm Jethro Wooddall.,i'm | hello,train,fIbxApGphXU-00:01:19.700-00:01:23.439,fIbxApGphXU,00:01:19.700,00:01:23.439,49022
+INTRODUCTION,39,Hello I'm Randall Smith.,i'm | hello,train,SsQxB7yYxgQ-00:00:33.933-00:00:37.938,SsQxB7yYxgQ,00:00:33.933,00:00:37.938,1012
+INTRODUCTION,39,"Hello, I'm Alicia Lane-Outlaw.",i'm | hello,train,sfNL5tR2Now-00:06:57.386-00:07:01.389,sfNL5tR2Now,00:06:57.386,00:07:01.389,65407
+INTRODUCTION,39,"Hello, I'm Beth Benedict.",i'm | hello,train,iMJ9CjBX7eo-00:03:53.840-00:03:57.020,iMJ9CjBX7eo,00:03:53.840,00:03:57.020,62055
+INTRODUCTION,39,"Hello, I'm David Nathanson.",i'm | hello,train,W-tmsxUXnnE-00:00:45.912-00:00:48.615,W-tmsxUXnnE,00:00:45.912,00:00:48.615,26800
+INTRODUCTION,39,"Hello, I'm Gary Behm.",i'm | hello,train,iD6DQiD2J7I-00:01:43.200-00:01:44.950,iD6DQiD2J7I,00:01:43.200,00:01:44.950,52431
+INTRODUCTION,39,"Hello, I'm Rikki Poynter.",i'm | hello,train,1zRfH_9kqtk-00:00:04.471-00:00:08.074,1zRfH_9kqtk,00:00:04.471,00:00:08.074,30059
+INTRODUCTION,39,"Hello, I'm Robert Sidansky.",i'm | hello,train,iD6DQiD2J7I-00:05:18.310-00:05:21.980,iD6DQiD2J7I,00:05:18.310,00:05:21.980,52383
+INTRODUCTION,39,"Hello, I'm Sherri Collins.",i'm | hello,train,nWclT1A62Ok-00:00:00.760-00:00:03.359,nWclT1A62Ok,00:00:00.760,00:00:03.359,68769
+INTRODUCTION,39,"Hello there, I'm Jonathan Webb.",i'm | hello,train,OsAAjTAdnJ0-00:12:37.715-00:12:44.596,OsAAjTAdnJ0,00:12:37.715,00:12:44.596,43185
+INTRODUCTION,39,"Hello, I'm David O. Reynolds.",i'm | hello,train,2MnvFrB5ljQ-00:00:00.680-00:00:04.120,2MnvFrB5ljQ,00:00:00.680,00:00:04.120,66196
+INTRODUCTION,39,"Hello, I'm Dr. IV Mirus.",i'm | hello,train,ur-HzfnbPSI-00:00:04.637-00:00:07.206,ur-HzfnbPSI,00:00:04.637,00:00:07.206,4156
+INTRODUCTION,39,"Alex: Hello, I'm with Brian Bearden.",i'm | hello,train,3CZ2aZBU_c0-00:00:00.160-00:00:03.660,3CZ2aZBU_c0,00:00:00.160,00:00:03.660,48052
+INTRODUCTION,39,"Hello everyone, I am George Veditz.",i am | hello,train,XS2c07HCdyo-00:00:11.960-00:00:17.980,XS2c07HCdyo,00:00:11.960,00:00:17.980,66035
+INTRODUCTION,39,"Hello, I'm Calvin Rausch, from Minnesota.",i'm | hello,train,W-tmsxUXnnE-00:00:54.320-00:00:59.026,W-tmsxUXnnE,00:00:54.320,00:00:59.026,26749
+INTRODUCTION,39,"Hello, I'm here in Seattle, Washington.",i'm | hello,train,N5aSQrkx1fE-00:01:06.132-00:01:10.403,N5aSQrkx1fE,00:01:06.132,00:01:10.403,9817
+INTRODUCTION,39,"Hello, I'm here today at PTT.",i'm | hello,train,g0_rpTr4a04-00:01:43.302-00:01:49.376,g0_rpTr4a04,00:01:43.302,00:01:49.376,39378
+AGE,45,"Set up goals for when they turn one year old, two years old, three, four, and five.",years old | year old | old,train,hQcvzvur-qE-00:02:20.199-00:02:22.860,hQcvzvur-qE,00:02:20.199,00:02:22.860,68060
+AGE,39,Since I was five years old.,years old | old,train,0ozA6CspdcQ-00:08:11.600-00:08:13.670,0ozA6CspdcQ,00:08:11.600,00:08:13.670,21535
+AGE,39,Are you 50 years old or older?,years old | old,train,JKivR1oXxZU-00:00:00.540-00:00:02.160,JKivR1oXxZU,00:00:00.540,00:00:02.160,60785
+AGE,39,I d say he s 82 years old.,years old | old,train,ey3i9jNcat4-00:02:46.614-00:02:49.020,ey3i9jNcat4,00:02:46.614,00:02:49.020,2938
+AGE,39,I don't know exactly how old it is.,how old | old,train,M4K6TZLLucg-00:02:23.539-00:02:26.639,M4K6TZLLucg,00:02:23.539,00:02:26.639,19070
+AGE,39,My grandma lived up to 107 years old.,years old | old,train,8kr8G6TzCbM-00:04:17.324-00:04:20.954,8kr8G6TzCbM,00:04:17.324,00:04:20.954,1190
+AGE,38,The average age of patients is four years old.,years old | age | old,train,coGgJgh_WM8-00:00:58.539-00:01:03.500,coGgJgh_WM8,00:00:58.539,00:01:03.500,55804
+AGE,38,The children range in age from 2 to 29 years old.,years old | age | old,test,5iRIeHAK9b0-00:04:38.333-00:04:43.033,5iRIeHAK9b0,00:04:38.333,00:04:43.033,97981
+AGE,38,The victims ranged in age from 7 to 72 years old.,years old | age | old,train,X4m_As1COXQ-00:02:43.520-00:02:48.800,X4m_As1COXQ,00:02:43.520,00:02:48.800,58811
+AGE,38,The victims ranged in age from 9 to 52 years old.,years old | age | old,train,zvwULEttdRM-00:00:59.340-00:01:05.040,zvwULEttdRM,00:00:59.340,00:01:05.040,94682
+AGE,38,The children ranged in age from eight months to eight years old.,years old | age | old,train,dAzt--IDaFY-00:00:58.000-00:01:00.640,dAzt--IDaFY,00:00:58.000,00:01:00.640,75124
+AGE,37,Eight years old!,years old | old,train,OzcNFHWNGvM-00:13:34.416-00:13:37.207,OzcNFHWNGvM,00:13:34.416,00:13:37.207,3320
+AGE,37,Eleven years old?,years old | old,train,VKkz-ODRIXY-00:03:08.598-00:03:09.628,VKkz-ODRIXY,00:03:08.598,00:03:09.628,74489
+AGE,37,Five years old?,years old | old,train,0ozA6CspdcQ-00:08:14.072-00:08:15.360,0ozA6CspdcQ,00:08:14.072,00:08:15.360,21543
+AGE,37,She's eleven years old.,years old | old,train,VKkz-ODRIXY-00:03:07.280-00:03:08.599,VKkz-ODRIXY,00:03:07.280,00:03:08.599,74490
+AGE,37,Barrett is 48 years old.,years old | old,train,d2gB2dwOh8Y-00:00:52.018-00:00:54.921,d2gB2dwOh8Y,00:00:52.018,00:00:54.921,43653
+AGE,37,Biden is 77 years old.,years old | old,train,NcyieJ9Yy6Y-00:02:56.960-00:02:59.960,NcyieJ9Yy6Y,00:02:56.960,00:02:59.960,3946
+AGE,37,Cappotelli was 38 years old.,years old | old,train,0Le-U7KC0Vo-00:04:13.659-00:04:16.980,0Le-U7KC0Vo,00:04:13.659,00:04:16.980,93131
+AGE,37,Eubanks was 37 years old.,years old | old,train,sU3oezTO04I-00:03:18.039-00:03:19.680,sU3oezTO04I,00:03:18.039,00:03:19.680,77483
+AGE,37,Ginsburg is 86 years old.,years old | old,train,POKkeQNjFHM-00:01:13.114-00:01:16.909,POKkeQNjFHM,00:01:13.114,00:01:16.909,7174
+AGE,37,Ginsburg is 87 years old.,years old | old,train,NBpYolVo5WQ-00:09:49.822-00:09:53.393,NBpYolVo5WQ,00:09:49.822,00:09:53.393,8321
+AGE,37,He is 18 years old.,years old | old,train,8f-viutNi5s-00:00:24.082-00:00:26.000,8f-viutNi5s,00:00:24.082,00:00:26.000,25385
+AGE,37,He is 22 years old.,years old | old,train,JG5CQ3GLUwo-00:00:45.378-00:00:47.246,JG5CQ3GLUwo,00:00:45.378,00:00:47.246,32155
+AGE,37,He is 57 years old.,years old | old,train,t8AD-WroGuA-00:10:46.102-00:10:48.022,t8AD-WroGuA,00:10:46.102,00:10:48.022,26523
+AGE,37,He is 66 years old.,years old | old,train,6y4R_EYLT4A-00:04:58.964-00:05:01.466,6y4R_EYLT4A,00:04:58.964,00:05:01.466,44960
+DEAF,59,I am deaf.,i am deaf | am deaf | deaf,train,A0TqKW_XJZg-00:07:14.079-00:07:16.000,A0TqKW_XJZg,00:07:14.079,00:07:16.000,40333
+DEAF,59,He knew I am deaf.,i am deaf | am deaf | deaf,train,pvRh3TZcTgE-00:07:59.913-00:08:01.413,pvRh3TZcTgE,00:07:59.913,00:08:01.413,28111
+DEAF,59,I AM DEAF/HARD OF HEARING.,i am deaf | am deaf | deaf,train,kqHPFXwg5lY-00:00:09.640-00:00:12.380,kqHPFXwg5lY,00:00:09.640,00:00:12.380,66737
+DEAF,57,"Hello, my name is Henry and I am deaf.",i am deaf | am deaf | deaf,train,1jOUjpZ8ZzA-00:00:08.375-00:00:16.903,1jOUjpZ8ZzA,00:00:08.375,00:00:16.903,61383
+DEAF,57,"I know I am Deaf, my identity is there.",i am deaf | am deaf | deaf,train,viB8JR7fVxE-00:00:36.659-00:00:40.079,viB8JR7fVxE,00:00:36.659,00:00:40.079,28982
+DEAF,50,"I want to emphasize the ""wet-eyes"" instead of ears because I am Deaf.",i am deaf | am deaf | deaf,train,OzcNFHWNGvM-00:15:41.500-00:15:48.916,OzcNFHWNGvM,00:15:41.500,00:15:48.916,3315
+DEAF,50,Please print the DEAF/HARD OF HEARING MEDICAL PLACARD I AM DEAF/HARD OF HEARING.,i am deaf | am deaf | deaf,train,CnBZlJ39ESQ-00:06:18.480-00:06:29.680,CnBZlJ39ESQ,00:06:18.480,00:06:29.680,64089
+DEAF,50,"Most of the time when people know I am Deaf, the common response is ""Ummm?""",i am deaf | am deaf | deaf,train,sro9u5y2X1Q-00:01:50.420-00:02:00.900,sro9u5y2X1Q,00:01:50.420,00:02:00.900,14948
+DEAF,39,"Obviously, I'm Deaf.",i'm deaf | deaf,train,XyL4sxEiD3E-00:00:47.332-00:00:48.670,XyL4sxEiD3E,00:00:47.332,00:00:48.670,35122
+DEAF,39,I m the only Deaf person here.,deaf person | deaf,train,ey3i9jNcat4-00:00:47.119-00:00:48.960,ey3i9jNcat4,00:00:47.119,00:00:48.960,2433
+DEAF,39,I'm from Hong Kong and I'm deaf.,i'm deaf | deaf,train,u919vf-yghQ-00:11:52.711-00:11:54.714,u919vf-yghQ,00:11:52.711,00:11:54.714,18650
+DEAF,39,"I’m the only deaf person here, ever!",deaf person | deaf,test,Pfr_DqcuqUY-00:02:06.200-00:02:09.066,Pfr_DqcuqUY,00:02:06.200,00:02:09.066,97737
+DEAF,37,She's the only deaf person.,deaf person | deaf,train,xMKtEOWjKlI-00:04:06.645-00:04:08.048,xMKtEOWjKlI,00:04:06.645,00:04:08.048,34602
+DEAF,37,"""Why should the Deaf person also win?",deaf person | deaf,train,ZA3od5mtLvo-00:00:42.460-00:00:44.494,ZA3od5mtLvo,00:00:42.460,00:00:44.494,39199
+DEAF,37,I can hear -- I'm Deaf but I can hear their screams.,i'm deaf | deaf,train,1Dtihc3VSiQ-00:00:50.768-00:00:53.478,1Dtihc3VSiQ,00:00:50.768,00:00:53.478,19986
+DEAF,35,I happened to see a Deaf person I knew.,deaf person | deaf,train,HyGIBdTs9yg-00:25:46.294-00:25:50.464,HyGIBdTs9yg,00:25:46.294,00:25:50.464,2745
+DEAF,35,I m the first Deaf person to hold this belt.,deaf person | deaf,train,ey3i9jNcat4-00:02:02.683-00:02:05.480,ey3i9jNcat4,00:02:02.683,00:02:05.480,2946
+DEAF,35,I saw a Deaf person create a viral animoji video.,deaf person | deaf,train,0av-wKimT9Q-00:00:15.839-00:00:19.100,0av-wKimT9Q,00:00:15.839,00:00:19.100,2655
+DEAF,35,I'm not going to wave and tell them I'm deaf.,i'm deaf | deaf,train,XnozZjAlZ-Y-00:12:01.582-00:12:05.582,XnozZjAlZ-Y,00:12:01.582,00:12:05.582,45855
+DEAF,35,You can t fine a Deaf person for an interpreter.,deaf person | deaf,train,SkqPrjECefg-00:05:06.807-00:05:11.778,SkqPrjECefg,00:05:06.807,00:05:11.778,38109
+DEAF,35,"McCowin: It's a double whammy - I'm black, and I'm deaf.",i'm deaf | deaf,train,w1E3azBnwfc-00:01:44.430-00:01:52.439,w1E3azBnwfc,00:01:44.430,00:01:52.439,70223
+DEAF,35,I wasn't sure if I have permission to drive on the highway and because I am Deaf I didn't hear any radio announcements.,i am deaf | am deaf | deaf,train,PY8a3Q_GB1c-00:08:11.860-00:08:28.100,PY8a3Q_GB1c,00:08:11.860,00:08:28.100,51219
+DEAF,35,"Was he really apologetic, or...how did Tony respond to that quote you said, ""I am deaf, not mute"", what did Tony say about that?",i am deaf | am deaf | deaf,train,ndkxCPRzupg-00:06:43.702-00:06:54.113,ndkxCPRzupg,00:06:43.702,00:06:54.113,42698
+DEAF,33,Many of them are scared to approach a Deaf person.,deaf person | deaf,train,IZYynZw3Epg-00:01:07.000-00:01:10.000,IZYynZw3Epg,00:01:07.000,00:01:10.000,62040
+DEAF,33,"Now, the deaf person has shown improvements with his health.",deaf person | deaf,train,Pbtx_AEvdtU-00:14:00.339-00:14:06.052,Pbtx_AEvdtU,00:14:00.339,00:14:06.052,28306
+LIVE,79,I live in Texas.,i live in | i live | live in | live,train,e1ufQQzu6Xw-00:00:16.518-00:00:22.995,e1ufQQzu6Xw,00:00:16.518,00:00:22.995,69298
+LIVE,79,I live in a house.,i live in | i live | live in | live,train,0KcUZlotmlo-00:03:42.879-00:03:44.280,0KcUZlotmlo,00:03:42.879,00:03:44.280,25482
+LIVE,79,"I live in Jacksonville, Illinois.",i live in | i live | live in | live,train,j2iRHiIYtTg-00:12:02.221-00:12:07.559,j2iRHiIYtTg,00:12:02.221,00:12:07.559,9071
+LIVE,79,"I live in Charlotte, North Carolina.",i live in | i live | live in | live,train,1zRfH_9kqtk-00:00:08.074-00:00:11.111,1zRfH_9kqtk,00:00:08.074,00:00:11.111,30058
+LIVE,79,I live in the west area.,i live in | i live | live in | live,train,wE-HDf4tK9Y-00:02:41.117-00:02:43.081,wE-HDf4tK9Y,00:02:41.117,00:02:43.081,27267
+LIVE,79,"I live in Baxter, the next town.",i live in | i live | live in | live,train,6IlzyR80mU4-00:16:41.291-00:16:45.082,6IlzyR80mU4,00:16:41.291,00:16:45.082,31723
+LIVE,75,I live in America and I live in Kansas.,i live in | i live | live in | live,train,yTktFsVCTgE-00:09:11.457-00:09:17.832,yTktFsVCTgE,00:09:11.457,00:09:17.832,33489
+LIVE,75,I live in Putnam County which is where Cookeville is in.,i live in | i live | live in | live,train,6IlzyR80mU4-00:15:04.625-00:15:13.957,6IlzyR80mU4,00:15:04.625,00:15:13.957,31727
+LIVE,75,JACK: Did they know that I live in an old farmhouse?,i live in | i live | live in | live,train,wdmj6E_faOo-00:02:59.968-00:03:02.657,wdmj6E_faOo,00:02:59.968,00:03:02.657,65941
+LIVE,69,"When you understand someone represents you in your district, you want to tell them: ""I live in your district.",i live in | i live | live in | live,train,t386fjyHvkE-00:06:38.314-00:06:44.360,t386fjyHvkE,00:06:38.314,00:06:44.360,54508
+LIVE,41,I live with my mother at our house.,i live | live,train,8NRDuefNAB8-00:10:19.826-00:10:23.288,8NRDuefNAB8,00:10:19.826,00:10:23.288,47448
+LIVE,39,I currently live in Delaware.,live in | live,train,QAVt8hEdGJs-00:00:37.503-00:00:40.182,QAVt8hEdGJs,00:00:37.503,00:00:40.182,25858
+LIVE,39,We live in East Nashville.,live in | live,train,6IlzyR80mU4-00:12:49.166-00:12:50.707,6IlzyR80mU4,00:12:49.166,00:12:50.707,31784
+LIVE,39,I live at the Meskwaki Settlement.,i live | live,train,pvRh3TZcTgE-00:00:19.820-00:00:24.791,pvRh3TZcTgE,00:00:19.820,00:00:24.791,28005
+LIVE,39,"Regardless where you live, vote early.",where you live | live,train,Nd6Hu3JuOlU-00:06:32.692-00:06:38.130,Nd6Hu3JuOlU,00:06:32.692,00:06:38.130,33430
+LIVE,37,He will live in Northern Virginia.,live in | live,train,wE-HDf4tK9Y-00:07:20.230-00:07:23.901,wE-HDf4tK9Y,00:07:20.230,00:07:23.901,27283
+LIVE,37,"They live in Calgary, Alberta, Canada.",live in | live,train,8f-viutNi5s-00:01:24.292-00:01:28.792,8f-viutNi5s,00:01:24.292,00:01:28.792,25404
+LIVE,37,About 11 million people live in Wuhan.,live in | live,train,SfV-MI0NFxM-00:07:26.312-00:07:31.050,SfV-MI0NFxM,00:07:26.312,00:07:31.050,36691
+LIVE,37,""", ""Where do most senators live in DC?""",live in | live,train,7yYu5s4k8Ig-00:06:45.677-00:06:51.535,7yYu5s4k8Ig,00:06:45.677,00:06:51.535,17059
+LIVE,37,"I live here and my office is here, too.",i live | live,train,t-krQnPN_GY-00:20:27.893-00:20:30.269,t-krQnPN_GY,00:20:27.893,00:20:30.269,27582
+LIVE,37,I'm hungry and I live on the eighth floor of Clerc Dorm.,i live | live,train,8BIEoB8RvEc-00:06:32.040-00:06:36.019,8BIEoB8RvEc,00:06:32.040,00:06:36.019,29834
+LIVE,35,Can you introduce yourself and tell us where you live?,where you live | live,train,1zRfH_9kqtk-00:00:01.000-00:00:04.471,1zRfH_9kqtk,00:00:01.000,00:00:04.471,30060
+LIVE,35,Can you introduce yourself and where you live and work?,where you live | live,train,LdVNY2ze-Yw-00:00:01.034-00:00:05.705,LdVNY2ze-Yw,00:00:01.034,00:00:05.705,35043
+LIVE,35,Do you live in a house or in an apartment?,live in | live,train,0KcUZlotmlo-00:03:39.879-00:03:42.879,0KcUZlotmlo,00:03:39.879,00:03:42.879,25492
+LIVE,35,But we live in a world that is dependent on sound.,live in | live,train,xV3HHRDrwFQ-00:00:14.500-00:00:18.760,xV3HHRDrwFQ,00:00:14.500,00:00:18.760,29178
+FROM,39,I'm from Tennessee.,i'm from | from,train,6IlzyR80mU4-00:15:03.250-00:15:04.625,6IlzyR80mU4,00:15:03.250,00:15:04.625,31716
+FROM,39,&gt;&gt; I'm from Alabama.,i'm from | from,train,e1ufQQzu6Xw-01:07:11.193-01:07:17.126,e1ufQQzu6Xw,01:07:11.193,01:07:17.126,69401
+FROM,39,I am from Philadelphia.,i am from | from,train,nyrUt0INMOA-00:00:08.119-00:00:09.800,nyrUt0INMOA,00:00:08.119,00:00:09.800,66055
+FROM,39,"I'm from Austin, Texas!",i'm from | from,valid,UfLdljKWr2k-00:00:11.600-00:00:13.566,UfLdljKWr2k,00:00:11.600,00:00:13.566,96580
+FROM,39,"I'm from Baltimore, MD.",i'm from | from,train,1opYrIh0eGc-00:01:43.507-00:01:45.037,1opYrIh0eGc,00:01:43.507,00:01:45.037,20345
+FROM,39,"I'm from Hagerstown, Maryland.",i'm from | from,train,n3f7LSYur4s-00:00:47.914-00:00:51.350,n3f7LSYur4s,00:00:47.914,00:00:51.350,48317
+FROM,39,Where are you from?,where are you from | from,train,0KcUZlotmlo-00:09:49.080-00:09:50.159,0KcUZlotmlo,00:09:49.080,00:09:50.159,25197
+FROM,39,"And I'm from Atlanta, Georgia!",i'm from | from,train,UfLdljKWr2k-00:00:14.221-00:00:16.221,UfLdljKWr2k,00:00:14.221,00:00:16.221,61180
+FROM,39,And where are you from?,where are you from | from,train,0KcUZlotmlo-00:12:00.360-00:12:01.639,0KcUZlotmlo,00:12:00.360,00:12:01.639,25286
+FROM,39,"I am from Bakersfield,  California.",i am from | from,train,Y-LR74Vix9M-00:00:42.039-00:00:49.359,Y-LR74Vix9M,00:00:42.039,00:00:49.359,38384
+FROM,39,"I am from Jackson, Mississippi.",i am from | from,train,e1ufQQzu6Xw-00:13:54.437-00:13:59.731,e1ufQQzu6Xw,00:13:54.437,00:13:59.731,69067
+FROM,39,"I am from Jacksonville, Florida.",i am from | from,train,hgi6y5hyASs-00:00:33.533-00:00:36.802,hgi6y5hyASs,00:00:33.533,00:00:36.802,44455
+FROM,39,I'm from New York City.,i'm from | from,train,xMKtEOWjKlI-00:00:42.442-00:00:44.511,xMKtEOWjKlI,00:00:42.442,00:00:44.511,34824
+FROM,39,I'm from the same school.,i'm from | from,train,pQEx6ySX0Bk-00:14:13.994-00:14:15.485,pQEx6ySX0Bk,00:14:13.994,00:14:15.485,7696
+FROM,39,"So, where are you from?",where are you from | from,train,0KcUZlotmlo-00:07:35.959-00:07:37.959,0KcUZlotmlo,00:07:35.959,00:07:37.959,25187
+FROM,39,*Signs his name* I'm from Brazil.,i'm from | from,train,HyGIBdTs9yg-00:10:38.916-00:10:41.974,HyGIBdTs9yg,00:10:38.916,00:10:41.974,2916
+FROM,39,*Signs his name* I'm from China.,i'm from | from,train,HyGIBdTs9yg-00:10:42.947-00:10:45.894,HyGIBdTs9yg,00:10:42.947,00:10:45.894,2914
+FROM,39,"I am from Rochester, New York.",i am from | from,train,hjzOb4_gGLc-00:01:01.261-00:01:04.063,hjzOb4_gGLc,00:01:01.261,00:01:04.063,32645
+FROM,39,I'm from the Marie Philip School.,i'm from | from,train,pQEx6ySX0Bk-00:14:11.283-00:14:13.018,pQEx6ySX0Bk,00:14:11.283,00:14:13.018,7708
+FROM,39,I come from a blue collar background.,come from | from,train,lIE16P1LVhc-00:03:32.039-00:03:33.520,lIE16P1LVhc,00:03:32.039,00:03:33.520,11220
+FROM,39,I'm from Hong Kong and I'm deaf.,i'm from | from,train,u919vf-yghQ-00:11:52.711-00:11:54.714,u919vf-yghQ,00:11:52.711,00:11:54.714,18650
+FROM,39,I'm Joseph Bata and I'm from Minnesota.,i'm from | from,train,W-tmsxUXnnE-00:00:16.216-00:00:25.391,W-tmsxUXnnE,00:00:16.216,00:00:25.391,26808
+FROM,39,I am from France - here in Reims.,i am from | from,train,t-krQnPN_GY-00:18:45.833-00:18:48.460,t-krQnPN_GY,00:18:45.833,00:18:48.460,27562
+FROM,39,"I’m from here, San Francisco, born and raised.",i'm from | from,valid,VvpFqAynbOc-00:00:42.333-00:00:45.700,VvpFqAynbOc,00:00:42.333,00:00:45.700,96636
+FROM,37,Welcome from Chicago!,come from | from,train,pXAADSj4yZk-00:00:05.820-00:00:07.339,pXAADSj4yZk,00:00:05.820,00:00:07.339,52782
+HELLO,57,"Hello, good morning.",hello | good morning,train,T6YFwhrRwh0-00:00:59.292-00:01:01.594,T6YFwhrRwh0,00:00:59.292,00:01:01.594,44244
+HELLO,41,"Hello, we are your Region III Representatives.",hello,train,SMRdEA8MCsc-00:02:14.120-00:02:18.620,SMRdEA8MCsc,00:02:14.120,00:02:18.620,64403
+HELLO,39,"Hello, I'm Melissa.",hello,train,DiuUsIp_HwQ-00:00:00.680-00:00:02.000,DiuUsIp_HwQ,00:00:00.680,00:00:02.000,51754
+HELLO,39,"Hello, I'm Starla.",hello,train,_dOtiTnkoxk-00:01:02.496-00:01:05.141,_dOtiTnkoxk,00:01:02.496,00:01:05.141,33939
+HELLO,39,Can you say hello?,hello,train,K2UvM22_7q8-00:01:44.200-00:01:46.200,K2UvM22_7q8,00:01:44.200,00:01:46.200,22880
+HELLO,39,"Hello everyone, you good?",hello,train,QRxFpSd2_yc-00:00:00.360-00:00:01.919,QRxFpSd2_yc,00:00:00.360,00:00:01.919,69218
+HELLO,39,Hello I'm Jethro Wooddall.,hello,train,fIbxApGphXU-00:01:19.700-00:01:23.439,fIbxApGphXU,00:01:19.700,00:01:23.439,49022
+HELLO,39,Hello I'm Randall Smith.,hello,train,SsQxB7yYxgQ-00:00:33.933-00:00:37.938,SsQxB7yYxgQ,00:00:33.933,00:00:37.938,1012
+HELLO,39,"Hello, I'm Alicia Lane-Outlaw.",hello,train,sfNL5tR2Now-00:06:57.386-00:07:01.389,sfNL5tR2Now,00:06:57.386,00:07:01.389,65407
+HELLO,39,"Hello, I'm Beth Benedict.",hello,train,iMJ9CjBX7eo-00:03:53.840-00:03:57.020,iMJ9CjBX7eo,00:03:53.840,00:03:57.020,62055
+HELLO,39,"Hello, I'm David Nathanson.",hello,train,W-tmsxUXnnE-00:00:45.912-00:00:48.615,W-tmsxUXnnE,00:00:45.912,00:00:48.615,26800
+HELLO,39,"Hello, I'm Gary Behm.",hello,train,iD6DQiD2J7I-00:01:43.200-00:01:44.950,iD6DQiD2J7I,00:01:43.200,00:01:44.950,52431
+HELLO,39,"Hello, I'm Rikki Poynter.",hello,train,1zRfH_9kqtk-00:00:04.471-00:00:08.074,1zRfH_9kqtk,00:00:04.471,00:00:08.074,30059
+HELLO,39,"Hello, I'm Robert Sidansky.",hello,train,iD6DQiD2J7I-00:05:18.310-00:05:21.980,iD6DQiD2J7I,00:05:18.310,00:05:21.980,52383
+HELLO,39,"Hello, I'm Sherri Collins.",hello,train,nWclT1A62Ok-00:00:00.760-00:00:03.359,nWclT1A62Ok,00:00:00.760,00:00:03.359,68769
+HELLO,39,"Hello, what’s your name?",hello,test,fNT8a6e1gx8-00:04:20.100-00:04:21.233,fNT8a6e1gx8,00:04:20.100,00:04:21.233,97576
+HELLO,39,"Hello there, I'm Jonathan Webb.",hello,train,OsAAjTAdnJ0-00:12:37.715-00:12:44.596,OsAAjTAdnJ0,00:12:37.715,00:12:44.596,43185
+HELLO,39,"Hello, I m Jennifer Tandoc.",hello,train,ixq65EiuJ_c-00:00:05.299-00:00:08.936,ixq65EiuJ_c,00:00:05.299,00:00:08.936,10593
+HELLO,39,"Hello, I'm David O. Reynolds.",hello,train,2MnvFrB5ljQ-00:00:00.680-00:00:04.120,2MnvFrB5ljQ,00:00:00.680,00:00:04.120,66196
+HELLO,39,"Hello, I'm Dr. IV Mirus.",hello,train,ur-HzfnbPSI-00:00:04.637-00:00:07.206,ur-HzfnbPSI,00:00:04.637,00:00:07.206,4156
+HELLO,39,"Hello, my name is Donna.",hello,train,tjyvBlXjpq4-00:00:00.840-00:00:02.399,tjyvBlXjpq4,00:00:00.840,00:00:02.399,68248
+HELLO,39,"Hello, my name is Lorne.",hello,train,6vmtT8VJus8-00:00:31.059-00:00:33.079,6vmtT8VJus8,00:00:31.059,00:00:33.079,62958
+HELLO,39,"Hello, my name is Melissa.",hello,train,XYNjr7LMf9g-00:00:00.680-00:00:02.439,XYNjr7LMf9g,00:00:00.680,00:00:02.439,69942
+HELLO,39,"Hello, my name is Nick.",hello,train,0KcUZlotmlo-00:03:32.000-00:03:33.280,0KcUZlotmlo,00:03:32.000,00:03:33.280,25460
+HELLO,39,"Alex: Hello, I'm with Brian Bearden.",hello,train,3CZ2aZBU_c0-00:00:00.160-00:00:03.660,3CZ2aZBU_c0,00:00:00.160,00:00:03.660,48052

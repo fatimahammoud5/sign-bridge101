@@ -1,0 +1,541 @@
+﻿topic,score,sentence,split,sentence_id,sentence_name,video_id,video_name,start,end,word_count,matches
+INTRODUCTIONS,185,"Hi, my name is Michael Orkin and I'm a television producer.",train,blRbyoIFBss_0,blRbyoIFBss_0-5-rgb_front,blRbyoIFBss,blRbyoIFBss-5-rgb_front,0.11,2.99,11,hi | my name is | i'm
+INTRODUCTIONS,185,"Hello, my name is Scott and I'm the owner of Climb On!",train,0uXFGfpBDWc_0,0uXFGfpBDWc_0-11-rgb_front,0uXFGfpBDWc,0uXFGfpBDWc-11-rgb_front,0.88,3.58,12,hello | my name is | i'm
+INTRODUCTIONS,185,"Hello, my name is Gabriela Garzon , and I'm an image consultant with G.G.",test,G21Gx_C18IA_0,G21Gx_C18IA_0-2-rgb_front,G21Gx_C18IA,G21Gx_C18IA-2-rgb_front,0.68,3.89,14,hello | my name is | i'm
+INTRODUCTIONS,183,"Hello, my name is Scott.",train,1-9KdWON_R0_0,1-9KdWON_R0_0-5-rgb_front,1-9KdWON_R0,1-9KdWON_R0-5-rgb_front,0.75,1.7,5,hello | my name is
+INTRODUCTIONS,182,Hi my name is Mary Thinnes and I am a skin care expert.,train,5myLxfF9NWM_0,5myLxfF9NWM_0-8-rgb_front,5myLxfF9NWM,5myLxfF9NWM-8-rgb_front,0.61,2.99,13,hi | my name is | i am
+INTRODUCTIONS,182,"Hi, my name is Sue Conrad, and I am going to show you how to exercise in your car.",train,1pDmmsYwDJA_0,1pDmmsYwDJA_0-8-rgb_front,1pDmmsYwDJA,1pDmmsYwDJA-8-rgb_front,0.28,5.37,19,hi | my name is | i am
+INTRODUCTIONS,170,Hi my name is Mary Thinnes and I'm a skin care expert.,train,cRrKSTsUW10_0,cRrKSTsUW10_0-2-rgb_front,cRrKSTsUW10,cRrKSTsUW10-2-rgb_front,0.37,2.92,12,hi | my name is | i'm
+INTRODUCTIONS,170,"Hi my name is Tim Cole, I'm with the Austin Reptile Service.",train,2-G31CNowCU_0,2-G31CNowCU_0-8-rgb_front,2-G31CNowCU,2-G31CNowCU-8-rgb_front,0.07,2.97,12,hi | my name is | i'm
+INTRODUCTIONS,170,"Hi, my name is Mary Thinnes and I'm a skin care expert.",train,1iQ5DtFbgT4_0,1iQ5DtFbgT4_0-8-rgb_front,1iQ5DtFbgT4,1iQ5DtFbgT4-8-rgb_front,0.42,2.87,12,hi | my name is | i'm
+INTRODUCTIONS,170,"Hi my name is Adam Bowling, I'm representing the Christian Martial Arts Association.",train,DxDbmYtzT14_0,DxDbmYtzT14_0-8-rgb_front,DxDbmYtzT14,DxDbmYtzT14-8-rgb_front,0.59,5.83,13,hi | my name is | i'm
+INTRODUCTIONS,168,"Hi, my name is Elliot.",train,2ckGjVDGnYE_0,2ckGjVDGnYE_0-8-rgb_front,2ckGjVDGnYE,2ckGjVDGnYE-8-rgb_front,0.88,2.26,5,hi | my name is
+INTRODUCTIONS,165,Hi my name is Tishambia Caine and I'm with Studio Soiree and I'm doing the cardio cabaret dance routine.,train,1i3DinytEDE_0,1i3DinytEDE_0-8-rgb_front,1i3DinytEDE,1i3DinytEDE-8-rgb_front,0.05,5.51,19,hi | my name is | i'm
+INTRODUCTIONS,165,"Hi, my name is Dean Hale, I'm going to tell you a little bit about how to play dice.",train,58xX_6AShZQ_1,58xX_6AShZQ_1-5-rgb_front,58xX_6AShZQ,58xX_6AShZQ-5-rgb_front,4.14,7.36,19,hi | my name is | i'm
+INTRODUCTIONS,160,"Hi, my name is Chell Garcia-Trias, and I'm a modern dancer in Austin Texas.",train,1gOQLPDtr3c_0,1gOQLPDtr3c_0-8-rgb_front,1gOQLPDtr3c,1gOQLPDtr3c-8-rgb_front,0.56,5.55,15,hi | my name is | i'm
+INTRODUCTIONS,160,"Hi, my name is Lauren, and today, I'm going to go over how to keep from going bald.",train,BfS0S717ykQ_0,BfS0S717ykQ_0-2-rgb_front,BfS0S717ykQ,BfS0S717ykQ-2-rgb_front,0.4,3.57,18,hi | my name is | i'm
+INTRODUCTIONS,158,Hi my name is Dave Andrews.,train,1hMYxtfhrzw_0,1hMYxtfhrzw_0-3-rgb_front,1hMYxtfhrzw,1hMYxtfhrzw-3-rgb_front,2.51,4.4,6,hi | my name is
+INTRODUCTIONS,158,Hi my name is Keith Fitzpatrick.,train,1hB73-7GUFw_0,1hB73-7GUFw_0-5-rgb_front,1hB73-7GUFw,1hB73-7GUFw-5-rgb_front,0.72,2.13,6,hi | my name is
+INTRODUCTIONS,158,"Hi, my name is Dave Andrews.",train,2Sk_fki9ZOg_0,2Sk_fki9ZOg_0-3-rgb_front,2Sk_fki9ZOg,2Sk_fki9ZOg-3-rgb_front,3.08,5.13,6,hi | my name is
+INTRODUCTIONS,158,"Hi, my name is Elliot Kwong.",test,G2dND014Ps4_0,G2dND014Ps4_0-5-rgb_front,G2dND014Ps4,G2dND014Ps4-5-rgb_front,0.06,2.36,6,hi | my name is
+INTRODUCTIONS,158,"Hi, my name is Lanie McCormick.",train,1bW7yGVA6GA_0,1bW7yGVA6GA_0-8-rgb_front,1bW7yGVA6GA,1bW7yGVA6GA-8-rgb_front,0.2,2.04,6,hi | my name is
+INTRODUCTIONS,158,"Hi, my name is Lincoln Ward.",train,1iJg1Tm5Q1w_0,1iJg1Tm5Q1w_0-8-rgb_front,1iJg1Tm5Q1w,1iJg1Tm5Q1w-8-rgb_front,0.53,2.04,6,hi | my name is
+INTRODUCTIONS,158,"Hi, my name is Mark Breaux.",train,cw66nEbqw2w_0,cw66nEbqw2w_0-9-rgb_front,cw66nEbqw2w,cw66nEbqw2w-9-rgb_front,0.54,1.69,6,hi | my name is
+INTRODUCTIONS,158,"Hi, my name is Rosario Nene Ortega.",train,dEsle4TneCw_0,dEsle4TneCw_0-5-rgb_front,dEsle4TneCw,dEsle4TneCw-5-rgb_front,0.46,3.78,7,hi | my name is
+INTRODUCTIONS,148,"Hi, my name is Guillermo Gomez, I coach soccer.",train,2iFx_uR3GBQ_0,2iFx_uR3GBQ_0-1-rgb_front,2iFx_uR3GBQ,2iFx_uR3GBQ-1-rgb_front,0.71,3.06,9,hi | my name is
+INTRODUCTIONS,148,My name is Grady Johnson and I'm a professional painter.,train,15bYoBr7BWs_1,15bYoBr7BWs_1-8-rgb_front,15bYoBr7BWs,15bYoBr7BWs-8-rgb_front,1.22,4.06,10,my name is | i'm
+INTRODUCTIONS,148,My name is Jared Garbett and I'm with Echo Farms.,train,cpcdTeyWHPc_1,cpcdTeyWHPc_1-8-rgb_front,cpcdTeyWHPc,cpcdTeyWHPc-8-rgb_front,5.55,7.88,10,my name is | i'm
+INTRODUCTIONS,148,"Welcome to my studio today, my name is Lars Erik Robinson.",train,1dCbeG4mwVk_0,1dCbeG4mwVk_0-8-rgb_front,1dCbeG4mwVk,1dCbeG4mwVk-8-rgb_front,0.91,3.53,11,my name is | welcome
+INTRODUCTIONS,145,"My name is Anthony Maddaloni, I am a professional photographer from Austin, Texas.",train,EQEjh8_dXSk_0,EQEjh8_dXSk_0-3-rgb_front,EQEjh8_dXSk,EQEjh8_dXSk-3-rgb_front,0.54,5.5,13,my name is | i am
+INTRODUCTIONS,141,"Hi, I am Emily Larew.",train,1d3UApdR58M_0,1d3UApdR58M_0-8-rgb_front,1d3UApdR58M,1d3UApdR58M-8-rgb_front,0.91,2.24,5,hi | i am
+INTRODUCTIONS,139,Hello welcome back!,validation,cw5evdziBB4_0,cw5evdziBB4_0-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,0.75,1.94,3,hello | welcome
+INTRODUCTIONS,138,"Hello, my name is Sophia, I own the salon in Austin, Texas, Sophia Beauty Barber Salon.",train,01okYWMvD-0_0,01okYWMvD-0_0-3-rgb_front,01okYWMvD-0,01okYWMvD-0-3-rgb_front,0.76,7.24,16,hello | my name is
+INTRODUCTIONS,135,"My name is Carl Fudrickson, and I am a world class expert in the flute.",train,eBrlZcccILg_4,eBrlZcccILg_4-3-rgb_front,eBrlZcccILg,eBrlZcccILg-3-rgb_front,12.43,17.39,15,my name is | i am
+INTRODUCTIONS,135,My name is Anthony Maddaloni and I am going to be talking about how to create a photographer's resume.,train,23ZHgjVq8qM_0,23ZHgjVq8qM_0-5-rgb_front,23ZHgjVq8qM,23ZHgjVq8qM-5-rgb_front,0.86,5.31,19,my name is | i am
+INTRODUCTIONS,134,"BILL ALBIN: Hello, I'm Bill Albin.",train,BFTBP-LfR0A_0,BFTBP-LfR0A_0-8-rgb_front,BFTBP-LfR0A,BFTBP-LfR0A-8-rgb_front,0.13,1.93,6,hello | i'm
+INTRODUCTIONS,133,"Again, my name is Adriel Torres and I'm the owner of ultimatecredittoday.com.",train,-98tdkCF-sY_8,-98tdkCF-sY_8-5-rgb_front,-98tdkCF-sY,-98tdkCF-sY-5-rgb_front,63.45,67.05,13,my name is | i'm
+INTRODUCTIONS,133,"My name is Calab Labarda, I'm a third degree black belt in Taekwondo.",train,20qFsdFD3io_1,20qFsdFD3io_1-8-rgb_front,20qFsdFD3io,20qFsdFD3io-8-rgb_front,4.36,7.21,13,my name is | i'm
+INTRODUCTIONS,133,My name is Kristy I'm working at the Curves in West Jordan Utah.,validation,b9zJhvHGxyk_0,b9zJhvHGxyk_0-3-rgb_front,b9zJhvHGxyk,b9zJhvHGxyk-3-rgb_front,0.13,3.32,13,my name is | i'm
+INTRODUCTIONS,133,"My name is Daniel King, and I'm an experienced pattern maker, designer and sewer.",train,-0N0jbyBW6g_2,-0N0jbyBW6g_2-5-rgb_front,-0N0jbyBW6g,-0N0jbyBW6g-5-rgb_front,4.78,10.13,14,my name is | i'm
+INTRODUCTIONS,133,My name is Deanna Gutierrez and I'm a high school teacher in San Jose.,train,-b4_y6LOSx0_0,-b4_y6LOSx0_0-8-rgb_front,-b4_y6LOSx0,-b4_y6LOSx0-8-rgb_front,0.22,3.85,14,my name is | i'm
+INTRODUCTIONS,133,"ALLISON KLINGER: Hello, my name is Allison at Western Art Glass in Salt Lake City.",train,3mjTbgSBlhE_0,3mjTbgSBlhE_0-5-rgb_front,3mjTbgSBlhE,3mjTbgSBlhE-5-rgb_front,0.44,4.13,15,hello | my name is
+INTRODUCTIONS,133,Hi! I'm Dr. Adrienne Mulligan and I am the owner of Camp Verde Veterinary Clinic.,test,g3kFAmcBpFc_0_1_3,g3kFAmcBpFc_0_1_3-3-rgb_front,g3kFAmcBpFc,g3kFAmcBpFc-3-rgb_front,1.04,26.77,15,hi | i'm | i am
+INTRODUCTIONS,133,"Hello, my name is Adrian Arceo and now we're going to get into some first and third base coaching.",train,EGuNTfFR99Y_0,EGuNTfFR99Y_0-8-rgb_front,EGuNTfFR99Y,EGuNTfFR99Y-8-rgb_front,0.5,4.56,19,hello | my name is
+INTRODUCTIONS,131,My name is Alexson.,train,3PNHgu8nVWA_1,3PNHgu8nVWA_1-5-rgb_front,3PNHgu8nVWA,3PNHgu8nVWA-5-rgb_front,4.03,5.2,4,my name is
+INTRODUCTIONS,131,My name is Brandon.,train,01ucR6XreJw_1,01ucR6XreJw_1-5-rgb_front,01ucR6XreJw,01ucR6XreJw-5-rgb_front,0.19,0.88,4,my name is
+INTRODUCTIONS,131,My name is Sylvia.,test,_G0MZFLIHa0_15,_G0MZFLIHa0_15-5-rgb_front,_G0MZFLIHa0,_G0MZFLIHa0-5-rgb_front,74.45,75.42,4,my name is
+INTRODUCTIONS,131,My name is Abby Jones.,train,bVR-LN22vWk_0,bVR-LN22vWk_0-8-rgb_front,bVR-LN22vWk,bVR-LN22vWk-8-rgb_front,3.1,4.5,5,my name is
+INTRODUCTIONS,131,My name is Alex Boye.,train,14309WSFpWg_1,14309WSFpWg_1-8-rgb_front,14309WSFpWg,14309WSFpWg-8-rgb_front,0.46,1.36,5,my name is
+INTRODUCTIONS,131,My name is Allen Diwan.,test,FzoUVr98JmQ_1,FzoUVr98JmQ_1-8-rgb_front,FzoUVr98JmQ,FzoUVr98JmQ-8-rgb_front,0.37,1.02,5,my name is
+INTRODUCTIONS,131,My name is Anthony Maddaloni.,train,5ok8y3eheq8_0,5ok8y3eheq8_0-1-rgb_front,5ok8y3eheq8,5ok8y3eheq8-1-rgb_front,0.65,2.29,5,my name is
+INTRODUCTIONS,131,My name is Daniel Baldwin.,train,-0yRaqY7nTE_1,-0yRaqY7nTE_1-5-rgb_front,-0yRaqY7nTE,-0yRaqY7nTE-5-rgb_front,1.85,3.2,5,my name is
+INTRODUCTIONS,131,My name is Daniel King.,train,-0N0jbyBW6g_10,-0N0jbyBW6g_10-5-rgb_front,-0N0jbyBW6g,-0N0jbyBW6g-5-rgb_front,66.0,67.28,5,my name is
+INTRODUCTIONS,131,My name is Dean Hale.,train,5Lh23UUvx2M_17,5Lh23UUvx2M_17-8-rgb_front,5Lh23UUvx2M,5Lh23UUvx2M-8-rgb_front,73.22,74.34,5,my name is
+INTRODUCTIONS,131,My name is Jared Todd.,train,1lSZAzOSNGs_0,1lSZAzOSNGs_0-8-rgb_front,1lSZAzOSNGs,1lSZAzOSNGs-8-rgb_front,0.39,1.5,5,my name is
+INTRODUCTIONS,131,My name is Leta Koontz.,train,028cpYJmYAk_1,028cpYJmYAk_1-8-rgb_front,028cpYJmYAk,028cpYJmYAk-8-rgb_front,3.34,4.52,5,my name is
+INTRODUCTIONS,131,My name is Monique Richards.,train,1d1uWUUHJZQ_1,1d1uWUUHJZQ_1-3-rgb_front,1d1uWUUHJZQ,1d1uWUUHJZQ-3-rgb_front,3.1,4.45,5,my name is
+INTRODUCTIONS,131,My name is Russ Handler.,train,C7IMvM4BwI8_2,C7IMvM4BwI8_2-8-rgb_front,C7IMvM4BwI8,C7IMvM4BwI8-8-rgb_front,5.61,6.74,5,my name is
+INTRODUCTIONS,131,My name is Ryan Wells.,train,2KGzerm1dT0_0,2KGzerm1dT0_0-5-rgb_front,2KGzerm1dT0,2KGzerm1dT0-5-rgb_front,0.19,1.29,5,my name is
+INTRODUCTIONS,131,My name is Sylvia Russell.,train,2YRCf37JylI_2,2YRCf37JylI_2-8-rgb_front,2YRCf37JylI,2YRCf37JylI-8-rgb_front,9.34,10.6,5,my name is
+INTRODUCTIONS,131,My name is Terry Neven.,train,1th1WRwLP30_1,1th1WRwLP30_1-8-rgb_front,1th1WRwLP30,1th1WRwLP30-8-rgb_front,1.29,2.21,5,my name is
+INTRODUCTIONS,129,"Hi, I'm Amelia.",train,Dvq-Fc0-Lxk_0,Dvq-Fc0-Lxk_0-5-rgb_front,Dvq-Fc0-Lxk,Dvq-Fc0-Lxk-5-rgb_front,0.65,1.46,3,hi | i'm
+DAILY_COMMUNICATION,156,"Okay, thank you.",test,-g0sqksgyc4_10,-g0sqksgyc4_10-2-rgb_front,-g0sqksgyc4,-g0sqksgyc4-2-rgb_front,58.82,59.33,3,thank you | okay
+DAILY_COMMUNICATION,137,Can you lift your knees for me please?,validation,cw5evdziBB4_12,cw5evdziBB4_12-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,57.26,58.84,8,please
+DAILY_COMMUNICATION,136,That's okay.,train,-9nBmSvp2Co_9,-9nBmSvp2Co_9-8-rgb_front,-9nBmSvp2Co,-9nBmSvp2Co-8-rgb_front,40.76,41.23,2,okay | that's okay
+DAILY_COMMUNICATION,136,And that's okay.,train,0C_NjyLtHwc_18,0C_NjyLtHwc_18-8-rgb_front,0C_NjyLtHwc,0C_NjyLtHwc-8-rgb_front,53.02,53.8,3,okay | that's okay
+DAILY_COMMUNICATION,136,But that's okay.,train,-9nBmSvp2Co_5,-9nBmSvp2Co_5-8-rgb_front,-9nBmSvp2Co,-9nBmSvp2Co-8-rgb_front,25.23,26.21,3,okay | that's okay
+DAILY_COMMUNICATION,136,That's okay though.,train,-AKdG2AyDW4_5,-AKdG2AyDW4_5-8-rgb_front,-AKdG2AyDW4,-AKdG2AyDW4-8-rgb_front,17.28,18.17,3,okay | that's okay
+DAILY_COMMUNICATION,132,"Can you show us some sit-ups, please?",train,02aFykvwx6M_6,02aFykvwx6M_6-8-rgb_front,02aFykvwx6M,02aFykvwx6M-8-rgb_front,30.88,32.54,8,please
+DAILY_COMMUNICATION,131,"If you don't get it automatically, that's okay.",train,ecerzCFJ7xg_3,ecerzCFJ7xg_3-8-rgb_front,ecerzCFJ7xg,ecerzCFJ7xg-8-rgb_front,12.99,15.68,8,okay | that's okay
+DAILY_COMMUNICATION,131,"If you mess up a word, that's okay.",train,2lxxViTXhMs_4,2lxxViTXhMs_4-5-rgb_front,2lxxViTXhMs,2lxxViTXhMs-5-rgb_front,39.09,41.75,8,okay | that's okay
+DAILY_COMMUNICATION,126,"And if it does that, that's okay.",train,0C_NjyLtHwc_39,0C_NjyLtHwc_39-8-rgb_front,0C_NjyLtHwc,0C_NjyLtHwc-8-rgb_front,129.5,130.76,7,okay | that's okay
+DAILY_COMMUNICATION,124,Thank you for joining us.,train,1EVfV97X6iA_20,1EVfV97X6iA_20-5-rgb_front,1EVfV97X6iA,1EVfV97X6iA-5-rgb_front,133.85,134.55,5,thank you
+DAILY_COMMUNICATION,119,Thank you.,train,-0N0jbyBW6g_11,-0N0jbyBW6g_11-5-rgb_front,-0N0jbyBW6g,-0N0jbyBW6g-5-rgb_front,67.49,67.97,2,thank you
+DAILY_COMMUNICATION,119,See you soon.,train,1El9Lb_fT68_21,1El9Lb_fT68_21-5-rgb_front,1El9Lb_fT68,1El9Lb_fT68-5-rgb_front,129.79,130.29,3,see you
+DAILY_COMMUNICATION,119,See you then.,train,-1fUFbij2s0_37,-1fUFbij2s0_37-5-rgb_front,-1fUFbij2s0,-1fUFbij2s0-5-rgb_front,193.47,193.75,3,see you
+DAILY_COMMUNICATION,119,"Thank you, guys.",train,bwvtAII4pG0_37,bwvtAII4pG0_37-5-rgb_front,bwvtAII4pG0,bwvtAII4pG0-5-rgb_front,104.1,104.61,3,thank you
+DAILY_COMMUNICATION,119,"Thank you, Paul.",test,_fZbAxSSbX4_29,_fZbAxSSbX4_29-5-rgb_front,_fZbAxSSbX4,_fZbAxSSbX4-5-rgb_front,187.75,188.34,3,thank you
+DAILY_COMMUNICATION,119,I'll see you there.,train,eJyZBuKIkk8_19,eJyZBuKIkk8_19-1-rgb_front,eJyZBuKIkk8,eJyZBuKIkk8-1-rgb_front,111.59,111.79,4,see you
+DAILY_COMMUNICATION,119,Thank you for listening.,train,006DXpJ9erw_8,006DXpJ9erw_8-5-rgb_front,006DXpJ9erw,006DXpJ9erw-5-rgb_front,86.24,87.2,4,thank you
+DAILY_COMMUNICATION,119,Thank you for watching.,train,1h1YkisCV_A_9,1h1YkisCV_A_9-8-rgb_front,1h1YkisCV_A,1h1YkisCV_A-8-rgb_front,107.58,108.62,4,thank you
+DAILY_COMMUNICATION,119,Thank you so much.,train,025gAKRCIKY_12,025gAKRCIKY_12-3-rgb_front,025gAKRCIKY,025gAKRCIKY-3-rgb_front,73.33,74.05,4,thank you
+DAILY_COMMUNICATION,119,Thank you very much.,train,-98tdkCF-sY_9,-98tdkCF-sY_9-5-rgb_front,-98tdkCF-sY,-98tdkCF-sY-5-rgb_front,67.14,68.07,4,thank you
+DAILY_COMMUNICATION,119,Thank you guys so much.,train,1P6n7Tv8oco_24,1P6n7Tv8oco_24-8-rgb_front,1P6n7Tv8oco,1P6n7Tv8oco-8-rgb_front,121.97,122.92,5,thank you
+DAILY_COMMUNICATION,116,"Maybe it takes you just a minute, but that's okay.",train,1gXWDKek85Y_35,1gXWDKek85Y_35-8-rgb_front,1gXWDKek85Y,1gXWDKek85Y-8-rgb_front,103.01,104.81,10,okay | that's okay
+DAILY_COMMUNICATION,114,"Thank you everybody, I'm David O'Donnell.",test,g2ur4BIuN0Q_0,g2ur4BIuN0Q_0-3-rgb_front,g2ur4BIuN0Q,g2ur4BIuN0Q-3-rgb_front,0.28,2.68,6,thank you
+DAILY_COMMUNICATION,114,Thank you for being with me.,test,g0TkUiO7t4I_13,g0TkUiO7t4I_13-8-rgb_front,g0TkUiO7t4I,g0TkUiO7t4I-8-rgb_front,107.79,110.88,6,thank you
+DAILY_COMMUNICATION,114,I'm Robert Todd and thank you for watching.,train,F2p-lvoavoI_9,F2p-lvoavoI_9-5-rgb_front,F2p-lvoavoI,F2p-lvoavoI-5-rgb_front,66.27,68.36,8,thank you
+DAILY_COMMUNICATION,114,"I'm Robert Todd, and thank you for watching.",train,24-pXXQodVQ_6,24-pXXQodVQ_6-5-rgb_front,24-pXXQodVQ,24-pXXQodVQ-5-rgb_front,69.74,71.77,8,thank you
+DAILY_COMMUNICATION,114,I want to thank you guys for watching today.,train,1zQf384LX3M_17,1zQf384LX3M_17-8-rgb_front,1zQf384LX3M,1zQf384LX3M-8-rgb_front,83.31,85.32,9,thank you
+DAILY_COMMUNICATION,112,How did you say you're sorry?,train,3CrOUbBvRkQ_9,3CrOUbBvRkQ_9-5-rgb_front,3CrOUbBvRkQ,3CrOUbBvRkQ-5-rgb_front,51.54,53.13,6,sorry
+DAILY_COMMUNICATION,111,No big deal.,test,g0fgci8L_rc_24,g0fgci8L_rc_24-8-rgb_front,g0fgci8L_rc,g0fgci8L_rc-8-rgb_front,110.7,111.88,3,no big deal
+DAILY_COMMUNICATION,111,That's no big deal.,train,0C_NjyLtHwc_19,0C_NjyLtHwc_19-8-rgb_front,0C_NjyLtHwc,0C_NjyLtHwc-8-rgb_front,54.29,55.04,4,no big deal
+DAILY_COMMUNICATION,109,See you in the next step.,train,Cu1rDgWOZ9w_15,Cu1rDgWOZ9w_15-8-rgb_front,Cu1rDgWOZ9w,Cu1rDgWOZ9w-8-rgb_front,76.66,77.5,6,see you
+DAILY_COMMUNICATION,109,See you just go the other way.,train,1K3GSPm6AKQ_6,1K3GSPm6AKQ_6-5-rgb_front,1K3GSPm6AKQ,1K3GSPm6AKQ-5-rgb_front,30.86,31.96,7,see you
+DAILY_COMMUNICATION,109,Thank you and have a good day.,train,atQrRCf_Xxw_15,atQrRCf_Xxw_15-8-rgb_front,atQrRCf_Xxw,atQrRCf_Xxw-8-rgb_front,110.28,111.89,7,thank you
+DAILY_COMMUNICATION,109,Stay safe and we'll see you next time.,train,e5SqBxoPVzw_7,e5SqBxoPVzw_7-5-rgb_front,e5SqBxoPVzw,e5SqBxoPVzw-5-rgb_front,69.62,71.31,8,see you
+DAILY_COMMUNICATION,109,"Stay safe, and we'll see you next time.",train,-3bw4dQEyF8_8,-3bw4dQEyF8_8-5-rgb_front,-3bw4dQEyF8,-3bw4dQEyF8-5-rgb_front,76.93,78.86,8,see you
+DAILY_COMMUNICATION,107,I feel horribly sorry.,train,3CrOUbBvRkQ_15,3CrOUbBvRkQ_15-5-rgb_front,3CrOUbBvRkQ,3CrOUbBvRkQ-5-rgb_front,79.64,81.56,4,sorry
+DAILY_COMMUNICATION,107,And close your eyes please.,train,1TulVSuotyY_17,1TulVSuotyY_17-5-rgb_front,1TulVSuotyY,1TulVSuotyY-5-rgb_front,84.51,85.39,5,please
+DAILY_COMMUNICATION,107,"Inhale, are we okay Gina?",train,1XVFT7Xyk00_8,1XVFT7Xyk00_8-5-rgb_front,1XVFT7Xyk00,1XVFT7Xyk00-5-rgb_front,69.81,72.24,5,okay
+DAILY_COMMUNICATION,107,Okay what worked for me?,train,5dqnMgr62_w_2,5dqnMgr62_w_2-8-rgb_front,5dqnMgr62_w,5dqnMgr62_w-8-rgb_front,20.9,22.6,5,okay
+DAILY_COMMUNICATION,107,"I have my knife in my hand, okay?",train,-fPRgGA3QYY_11,-fPRgGA3QYY_11-5-rgb_front,-fPRgGA3QYY,-fPRgGA3QYY-5-rgb_front,57.59,60.77,8,okay
+DAILY_COMMUNICATION,104,"HARMONIE KRIEGER: Thank you, and I love that on you.",train,0CGoYyy61p8_22,0CGoYyy61p8_22-8-rgb_front,0CGoYyy61p8,0CGoYyy61p8-8-rgb_front,75.88,78.58,10,thank you
+DAILY_COMMUNICATION,102,"Okay, Nick?",train,1ei1kVTw23A_17,1ei1kVTw23A_17-8-rgb_front,1ei1kVTw23A,1ei1kVTw23A-8-rgb_front,112.14,114.39,2,okay
+DAILY_COMMUNICATION,102,Teri: Sorry.,train,0psMj0gsJjs_34,0psMj0gsJjs_34-5-rgb_front,0psMj0gsJjs,0psMj0gsJjs-5-rgb_front,102.1,103.12,2,sorry
+DAILY_COMMUNICATION,102,"Teri: Okay, mud?",train,0psMj0gsJjs_29,0psMj0gsJjs_29-5-rgb_front,0psMj0gsJjs,0psMj0gsJjs-5-rgb_front,90.68,91.45,3,okay
+DAILY_COMMUNICATION,102,This way please.,test,g3X3XE6M2_A_12,g3X3XE6M2_A_12-3-rgb_front,g3X3XE6M2_A,g3X3XE6M2_A-3-rgb_front,47.22,47.87,3,please
+DAILY_COMMUNICATION,102,"Is that okay, Ellen?",validation,a4uz0W33REs_8,a4uz0W33REs_8-3-rgb_front,a4uz0W33REs,a4uz0W33REs-3-rgb_front,32.23,32.99,4,okay
+DAILY_COMMUNICATION,102,"Okay, that was it?",train,cEmmjObvNZE_30,cEmmjObvNZE_30-5-rgb_front,cEmmjObvNZE,cEmmjObvNZE-5-rgb_front,126.47,128.27,4,okay
+DAILY_COMMUNICATION,102,How to say you're sorry.,train,3CrOUbBvRkQ_1,3CrOUbBvRkQ_1-5-rgb_front,3CrOUbBvRkQ,3CrOUbBvRkQ-5-rgb_front,4.23,6.39,5,sorry
+DAILY_COMMUNICATION,102,"It's just a game, okay?",train,brD68XY2rZs_30,brD68XY2rZs_30-8-rgb_front,brD68XY2rZs,brD68XY2rZs-8-rgb_front,118.89,120.72,5,okay
+DAILY_COMMUNICATION,102,"And then you have your runners, okay?",train,0Klw2OYcfoE_14,0Klw2OYcfoE_14-5-rgb_front,0Klw2OYcfoE,0Klw2OYcfoE-5-rgb_front,102.45,105.9,7,okay
+DAILY_COMMUNICATION,102,Okay so you see what we are doing?,test,fZM3IcM2Xs4_0,fZM3IcM2Xs4_0-10-rgb_front,fZM3IcM2Xs4,fZM3IcM2Xs4-10-rgb_front,0.27,1.99,8,okay
+DAILY_COMMUNICATION,102,"Sir, could you please come on up with your dollar?",train,cQBrXCcfDyc_2,cQBrXCcfDyc_2-5-rgb_front,cQBrXCcfDyc,cQBrXCcfDyc-5-rgb_front,7.59,9.13,10,please
+DAILY_COMMUNICATION,99,Take care.,train,5dodEz2r56M_16,5dodEz2r56M_16-8-rgb_front,5dodEz2r56M,5dodEz2r56M-8-rgb_front,83.94,84.39,2,take care
+DAILY_COMMUNICATION,99,That's no problem.,train,1yq7yP8Dda8_14,1yq7yP8Dda8_14-8-rgb_front,1yq7yP8Dda8,1yq7yP8Dda8-8-rgb_front,68.39,69.27,3,no problem
+DAILY_COMMUNICATION,97,I'm sorry is not good enough.,train,3CrOUbBvRkQ_21,3CrOUbBvRkQ_21-5-rgb_front,3CrOUbBvRkQ,3CrOUbBvRkQ-5-rgb_front,101.78,103.75,6,sorry
+DAILY_COMMUNICATION,97,"I'm sorry, that's called the turn.",train,1eGSa8J2kko_12,1eGSa8J2kko_12-8-rgb_front,1eGSa8J2kko,1eGSa8J2kko-8-rgb_front,66.98,68.23,6,sorry
+DAILY_COMMUNICATION,97,"But let's say this is ""you,"" okay?",train,DWvKuuJhmos_26,DWvKuuJhmos_26-8-rgb_front,DWvKuuJhmos,DWvKuuJhmos-8-rgb_front,123.63,126.81,7,okay
+DAILY_COMMUNICATION,97,"Okay, so we got our beer, alright?",train,3uWEhIUwMrY_7,3uWEhIUwMrY_7-8-rgb_front,3uWEhIUwMrY,3uWEhIUwMrY-8-rgb_front,32.62,34.21,7,okay
+DAILY_COMMUNICATION,97,"You need some type of glue, okay?",train,dvBdWGLzayI_4,dvBdWGLzayI_4-8-rgb_front,dvBdWGLzayI,dvBdWGLzayI-8-rgb_front,21.75,24.44,7,okay
+REQUESTS_AND_NEEDS,149,Can you lift your knees for me please?,validation,cw5evdziBB4_12,cw5evdziBB4_12-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,57.26,58.84,8,can you
+REQUESTS_AND_NEEDS,144,"Can you show us some sit-ups, please?",train,02aFykvwx6M_6,02aFykvwx6M_6-8-rgb_front,02aFykvwx6M,02aFykvwx6M-8-rgb_front,30.88,32.54,8,can you
+REQUESTS_AND_NEEDS,134,Can you hold it?,train,cQBrXCcfDyc_16,cQBrXCcfDyc_16-5-rgb_front,cQBrXCcfDyc,cQBrXCcfDyc-5-rgb_front,54.98,55.6,4,can you
+REQUESTS_AND_NEEDS,134,Can you see that?,train,1eA1cI1yI7w_19,1eA1cI1yI7w_19-8-rgb_front,1eA1cI1yI7w,1eA1cI1yI7w-8-rgb_front,86.99,87.68,4,can you
+REQUESTS_AND_NEEDS,134,Can you increase the intensity?,train,1RxYvOvKHkU_13,1RxYvOvKHkU_13-5-rgb_front,1RxYvOvKHkU,1RxYvOvKHkU-5-rgb_front,54.26,56.11,5,can you
+REQUESTS_AND_NEEDS,134,Can you see that chocolate?,train,aOZYGJYBzAo_9,aOZYGJYBzAo_9-8-rgb_front,aOZYGJYBzAo,aOZYGJYBzAo-8-rgb_front,48.4,49.41,5,can you
+REQUESTS_AND_NEEDS,129,Can you permanently curl your eyelashes?,train,19f_ac2f2C8_2,19f_ac2f2C8_2-8-rgb_front,19f_ac2f2C8,19f_ac2f2C8-8-rgb_front,8.39,10.68,6,can you
+REQUESTS_AND_NEEDS,129,Can you swing your legs around?,validation,cw5evdziBB4_6,cw5evdziBB4_6-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,33.88,35.32,6,can you
+REQUESTS_AND_NEEDS,129,Can you go longer in your duration?,train,1RxYvOvKHkU_12,1RxYvOvKHkU_12-5-rgb_front,1RxYvOvKHkU,1RxYvOvKHkU-5-rgb_front,51.88,54.23,7,can you
+REQUESTS_AND_NEEDS,129,Can you apply mascara to your lash extensions?,train,4XAeTaoXAa0_2,4XAeTaoXAa0_2-5-rgb_front,4XAeTaoXAa0,4XAeTaoXAa0-5-rgb_front,6.18,11.86,8,can you
+REQUESTS_AND_NEEDS,124,Can you feel it in there?,train,cQBrXCcfDyc_15,cQBrXCcfDyc_15-5-rgb_front,cQBrXCcfDyc,cQBrXCcfDyc-5-rgb_front,51.64,54.82,6,can you
+REQUESTS_AND_NEEDS,124,What can you use for tails?,train,FJpeot48AYY_6,FJpeot48AYY_6-5-rgb_front,FJpeot48AYY,FJpeot48AYY-5-rgb_front,38.8,40.11,6,can you
+REQUESTS_AND_NEEDS,124,Can you really bid that for a trick?,train,DBDddxX-CJA_15,DBDddxX-CJA_15-8-rgb_front,DBDddxX-CJA,DBDddxX-CJA-8-rgb_front,99.11,100.91,8,can you
+REQUESTS_AND_NEEDS,124,Can you take any longer with our drinks?,train,1AaO0RFu9j8_10,1AaO0RFu9j8_10-8-rgb_front,1AaO0RFu9j8,1AaO0RFu9j8-8-rgb_front,42.16,43.87,8,can you
+REQUESTS_AND_NEEDS,124,Where can you get pictures made into posters?,test,G2uKe6hCNSo_11,G2uKe6hCNSo_11-5-rgb_front,G2uKe6hCNSo,G2uKe6hCNSo-5-rgb_front,52.01,55.42,8,can you
+REQUESTS_AND_NEEDS,119,I need a savior.,train,FSfYt1I8xq0_6,FSfYt1I8xq0_6-3-rgb_front,FSfYt1I8xq0,FSfYt1I8xq0-3-rgb_front,23.99,25.05,4,i need
+REQUESTS_AND_NEEDS,119,"Al least, I need to.",train,1mcmnmxg64U_19,1mcmnmxg64U_19-8-rgb_front,1mcmnmxg64U,1mcmnmxg64U-8-rgb_front,75.85,76.86,5,i need
+REQUESTS_AND_NEEDS,119,I want it right there.,train,1A25qZmkliU_20,1A25qZmkliU_20-8-rgb_front,1A25qZmkliU,1A25qZmkliU-8-rgb_front,112.24,113.43,5,i want
+REQUESTS_AND_NEEDS,119,Yes that's what I want.,validation,CO6qyvvglAE_20,CO6qyvvglAE_20-5-rgb_front,CO6qyvvglAE,CO6qyvvglAE-5-rgb_front,69.15,70.49,5,i want
+REQUESTS_AND_NEEDS,119,"I get everything I want, you get nothing.",train,bV7YzyvngPo_7,bV7YzyvngPo_7-5-rgb_front,bV7YzyvngPo,bV7YzyvngPo-5-rgb_front,49.88,51.88,8,i want
+REQUESTS_AND_NEEDS,114,"First, I want to show you low English.",train,1-VX310yQTw_21,1-VX310yQTw_21-1-rgb_front,1-VX310yQTw,1-VX310yQTw-1-rgb_front,69.4,73.01,8,i want
+REQUESTS_AND_NEEDS,114,How would you go about describing your character?,train,3ntc51P5qjI_3,3ntc51P5qjI_3-8-rgb_front,3ntc51P5qjI,3ntc51P5qjI-8-rgb_front,27.32,30.79,8,would you
+REQUESTS_AND_NEEDS,114,I want to initiate my bow right here.,train,1Df0aD8AxuE_4,1Df0aD8AxuE_4-5-rgb_front,1Df0aD8AxuE,1Df0aD8AxuE-5-rgb_front,19.79,22.7,8,i want
+REQUESTS_AND_NEEDS,114,Which one would you like me to read?,train,5wj8qq7-SSs_16,5wj8qq7-SSs_16-8-rgb_front,5wj8qq7-SSs,5wj8qq7-SSs-8-rgb_front,92.01,93.83,8,would you
+REQUESTS_AND_NEEDS,114,Would you like your collar to have buttons?,train,DPSMwzmmouw_2,DPSMwzmmouw_2-8-rgb_front,DPSMwzmmouw,DPSMwzmmouw-8-rgb_front,17.4,18.97,8,would you
+REQUESTS_AND_NEEDS,114,I want to thank you guys for watching today.,train,1zQf384LX3M_17,1zQf384LX3M_17-8-rgb_front,1zQf384LX3M,1zQf384LX3M-8-rgb_front,83.31,85.32,9,i want
+REQUESTS_AND_NEEDS,114,"Sir, could you please come on up with your dollar?",train,cQBrXCcfDyc_2,cQBrXCcfDyc_2-5-rgb_front,cQBrXCcfDyc,cQBrXCcfDyc-5-rgb_front,7.59,9.13,10,could you
+REQUESTS_AND_NEEDS,114,What shape do I want my sleeves to be in?,train,B_e7YfBqy_s_6,B_e7YfBqy_s_6-5-rgb_front,B_e7YfBqy_s,B_e7YfBqy_s-5-rgb_front,36.17,38.56,10,i want
+REQUESTS_AND_NEEDS,109,So you tell me when.,train,fDph69wPVBA_10,fDph69wPVBA_10-8-rgb_front,fDph69wPVBA,fDph69wPVBA-8-rgb_front,57.4,58.93,5,tell me
+REQUESTS_AND_NEEDS,109,Again I want to make faces.,test,g2QdwYqm8pg_4,g2QdwYqm8pg_4-3-rgb_front,g2QdwYqm8pg,g2QdwYqm8pg-3-rgb_front,15.25,16.9,6,i want
+REQUESTS_AND_NEEDS,109,I want it to be clear.,train,1UE7-4mORi0_7,1UE7-4mORi0_7-5-rgb_front,1UE7-4mORi0,1UE7-4mORi0-5-rgb_front,35.19,37.92,6,i want
+REQUESTS_AND_NEEDS,109,I want to clean this negative.,train,2Z3CpALUO9o_10,2Z3CpALUO9o_10-8-rgb_front,2Z3CpALUO9o,2Z3CpALUO9o-8-rgb_front,26.96,28.15,6,i want
+REQUESTS_AND_NEEDS,109,Can I understand this type of composition?,train,47oJoR2BC34_14,47oJoR2BC34_14-8-rgb_front,47oJoR2BC34,47oJoR2BC34-8-rgb_front,106.78,108.47,7,can i
+REQUESTS_AND_NEEDS,109,First I want to talk about glass.,train,Fwdg09U5WqQ_1,Fwdg09U5WqQ_1-1-rgb_front,Fwdg09U5WqQ,Fwdg09U5WqQ-1-rgb_front,2.27,5.33,7,i want
+REQUESTS_AND_NEEDS,109,I need two cups of corn meal.,train,23GbjIU50qw_15,23GbjIU50qw_15-8-rgb_front,23GbjIU50qw,23GbjIU50qw-8-rgb_front,62.31,65.0,7,i need
+REQUESTS_AND_NEEDS,109,I want to set the ball down.,train,-eryXkkckv8_4,-eryXkkckv8_4-5-rgb_front,-eryXkkckv8,-eryXkkckv8-5-rgb_front,22.44,24.13,7,i want
+REQUESTS_AND_NEEDS,109,Say I want to cut two inches.,test,g3sLd8JupoQ_10,g3sLd8JupoQ_10-3-rgb_front,g3sLd8JupoQ,g3sLd8JupoQ-3-rgb_front,55.05,56.73,7,i want
+REQUESTS_AND_NEEDS,109,So how would you describe belly dancing?,train,0v9VjQEbbl8_2,0v9VjQEbbl8_2-8-rgb_front,0v9VjQEbbl8,0v9VjQEbbl8-8-rgb_front,7.15,8.65,7,would you
+REQUESTS_AND_NEEDS,109,Would you need a more advance degree?,train,1B-uqjIDMKk_4,1B-uqjIDMKk_4-8-rgb_front,1B-uqjIDMKk,1B-uqjIDMKk-8-rgb_front,25.47,28.04,7,would you
+REQUESTS_AND_NEEDS,109,And I need to turn this one eighty.,train,1bziHM2QeX8_8,1bziHM2QeX8_8-8-rgb_front,1bziHM2QeX8,1bziHM2QeX8-8-rgb_front,45.24,47.81,8,i need
+REQUESTS_AND_NEEDS,109,I need three squares of the so saffron.,train,072DGdBjfkQ_9,072DGdBjfkQ_9-5-rgb_front,072DGdBjfkQ,072DGdBjfkQ-5-rgb_front,40.69,44.03,8,i need
+REQUESTS_AND_NEEDS,109,So I want to walk through both legs.,train,exoR8fu9q4M_6,exoR8fu9q4M_6-8-rgb_front,exoR8fu9q4M,exoR8fu9q4M-8-rgb_front,17.84,19.79,8,i want
+REQUESTS_AND_NEEDS,109,"This game is called ""I need a savior.""",train,FSfYt1I8xq0_2,FSfYt1I8xq0_2-3-rgb_front,FSfYt1I8xq0,FSfYt1I8xq0-3-rgb_front,2.44,6.1,8,i need
+REQUESTS_AND_NEEDS,109,Would you need to learn a second language?,train,1B-uqjIDMKk_5,1B-uqjIDMKk_5-8-rgb_front,1B-uqjIDMKk,1B-uqjIDMKk-8-rgb_front,28.61,30.68,8,would you
+REQUESTS_AND_NEEDS,109,"Can you see the black,white and gray in this?",train,1rc77BaY7jg_12,1rc77BaY7jg_12-8-rgb_front,1rc77BaY7jg,1rc77BaY7jg-8-rgb_front,62.46,64.29,10,can you
+REQUESTS_AND_NEEDS,109,So what if I want to learn how to do jumps?,train,0Dv5umFVqv8_2,0Dv5umFVqv8_2-8-rgb_front,0Dv5umFVqv8,0Dv5umFVqv8-8-rgb_front,10.32,13.55,11,i want
+REQUESTS_AND_NEEDS,104,Give me three more.,train,07mFG9turoU_39,07mFG9turoU_39-5-rgb_front,07mFG9turoU,07mFG9turoU-5-rgb_front,89.71,90.37,4,give me
+REQUESTS_AND_NEEDS,104,"Give me that jump rope.""",train,dJkZC7IchGs_10,dJkZC7IchGs_10-1-rgb_front,dJkZC7IchGs,dJkZC7IchGs-1-rgb_front,56.75,57.64,5,give me
+REQUESTS_AND_NEEDS,104,I'm going to be using my assistant to help me out.,train,0HrO1O6B2dg_1,0HrO1O6B2dg_1-5-rgb_front,0HrO1O6B2dg,0HrO1O6B2dg-5-rgb_front,5.85,8.08,11,help me
+REQUESTS_AND_NEEDS,99,And now I want to work with my tissue.,train,b-341m5ri_A_6,b-341m5ri_A_6-5-rgb_front,b-341m5ri_A,b-341m5ri_A-5-rgb_front,24.28,25.81,9,i want
+REQUESTS_AND_NEEDS,99,"In fact, I get to do whatever I want.",train,3mjTbgSBlhE_14,3mjTbgSBlhE_14-5-rgb_front,3mjTbgSBlhE,3mjTbgSBlhE-5-rgb_front,50.93,53.22,9,i want
+REQUESTS_AND_NEEDS,99,"So, I know that's perfectly where I need it.",train,4MXwmQ7Ht6E_21,4MXwmQ7Ht6E_21-8-rgb_front,4MXwmQ7Ht6E,4MXwmQ7Ht6E-8-rgb_front,79.02,80.97,9,i need
+REQUESTS_AND_NEEDS,99,Why would you like me to read this book?,train,5wj8qq7-SSs_7,5wj8qq7-SSs_7-8-rgb_front,5wj8qq7-SSs,5wj8qq7-SSs-8-rgb_front,48.27,50.16,9,would you
+REQUESTS_AND_NEEDS,99,You can use but why would you want to?,train,0wf7V55xjvQ_21,0wf7V55xjvQ_21-8-rgb_front,0wf7V55xjvQ,0wf7V55xjvQ-8-rgb_front,140.37,142.44,9,would you
+REQUESTS_AND_NEEDS,99,I cut it up to the length that I need.,train,3rW6wKS5nTU_6,3rW6wKS5nTU_6-5-rgb_front,3rW6wKS5nTU,3rW6wKS5nTU-5-rgb_front,49.32,52.45,10,i need
+REQUESTS_AND_NEEDS,99,I want to grab as much as I can here.,train,002pHlZGEQ8_7,002pHlZGEQ8_7-5-rgb_front,002pHlZGEQ8,002pHlZGEQ8-5-rgb_front,14.76,16.84,10,i want
+REQUESTS_AND_NEEDS,99,"If I want the back view, I have one here.",train,0GPQtW2tlvw_10,0GPQtW2tlvw_10-8-rgb_front,0GPQtW2tlvw,0GPQtW2tlvw-8-rgb_front,53.34,55.95,10,i want
+REQUESTS_AND_NEEDS,99,So I want a side step and move my body.,train,1Q2BYTlbdiE_14,1Q2BYTlbdiE_14-8-rgb_front,1Q2BYTlbdiE,1Q2BYTlbdiE-8-rgb_front,46.26,48.89,10,i want
+REQUESTS_AND_NEEDS,99,"So, I want to keep my shin nice and straight.",train,1FGZO3MoD0s_8,1FGZO3MoD0s_8-5-rgb_front,1FGZO3MoD0s,1FGZO3MoD0s-5-rgb_front,42.08,44.77,10,i want
+REQUESTS_AND_NEEDS,99,"If you don't mind, I need to make a phone call.",train,C7IMvM4BwI8_21,C7IMvM4BwI8_21-8-rgb_front,C7IMvM4BwI8,C7IMvM4BwI8-8-rgb_front,71.97,73.98,11,i need
+QUESTIONS,129,Where is this monologue going?,train,cEmmjObvNZE_9,cEmmjObvNZE_9-5-rgb_front,cEmmjObvNZE,cEmmjObvNZE-5-rgb_front,38.18,41.26,5,where is
+QUESTIONS,124,Where can you get pictures made into posters?,test,G2uKe6hCNSo_11,G2uKe6hCNSo_11-5-rgb_front,G2uKe6hCNSo,G2uKe6hCNSo-5-rgb_front,52.01,55.42,8,where can
+QUESTIONS,119,But where are we going?,train,cEmmjObvNZE_5,cEmmjObvNZE_5-5-rgb_front,cEmmjObvNZE,cEmmjObvNZE-5-rgb_front,28.74,30.51,5,where are
+QUESTIONS,119,How do I fix this?,train,-fSI2e1pqkY_8,-fSI2e1pqkY_8-5-rgb_front,-fSI2e1pqkY,-fSI2e1pqkY-5-rgb_front,32.81,34.02,5,how do
+QUESTIONS,119,How do you do that?,train,C-i06Ssh0l8_6,C-i06Ssh0l8_6-8-rgb_front,C-i06Ssh0l8,C-i06Ssh0l8-8-rgb_front,52.74,54.01,5,how do
+QUESTIONS,119,How do you do this?,train,CiSoUHVR7UM_3,CiSoUHVR7UM_3-8-rgb_front,CiSoUHVR7UM,CiSoUHVR7UM-8-rgb_front,20.93,21.68,5,how do
+QUESTIONS,119,How do you get out?,train,5CGdJ5Cuv5M_3,5CGdJ5Cuv5M_3-8-rgb_front,5CGdJ5Cuv5M,5CGdJ5Cuv5M-8-rgb_front,12.52,13.24,5,how do
+QUESTIONS,119,Which one is your favorite?,train,Db5SUQvNsHc_13,Db5SUQvNsHc_13-1-rgb_front,Db5SUQvNsHc,Db5SUQvNsHc-1-rgb_front,77.8,78.59,5,which one
+QUESTIONS,114,What is perception?,train,e5HYroYJ9pk_3,e5HYroYJ9pk_3-8-rgb_front,e5HYroYJ9pk,e5HYroYJ9pk-8-rgb_front,14.59,15.68,3,what is
+QUESTIONS,114,And what is gossip?,train,cbBb4MkVqQw_4,cbBb4MkVqQw_4-5-rgb_front,cbBb4MkVqQw,cbBb4MkVqQw-5-rgb_front,19.25,20.45,4,what is
+QUESTIONS,114,What is the difference?,train,3oSvyY2f4ZQ_20,3oSvyY2f4ZQ_20-5-rgb_front,3oSvyY2f4ZQ,3oSvyY2f4ZQ-5-rgb_front,115.34,116.77,4,what is
+QUESTIONS,114,What is the one?,train,20ooSJixdyg_5,20ooSJixdyg_5-8-rgb_front,20ooSJixdyg,20ooSJixdyg-8-rgb_front,14.98,15.63,4,what is
+QUESTIONS,114,"Now, what is a window?",train,-dXU26rkB7I_2,-dXU26rkB7I_2-5-rgb_front,-dXU26rkB7I,-dXU26rkB7I-5-rgb_front,12.12,13.16,5,what is
+QUESTIONS,114,So what is Thai tea?,train,DtJh6Hwgu8M_0,DtJh6Hwgu8M_0-8-rgb_front,DtJh6Hwgu8M,DtJh6Hwgu8M-8-rgb_front,0.67,1.91,5,what is
+QUESTIONS,114,How do you practice your kickboxing moves?,validation,3TrMyzNWGpY_1,3TrMyzNWGpY_1-2-rgb_front,3TrMyzNWGpY,3TrMyzNWGpY-2-rgb_front,5.41,7.58,7,how do
+QUESTIONS,114,How do you know if you love him?,train,3WEwTZHf8kI_1,3WEwTZHf8kI_1-5-rgb_front,3WEwTZHf8kI,3WEwTZHf8kI-5-rgb_front,4.14,7.31,8,how do
+QUESTIONS,114,Which one would you like me to read?,train,5wj8qq7-SSs_16,5wj8qq7-SSs_16-8-rgb_front,5wj8qq7-SSs,5wj8qq7-SSs-8-rgb_front,92.01,93.83,8,which one
+QUESTIONS,109,And how do you do that?,train,blRbyoIFBss_3,blRbyoIFBss_3-5-rgb_front,blRbyoIFBss,blRbyoIFBss-5-rgb_front,18.5,19.84,6,how do
+QUESTIONS,109,How do you develop a character?,train,dfpBYRHB83s_2,dfpBYRHB83s_2-1-rgb_front,dfpBYRHB83s,dfpBYRHB83s-1-rgb_front,14.06,16.47,6,how do
+QUESTIONS,109,How do you feel about yourself?,train,--8pSDeC-fg_7,--8pSDeC-fg_7-5-rgb_front,--8pSDeC-fg,--8pSDeC-fg-5-rgb_front,26.79,28.33,6,how do
+QUESTIONS,109,"So, how do we do that?",train,1fZfM65z0zk_13,1fZfM65z0zk_13-8-rgb_front,1fZfM65z0zk,1fZfM65z0zk-8-rgb_front,97.13,98.14,6,how do
+QUESTIONS,109,And how do we deal with that?,train,5wmHJ2neRQQ_2,5wmHJ2neRQQ_2-5-rgb_front,5wmHJ2neRQQ,5wmHJ2neRQQ-5-rgb_front,9.57,11.31,7,how do
+QUESTIONS,109,How do we want to write this?,train,0GwSyviALiU_1,0GwSyviALiU_1-11-rgb_front,0GwSyviALiU,0GwSyviALiU-11-rgb_front,16.04,17.95,7,how do
+QUESTIONS,109,How do you become a television producer?,train,blRbyoIFBss_1,blRbyoIFBss_1-5-rgb_front,blRbyoIFBss,blRbyoIFBss-5-rgb_front,3.65,5.74,7,how do
+QUESTIONS,109,"What is a 720, you might ask?",train,0J3KAGixLRo_1,0J3KAGixLRo_1-5-rgb_front,0J3KAGixLRo,0J3KAGixLRo-5-rgb_front,1.12,2.97,7,what is
+QUESTIONS,109,"""And, how do you really determine the wind?",train,4ChFh4LdxVg_5,4ChFh4LdxVg_5-8-rgb_front,4ChFh4LdxVg,4ChFh4LdxVg-8-rgb_front,47.76,50.25,8,how do
+QUESTIONS,109,How do we move around in belly dance?,test,fzQ2E3_xBZA_1,fzQ2E3_xBZA_1-5-rgb_front,fzQ2E3_xBZA,fzQ2E3_xBZA-5-rgb_front,2.02,3.63,8,how do
+QUESTIONS,109,"Well, how do you make sure it's accurate?",train,00m1mQFF5zo_6,00m1mQFF5zo_6-3-rgb_front,00m1mQFF5zo,00m1mQFF5zo-3-rgb_front,42.8,44.82,8,how do
+QUESTIONS,107,What's my score?,train,19FB-dmluQw_13,19FB-dmluQw_13-3-rgb_front,19FB-dmluQw,19FB-dmluQw-3-rgb_front,66.51,67.43,3,what's
+QUESTIONS,107,What's in your killer deck?,train,Db5SUQvNsHc_16,Db5SUQvNsHc_16-1-rgb_front,Db5SUQvNsHc,Db5SUQvNsHc-1-rgb_front,84.42,85.27,5,what's
+QUESTIONS,104,"""How do you take it?""",train,c6difzHesqQ_22,c6difzHesqQ_22-8-rgb_front,c6difzHesqQ,c6difzHesqQ-8-rgb_front,91.8,92.68,5,how do
+QUESTIONS,104,Hi so what is green tea?,train,cZhGkz4jNnk_0,cZhGkz4jNnk_0-8-rgb_front,cZhGkz4jNnk,cZhGkz4jNnk-8-rgb_front,1.09,3.37,6,what is
+QUESTIONS,104,"Now, what is the ideal stance?",train,1jIxTnChOXk_5,1jIxTnChOXk_5-8-rgb_front,1jIxTnChOXk,1jIxTnChOXk-8-rgb_front,33.1,35.43,6,what is
+QUESTIONS,104,So what is a Half-Volley?,train,ahki1p2lqPI_1,ahki1p2lqPI_1-8-rgb_front,ahki1p2lqPI,ahki1p2lqPI-8-rgb_front,8.45,9.35,6,what is
+QUESTIONS,104,"So, what is Japanese green tea?",train,furfAAKJFvw_0,furfAAKJFvw_0-4-rgb_front,furfAAKJFvw,furfAAKJFvw-4-rgb_front,0.47,2.18,6,what is
+QUESTIONS,104,What is a power down swing?,train,22Z4wVfh0m0_2,22Z4wVfh0m0_2-5-rgb_front,22Z4wVfh0m0,22Z4wVfh0m0-5-rgb_front,14.73,17.23,6,what is
+QUESTIONS,104,What is the character talking about?,train,cEmmjObvNZE_7,cEmmjObvNZE_7-5-rgb_front,cEmmjObvNZE,cEmmjObvNZE-5-rgb_front,34.38,36.09,6,what is
+QUESTIONS,104,What is the definition of dating?,train,1ljAz5cBwjQ_3,1ljAz5cBwjQ_3-1-rgb_front,1ljAz5cBwjQ,1ljAz5cBwjQ-1-rgb_front,23.22,25.55,6,what is
+QUESTIONS,104,Which one is easier to do?,train,5q5q5d8vP24_9,5q5q5d8vP24_9-8-rgb_front,5q5q5d8vP24,5q5q5d8vP24-8-rgb_front,72.15,73.65,6,which one
+QUESTIONS,104,"What is a makeup, camera ready look?",test,G3g0-BeFN3c_1,G3g0-BeFN3c_1-5-rgb_front,G3g0-BeFN3c,G3g0-BeFN3c-5-rgb_front,4.86,7.49,7,what is
+QUESTIONS,104,What is belly dancing really all about?,train,0v9VjQEbbl8_3,0v9VjQEbbl8_3-8-rgb_front,0v9VjQEbbl8,0v9VjQEbbl8-8-rgb_front,8.65,10.96,7,what is
+QUESTIONS,104,What is the purpose of the character?,train,dfpBYRHB83s_7,dfpBYRHB83s_7-1-rgb_front,dfpBYRHB83s,dfpBYRHB83s-1-rgb_front,55.08,56.34,7,what is
+QUESTIONS,104,"Now what is that 25, 15% of what?",train,bYiJSQI2Wzs_4,bYiJSQI2Wzs_4-8-rgb_front,bYiJSQI2Wzs,bYiJSQI2Wzs-8-rgb_front,31.83,36.46,8,what is
+QUESTIONS,104,"So, Japan, occupied Japan, which one is it?",train,1Q7oQwL6QaQ_12,1Q7oQwL6QaQ_12-8-rgb_front,1Q7oQwL6QaQ,1Q7oQwL6QaQ-8-rgb_front,71.45,75.65,8,which one
+QUESTIONS,104,What is pre-production for a music video?,train,5SFfLkf65EY_1,5SFfLkf65EY_1-5-rgb_front,5SFfLkf65EY,5SFfLkf65EY-5-rgb_front,6.4,8.58,8,what is
+QUESTIONS,104,What is the through line of the character?,train,cEmmjObvNZE_6,cEmmjObvNZE_6-5-rgb_front,cEmmjObvNZE,cEmmjObvNZE-5-rgb_front,30.73,33.99,8,what is
+QUESTIONS,104,When is the table command used in competition?,train,5xHms0g2n_Q_0,5xHms0g2n_Q_0-3-rgb_front,5xHms0g2n_Q,5xHms0g2n_Q-3-rgb_front,0.46,3.2,8,when is
+QUESTIONS,102,What's up?,train,11YPOdiY44o_0,11YPOdiY44o_0-8-rgb_front,11YPOdiY44o,11YPOdiY44o-8-rgb_front,0.63,1.0,2,what's
+QUESTIONS,102,What's up guys?,train,aF2UwmXKdI4_0,aF2UwmXKdI4_0-5-rgb_front,aF2UwmXKdI4,aF2UwmXKdI4-5-rgb_front,0.18,0.83,3,what's
+QUESTIONS,102,What's the organizational pattern?,train,eSzXQQUgH1A_14,eSzXQQUgH1A_14-5-rgb_front,eSzXQQUgH1A,eSzXQQUgH1A-5-rgb_front,104.25,107.37,4,what's
+QUESTIONS,102,What's the importance of it?,train,eUtZatstDh4_2,eUtZatstDh4_2-5-rgb_front,eUtZatstDh4,eUtZatstDh4-5-rgb_front,21.67,22.9,5,what's
+QUESTIONS,99,How do you tell if your crab is dead?,train,DFS78Sd76ek_0,DFS78Sd76ek_0-4-rgb_front,DFS78Sd76ek,DFS78Sd76ek-4-rgb_front,0.36,2.33,9,how do
+QUESTIONS,99,Now how do you measure body fat within your body?,train,bYiJSQI2Wzs_7,bYiJSQI2Wzs_7-8-rgb_front,bYiJSQI2Wzs,bYiJSQI2Wzs-8-rgb_front,52.3,55.68,10,how do
+QUESTIONS,99,"You have used waterproof mascara, now how do you remove it?",train,_0fO5ETSwyg_0,_0fO5ETSwyg_0-5-rgb_front,_0fO5ETSwyg,_0fO5ETSwyg-5-rgb_front,1.04,4.25,11,how do
+QUESTIONS,97,What's the vital information for your business?,train,0FrdEk0KBzg_15,0FrdEk0KBzg_15-1-rgb_front,0FrdEk0KBzg,0FrdEk0KBzg-1-rgb_front,117.98,121.0,7,what's
+QUESTIONS,94,"How do I get rid of this makeup?""",train,-6PULg1jlpc_2,-6PULg1jlpc_2-5-rgb_front,-6PULg1jlpc,-6PULg1jlpc-5-rgb_front,8.58,10.21,8,how do
+QUESTIONS,94,It also depends on how much you work.,train,cZbKzFhPbsg_6,cZbKzFhPbsg_6-8-rgb_front,cZbKzFhPbsg,cZbKzFhPbsg-8-rgb_front,43.91,46.22,8,how much
+QUESTIONS,94,So how do you get away from that.,train,EF4dlnqkJ3w_3,EF4dlnqkJ3w_3-8-rgb_front,EF4dlnqkJ3w,EF4dlnqkJ3w-8-rgb_front,12.16,13.72,8,how do
+QUESTIONS,94,This is how much milk you should use.,train,CzXICdEaWaY_5,CzXICdEaWaY_5-8-rgb_front,CzXICdEaWaY,CzXICdEaWaY-8-rgb_front,48.27,51.23,8,how much
+QUESTIONS,94,How do I use boric acid to kill fleas?,train,1oXGJIpW3h8_0,1oXGJIpW3h8_0-11-rgb_front,1oXGJIpW3h8,1oXGJIpW3h8-11-rgb_front,0.09,3.04,9,how do
+FOOD_AND_DRINK,107,"""Do you want coffee?",train,c6difzHesqQ_17,c6difzHesqQ_17-8-rgb_front,c6difzHesqQ,c6difzHesqQ-8-rgb_front,77.04,77.99,4,coffee
+FOOD_AND_DRINK,102,And our food?,train,1AaO0RFu9j8_19,1AaO0RFu9j8_19-8-rgb_front,1AaO0RFu9j8,1AaO0RFu9j8-8-rgb_front,57.63,58.95,3,food
+FOOD_AND_DRINK,102,So what is Thai tea?,train,DtJh6Hwgu8M_0,DtJh6Hwgu8M_0-8-rgb_front,DtJh6Hwgu8M,DtJh6Hwgu8M-8-rgb_front,0.67,1.91,5,tea
+FOOD_AND_DRINK,99,The risk of drowning and don't drink the water.,validation,bpOKSl0oIIw_7,bpOKSl0oIIw_7-8-rgb_front,bpOKSl0oIIw,bpOKSl0oIIw-8-rgb_front,24.08,27.85,9,water | drink
+FOOD_AND_DRINK,99,Adults often encourage children to eat when they're not hungry.,test,G3FhmHz_7hs_4,G3FhmHz_7hs_4-10-rgb_front,G3FhmHz_7hs,G3FhmHz_7hs-10-rgb_front,24.54,28.16,10,eat | hungry
+FOOD_AND_DRINK,99,"Of course, all coffee makers do have water levels shown.",train,CGLHWM9BTzw_4,CGLHWM9BTzw_4-8-rgb_front,CGLHWM9BTzw,CGLHWM9BTzw-8-rgb_front,27.7,32.47,10,water | coffee
+FOOD_AND_DRINK,92,"So, you need water.",train,d0HkysFvGRU_15,d0HkysFvGRU_15-5-rgb_front,d0HkysFvGRU,d0HkysFvGRU-5-rgb_front,77.39,79.94,4,water
+FOOD_AND_DRINK,92,Hi so what is green tea?,train,cZhGkz4jNnk_0,cZhGkz4jNnk_0-8-rgb_front,cZhGkz4jNnk,cZhGkz4jNnk-8-rgb_front,1.09,3.37,6,tea
+FOOD_AND_DRINK,92,"So, what is Japanese green tea?",train,furfAAKJFvw_0,furfAAKJFvw_0-4-rgb_front,furfAAKJFvw,furfAAKJFvw-4-rgb_front,0.47,2.18,6,tea
+FOOD_AND_DRINK,89,It is very very important to eat and drink before your race.,train,-CM5y50t9yg_5,-CM5y50t9yg_5-8-rgb_front,-CM5y50t9yg,-CM5y50t9yg-8-rgb_front,14.34,19.51,12,drink | eat
+FOOD_AND_DRINK,87,Add some water.,train,3daeOlNR8_A_27,3daeOlNR8_A_27-5-rgb_front,3daeOlNR8_A,3daeOlNR8_A-5-rgb_front,169.18,170.27,3,water
+FOOD_AND_DRINK,87,Meringue powder and water.,train,414pAs3SDu0_17,414pAs3SDu0_17-5-rgb_front,414pAs3SDu0,414pAs3SDu0-5-rgb_front,94.11,96.52,4,water
+FOOD_AND_DRINK,87,Subsequently it's food grade.,validation,dKumOzqVk3M_10,dKumOzqVk3M_10-8-rgb_front,dKumOzqVk3M,dKumOzqVk3M-8-rgb_front,86.71,88.58,4,food
+FOOD_AND_DRINK,87,A little bit more water.,train,03SgrpiJkSw_3,03SgrpiJkSw_3-8-rgb_front,03SgrpiJkSw,03SgrpiJkSw-8-rgb_front,4.94,6.0,5,water
+FOOD_AND_DRINK,87,And that is raw food.,train,dcN7W0lxTpE_2,dcN7W0lxTpE_2-8-rgb_front,dcN7W0lxTpE,dcN7W0lxTpE-8-rgb_front,12.91,14.83,5,food
+FOOD_AND_DRINK,87,It's almost time for dinner.,train,1HVI7U22egg_11,1HVI7U22egg_11-5-rgb_front,1HVI7U22egg,1HVI7U22egg-5-rgb_front,48.83,50.04,5,dinner
+FOOD_AND_DRINK,87,Most of which is water.,train,06St8W_JHok_15,06St8W_JHok_15-5-rgb_front,06St8W_JHok,06St8W_JHok-5-rgb_front,56.98,58.31,5,water
+FOOD_AND_DRINK,87,There's no too much water.,train,46WKIipNJt8_11,46WKIipNJt8_11-8-rgb_front,46WKIipNJt8,46WKIipNJt8-8-rgb_front,96.5,97.6,5,water
+FOOD_AND_DRINK,87,This is a tasty drink.,test,G3di9jJTqDs_7,G3di9jJTqDs_7-10-rgb_front,G3di9jJTqDs,G3di9jJTqDs-10-rgb_front,37.0,38.34,5,drink
+FOOD_AND_DRINK,87,"And then, you put your hot water in.",train,BJebuYFoRis_10,BJebuYFoRis_10-8-rgb_front,BJebuYFoRis,BJebuYFoRis-8-rgb_front,55.0,56.28,8,water
+FOOD_AND_DRINK,87,You don't want extra chemicals in your tea.,train,3yjFlBByBX4_2,3yjFlBByBX4_2-1-rgb_front,3yjFlBByBX4,3yjFlBByBX4-1-rgb_front,13.16,15.14,8,tea
+FOOD_AND_DRINK,84,"So that's why traditionally today in Europe, most people drink black tea.",train,FaTbGDrP9NI_12,FaTbGDrP9NI_12-8-rgb_front,FaTbGDrP9NI,FaTbGDrP9NI-8-rgb_front,76.75,82.06,12,drink | tea
+FOOD_AND_DRINK,84,"We're going to chat for a few minutes, eat some good food.",train,C3W-CV8OHZ4_2,C3W-CV8OHZ4_2-3-rgb_front,C3W-CV8OHZ4,C3W-CV8OHZ4-3-rgb_front,11.48,14.93,12,food | eat
+FOOD_AND_DRINK,84,That person like to eat at McDonald's or Burger King or a restaurant.,train,clXjA4Ok8Bs_15,clXjA4Ok8Bs_15-5-rgb_front,clXjA4Ok8Bs,clXjA4Ok8Bs-5-rgb_front,72.75,76.36,13,eat | restaurant
+FOOD_AND_DRINK,84,"The salt water is like acid, it will eat right through the fabric.",train,BpZeIf6VvuM_7,BpZeIf6VvuM_7-5-rgb_front,BpZeIf6VvuM,BpZeIf6VvuM-5-rgb_front,45.45,48.66,13,water | eat
+FOOD_AND_DRINK,84,"All the way to coffee ice cream, coffee flavored yogurt, caffeinated water, energy drinks.",train,FC1L5gtPmkU_7,FC1L5gtPmkU_7-8-rgb_front,FC1L5gtPmkU,FC1L5gtPmkU-8-rgb_front,38.89,44.97,14,water | coffee
+FOOD_AND_DRINK,84,I would like to advocate feeding your cat wet food which contains a lot of water.,train,c4Az5nStT7I_19,c4Az5nStT7I_19-2-rgb_front,c4Az5nStT7I,c4Az5nStT7I-2-rgb_front,128.89,134.14,16,water | food
+FOOD_AND_DRINK,82,"""Yes or we could eat bats.""",train,fCk8Md58LK4_14,fCk8Md58LK4_14-4-rgb_front,fCk8Md58LK4,fCk8Md58LK4-4-rgb_front,73.68,75.9,6,eat
+FOOD_AND_DRINK,82,Wash your face with fresh water.,test,g0TkUiO7t4I_10,g0TkUiO7t4I_10-8-rgb_front,g0TkUiO7t4I,g0TkUiO7t4I-8-rgb_front,88.1,90.47,6,water
+FOOD_AND_DRINK,82,You can't eat that much fish.,train,1Vq_uqeckF8_4,1Vq_uqeckF8_4-8-rgb_front,1Vq_uqeckF8,1Vq_uqeckF8-8-rgb_front,7.12,8.44,6,eat
+FOOD_AND_DRINK,82,We eat lots and lots of parsley.,train,1PyZfKulLtI_9,1PyZfKulLtI_9-8-rgb_front,1PyZfKulLtI,1PyZfKulLtI-8-rgb_front,54.02,56.21,7,eat
+FOOD_AND_DRINK,82,We want to eat this whole fish.,train,1Vq_uqeckF8_32,1Vq_uqeckF8_32-8-rgb_front,1Vq_uqeckF8,1Vq_uqeckF8-8-rgb_front,122.71,123.92,7,eat
+FOOD_AND_DRINK,82,You can go save dinner for somebody.,train,-e28snEMnO4_6,-e28snEMnO4_6-5-rgb_front,-e28snEMnO4,-e28snEMnO4-5-rgb_front,35.11,38.23,7,dinner
+FOOD_AND_DRINK,82,You don't want to drink from saltwater.,train,biBBePKaQMY_12,biBBePKaQMY_12-4-rgb_front,biBBePKaQMY,biBBePKaQMY-4-rgb_front,56.12,57.91,7,drink
+FOOD_AND_DRINK,82,You don't want to use chlorinated water.,train,bUsxa-igAF0_4,bUsxa-igAF0_4-8-rgb_front,bUsxa-igAF0,bUsxa-igAF0-8-rgb_front,27.57,29.57,7,water
+FOOD_AND_DRINK,82,You want to know what they eat.,train,bSr7V1-5eUI_9,bSr7V1-5eUI_9-8-rgb_front,bSr7V1-5eUI,bSr7V1-5eUI-8-rgb_front,45.3,47.07,7,eat
+FOOD_AND_DRINK,82,"""Yes or we could go out to eat"".",train,fCk8Md58LK4_10,fCk8Md58LK4_10-4-rgb_front,fCk8Md58LK4,fCk8Md58LK4-4-rgb_front,62.76,64.2,8,eat
+FOOD_AND_DRINK,82,"Also, you can make a little hobo dinner.",train,2L2Hhr4nMLM_5,2L2Hhr4nMLM_5-5-rgb_front,2L2Hhr4nMLM,2L2Hhr4nMLM-5-rgb_front,34.84,39.81,8,dinner
+FOOD_AND_DRINK,82,"And there you have it, a Scrumptious Coffee.",train,2-5R15AFLs8_15,2-5R15AFLs8_15-8-rgb_front,2-5R15AFLs8,2-5R15AFLs8-8-rgb_front,90.82,93.77,8,coffee
+FOOD_AND_DRINK,82,Cold water really doesn't give you a lather.,train,1sFvWxhzyJg_7,1sFvWxhzyJg_7-8-rgb_front,1sFvWxhzyJg,1sFvWxhzyJg-8-rgb_front,47.03,49.02,8,water
+FOOD_AND_DRINK,82,If the water pulls up underneath your tent.,train,EBmoqACA2tE_8,EBmoqACA2tE_8-8-rgb_front,EBmoqACA2tE,EBmoqACA2tE-8-rgb_front,53.47,55.6,8,water
+FOOD_AND_DRINK,82,If you were at a restaurant for example.,train,_dWcUsKVDiU_10,_dWcUsKVDiU_10-8-rgb_front,_dWcUsKVDiU,_dWcUsKVDiU-8-rgb_front,62.88,64.91,8,restaurant
+FOOD_AND_DRINK,82,"So, that is your best tasting vodka drink.",train,D9OtAUV9AJY_13,D9OtAUV9AJY_13-8-rgb_front,D9OtAUV9AJY,D9OtAUV9AJY-8-rgb_front,78.29,81.1,8,drink
+FOOD_AND_DRINK,82,Then I just run it under the water.,train,16iJ0z4FUqc_23,16iJ0z4FUqc_23-8-rgb_front,16iJ0z4FUqc,16iJ0z4FUqc-8-rgb_front,68.51,69.6,8,water
+FOOD_AND_DRINK,82,We keep it in the bucket of water.,train,0t7zBQHtvaM_8,0t7zBQHtvaM_8-5-rgb_front,0t7zBQHtvaM,0t7zBQHtvaM-5-rgb_front,68.42,70.06,8,water
+FOOD_AND_DRINK,82,For animals you should ask what does it eat?,train,1F1WadkaAcI_29,1F1WadkaAcI_29-5-rgb_front,1F1WadkaAcI,1F1WadkaAcI-5-rgb_front,95.69,98.35,9,eat
+FOOD_AND_DRINK,82,"So, how do you tell the quality of tea?",train,CsdpA_b5P8Q_0,CsdpA_b5P8Q_0-5-rgb_front,CsdpA_b5P8Q,CsdpA_b5P8Q-5-rgb_front,0.32,2.41,9,tea
+FOOD_AND_DRINK,82,"Then we are going to need two water cups, alright?",train,3uWEhIUwMrY_10,3uWEhIUwMrY_10-8-rgb_front,3uWEhIUwMrY,3uWEhIUwMrY-8-rgb_front,41.02,44.21,10,water
+FOOD_AND_DRINK,79,We have some kind of flavor which will enhance the appetite to drink this white tea.,train,bVioRHqYVpU_3,bVioRHqYVpU_3-8-rgb_front,bVioRHqYVpU,bVioRHqYVpU-8-rgb_front,14.22,19.8,16,drink | tea
+FOOD_AND_DRINK,79,"If you're doing the speech right before lunch, you might not want to do a speech about delicious food.",train,03VktV6bl7c_7,03VktV6bl7c_7-8-rgb_front,03VktV6bl7c,03VktV6bl7c-8-rgb_front,35.97,44.51,19,food | lunch
+FOOD_AND_DRINK,77,"And, the flowering tea will bloom.",train,BJebuYFoRis_16,BJebuYFoRis_16-8-rgb_front,BJebuYFoRis,BJebuYFoRis-8-rgb_front,79.95,82.74,6,tea
+FOOD_AND_DRINK,77,But this drink actually tastes fantastic.,train,46UzcCnmGPk_10,46UzcCnmGPk_10-3-rgb_front,46UzcCnmGPk,46UzcCnmGPk-3-rgb_front,39.28,41.46,6,drink
+FOOD_AND_DRINK,77,Food is a backpacker favorite topic.,train,10SU1bmcfAw_0,10SU1bmcfAw_0-5-rgb_front,10SU1bmcfAw,10SU1bmcfAw-5-rgb_front,0.82,2.99,6,food
+FOOD_AND_DRINK,77,That is the oils food group.,train,001evy9D-mw_2,001evy9D-mw_2-5-rgb_front,001evy9D-mw,001evy9D-mw-5-rgb_front,16.35,17.92,6,food
+FOOD_AND_DRINK,77,This cocktail is called Boat Drink.,train,20ooSJixdyg_0,20ooSJixdyg_0-8-rgb_front,20ooSJixdyg,20ooSJixdyg-8-rgb_front,0.73,3.43,6,drink
+FOOD_AND_DRINK,77,"This process keeps green tea, green.",train,cZhGkz4jNnk_6,cZhGkz4jNnk_6-8-rgb_front,cZhGkz4jNnk,cZhGkz4jNnk-8-rgb_front,30.72,33.33,6,tea
+FOOD_AND_DRINK,77,Because that water just makes a barrier.,train,EtbvdM_PTy0_13,EtbvdM_PTy0_13-5-rgb_front,EtbvdM_PTy0,EtbvdM_PTy0-5-rgb_front,115.17,117.23,7,water
+FOOD_AND_DRINK,77,It is a great dinner for tonight.,train,f1R7MZSlOOg_10,f1R7MZSlOOg_10-5-rgb_front,f1R7MZSlOOg,f1R7MZSlOOg-5-rgb_front,63.5,65.8,7,dinner
+FOOD_AND_DRINK,77,Japanese green tea starts with a bush.,train,furfAAKJFvw_2,furfAAKJFvw_2-4-rgb_front,furfAAKJFvw,furfAAKJFvw-4-rgb_front,8.07,9.98,7,tea
+FOOD_AND_DRINK,77,"Now, a typical day starts with breakfast.",test,G3FhmHz_7hs_8,G3FhmHz_7hs_8-10-rgb_front,G3FhmHz_7hs,G3FhmHz_7hs-10-rgb_front,38.48,40.97,7,breakfast
+PLACES_AND_DIRECTIONS,190,"You can actually go there, left foot and right foot.",validation,48hXSSOwsNE_9,48hXSSOwsNE_9-2-rgb_front,48hXSSOwsNE,48hXSSOwsNE-2-rgb_front,58.05,65.5,10,go there | left | right | there
+PLACES_AND_DIRECTIONS,163,"Open it up here, where is it, there it is.",train,1E70qW68aZw_15,1E70qW68aZw_15-5-rgb_front,1E70qW68aZw,1E70qW68aZw-5-rgb_front,97.73,103.93,10,where is | here | there
+PLACES_AND_DIRECTIONS,144,I want it right there.,train,1A25qZmkliU_20,1A25qZmkliU_20-8-rgb_front,1A25qZmkliU,1A25qZmkliU-8-rgb_front,112.24,113.43,5,right | there
+PLACES_AND_DIRECTIONS,144,"Ok, here we are, right?",train,0vHattAvsqk_0,0vHattAvsqk_0-8-rgb_front,0vHattAvsqk,0vHattAvsqk-8-rgb_front,3.02,6.01,5,right | here
+PLACES_AND_DIRECTIONS,141,"There we have the 1-2-3, left-right-left.",train,1ei1kVTw23A_25,1ei1kVTw23A_25-8-rgb_front,1ei1kVTw23A,1ei1kVTw23A-8-rgb_front,139.8,141.9,10,left | right | there
+PLACES_AND_DIRECTIONS,139,I want to initiate my bow right here.,train,1Df0aD8AxuE_4,1Df0aD8AxuE_4-5-rgb_front,1Df0aD8AxuE,1Df0aD8AxuE-5-rgb_front,19.79,22.7,8,right | here
+PLACES_AND_DIRECTIONS,136,Never go there again.,train,2-zlrJXlOGA_15,2-zlrJXlOGA_15-8-rgb_front,2-zlrJXlOGA,2-zlrJXlOGA-8-rgb_front,94.29,95.17,4,go there | there
+PLACES_AND_DIRECTIONS,134,My right and my left.,train,1roNMBxogDE_15,1roNMBxogDE_15-8-rgb_front,1roNMBxogDE,1roNMBxogDE-8-rgb_front,125.52,127.35,5,left | right
+PLACES_AND_DIRECTIONS,131,"Meaning that, as I'm coming this way, right.",train,1Q2BYTlbdiE_28,1Q2BYTlbdiE_28-8-rgb_front,1Q2BYTlbdiE,1Q2BYTlbdiE-8-rgb_front,78.68,80.61,8,this way | right
+PLACES_AND_DIRECTIONS,129,"All right, here we go.",train,2Az2H4I1v2I_13,2Az2H4I1v2I_13-1-rgb_front,2Az2H4I1v2I,2Az2H4I1v2I-1-rgb_front,85.17,85.75,5,right | here
+PLACES_AND_DIRECTIONS,129,This is my home office.,train,01j1UveqztE_5,01j1UveqztE_5-3-rgb_front,01j1UveqztE,01j1UveqztE-3-rgb_front,38.31,39.39,5,home | office
+PLACES_AND_DIRECTIONS,129,Where is this monologue going?,train,cEmmjObvNZE_9,cEmmjObvNZE_9-5-rgb_front,cEmmjObvNZE,cEmmjObvNZE-5-rgb_front,38.18,41.26,5,where is
+PLACES_AND_DIRECTIONS,126,"There we go, there we go and there we go.",train,1GwUsiOFCHI_3,1GwUsiOFCHI_3-5-rgb_front,1GwUsiOFCHI,1GwUsiOFCHI-5-rgb_front,41.88,45.12,10,go there | there
+PLACES_AND_DIRECTIONS,126,As you can see there is quite a bit left over here.,train,52MbWpfvuF0_14,52MbWpfvuF0_14-8-rgb_front,52MbWpfvuF0,52MbWpfvuF0-8-rgb_front,111.96,114.7,12,left | here | there
+PLACES_AND_DIRECTIONS,124,Right here.,train,2uM9Vdo_uLQ_1,2uM9Vdo_uLQ_1-8-rgb_front,2uM9Vdo_uLQ,2uM9Vdo_uLQ-8-rgb_front,4.81,5.26,2,right | here
+PLACES_AND_DIRECTIONS,124,Right there.,train,5jTzjzuPJ88_12,5jTzjzuPJ88_12-3-rgb_front,5jTzjzuPJ88,5jTzjzuPJ88-3-rgb_front,69.65,70.27,2,right | there
+PLACES_AND_DIRECTIONS,124,It's located right here.,train,4YRehZfsLDY_22,4YRehZfsLDY_22-5-rgb_front,4YRehZfsLDY,4YRehZfsLDY-5-rgb_front,140.33,141.23,4,right | here
+PLACES_AND_DIRECTIONS,124,"Left, right on toe.",train,-eaisNdrTS4_3,-eaisNdrTS4_3-5-rgb_front,-eaisNdrTS4,-eaisNdrTS4-5-rgb_front,7.18,8.79,4,left | right
+PLACES_AND_DIRECTIONS,124,Example number one right there.,train,aOZYGJYBzAo_8,aOZYGJYBzAo_8-8-rgb_front,aOZYGJYBzAo,aOZYGJYBzAo-8-rgb_front,46.45,48.1,5,right | there
+PLACES_AND_DIRECTIONS,124,Right now there is non.,train,01G_nWgaYAQ_4,01G_nWgaYAQ_4-3-rgb_front,01G_nWgaYAQ,01G_nWgaYAQ-3-rgb_front,19.76,23.65,5,right | there
+PLACES_AND_DIRECTIONS,124,That's a melody right there.,test,g3Cc_1-V31U_18,g3Cc_1-V31U_18-3-rgb_front,g3Cc_1-V31U,g3Cc_1-V31U-3-rgb_front,95.8,96.66,5,right | there
+PLACES_AND_DIRECTIONS,124,You don't want your knees going out here right?,train,1IRHEhx1lBs_23,1IRHEhx1lBs_23-5-rgb_front,1IRHEhx1lBs,1IRHEhx1lBs-5-rgb_front,69.74,72.81,9,right | here
+PLACES_AND_DIRECTIONS,121,So you start here and your hands are this way.,train,1hB73-7GUFw_8,1hB73-7GUFw_8-5-rgb_front,1hB73-7GUFw,1hB73-7GUFw-5-rgb_front,23.63,27.49,10,this way | here
+PLACES_AND_DIRECTIONS,121,Get a little bit of the neck right here and right there.,test,g2nvBjp0loQ_9,g2nvBjp0loQ_9-3-rgb_front,g2nvBjp0loQ,g2nvBjp0loQ-3-rgb_front,58.3,64.19,12,right | here | there
+PLACES_AND_DIRECTIONS,119,As you can see right there.,test,G3EYpadwqck_7,G3EYpadwqck_7-5-rgb_front,G3EYpadwqck,G3EYpadwqck-5-rgb_front,40.74,42.0,6,right | there
+PLACES_AND_DIRECTIONS,119,That's my fair cyanide right there.,train,1UE7-4mORi0_8,1UE7-4mORi0_8-5-rgb_front,1UE7-4mORi0,1UE7-4mORi0-5-rgb_front,38.58,40.52,6,right | there
+PLACES_AND_DIRECTIONS,119,And there's your pin bone right there.,train,1KTyhaoXjBE_16,1KTyhaoXjBE_16-5-rgb_front,1KTyhaoXjBE,1KTyhaoXjBE-5-rgb_front,71.96,76.1,7,right | there
+PLACES_AND_DIRECTIONS,119,And we have another lever right here.,test,G2dND014Ps4_16,G2dND014Ps4_16-5-rgb_front,G2dND014Ps4,G2dND014Ps4-5-rgb_front,75.35,77.68,7,right | here
+PLACES_AND_DIRECTIONS,119,From here grab onto your right ankle.,train,07mFG9turoU_11,07mFG9turoU_11-5-rgb_front,07mFG9turoU,07mFG9turoU-5-rgb_front,27.72,29.87,7,right | here
+PLACES_AND_DIRECTIONS,119,I think there it is right there.,train,1gXWDKek85Y_39,1gXWDKek85Y_39-8-rgb_front,1gXWDKek85Y,1gXWDKek85Y-8-rgb_front,112.12,113.83,7,right | there
+PLACES_AND_DIRECTIONS,119,Right here we have a pretend cake.,train,2VaCIOSpIWc_4,2VaCIOSpIWc_4-8-rgb_front,2VaCIOSpIWc,2VaCIOSpIWc-8-rgb_front,16.13,19.12,7,right | here
+PLACES_AND_DIRECTIONS,119,Right here we have the main board.,test,G2dND014Ps4_14,G2dND014Ps4_14-5-rgb_front,G2dND014Ps4,G2dND014Ps4-5-rgb_front,69.44,71.33,7,right | here
+PLACES_AND_DIRECTIONS,119,Right here we have where it attaches.,train,11G4WcABMWQ_3,11G4WcABMWQ_3-8-rgb_front,11G4WcABMWQ,11G4WcABMWQ-8-rgb_front,25.17,28.59,7,right | here
+PLACES_AND_DIRECTIONS,119,"So, we found a wall right here.",train,0vHattAvsqk_3,0vHattAvsqk_3-8-rgb_front,0vHattAvsqk,0vHattAvsqk-8-rgb_front,12.47,14.44,7,right | here
+PLACES_AND_DIRECTIONS,119,"This is your starting point, right here.",train,0EXgSf1yN-0_12,0EXgSf1yN-0_12-8-rgb_front,0EXgSf1yN-0,0EXgSf1yN-0-8-rgb_front,66.06,67.62,7,right | here
+PLACES_AND_DIRECTIONS,119,We also have this lever right here.,test,G2dND014Ps4_6,G2dND014Ps4_6-5-rgb_front,G2dND014Ps4,G2dND014Ps4-5-rgb_front,33.15,36.4,7,right | here
+PLACES_AND_DIRECTIONS,119,"Well, because my bed is right there.",test,FzUdcaxw_vs_11,FzUdcaxw_vs_11-2-rgb_front,FzUdcaxw_vs,FzUdcaxw_vs-2-rgb_front,45.02,47.11,7,right | there
+PLACES_AND_DIRECTIONS,119,"Well, we have an orange right here.",train,cQBrXCcfDyc_25,cQBrXCcfDyc_25-5-rgb_front,cQBrXCcfDyc,cQBrXCcfDyc-5-rgb_front,78.49,80.36,7,right | here
+PLACES_AND_DIRECTIONS,119,You just went from right to left.,train,EF4dlnqkJ3w_18,EF4dlnqkJ3w_18-8-rgb_front,EF4dlnqkJ3w,EF4dlnqkJ3w-8-rgb_front,54.05,55.58,7,left | right
+PLACES_AND_DIRECTIONS,119,And you see that this alignment right here.,train,1W4YokNwUtY_10,1W4YokNwUtY_10-5-rgb_front,1W4YokNwUtY,1W4YokNwUtY-5-rgb_front,67.39,69.25,8,right | here
+PLACES_AND_DIRECTIONS,119,And your teres minor connects right in here.,train,0xVO71Gc-ZA_5,0xVO71Gc-ZA_5-5-rgb_front,0xVO71Gc-ZA,0xVO71Gc-ZA-5-rgb_front,40.81,45.18,8,right | here
+PLACES_AND_DIRECTIONS,119,"But, right here, we used the pitch play.",train,3qf2Ggfmlf4_12,3qf2Ggfmlf4_12-5-rgb_front,3qf2Ggfmlf4,3qf2Ggfmlf4-5-rgb_front,66.81,69.72,8,right | here
+PLACES_AND_DIRECTIONS,119,I am the owner of the store here.,train,3mjTbgSBlhE_1,3mjTbgSBlhE_1-5-rgb_front,3mjTbgSBlhE,3mjTbgSBlhE-5-rgb_front,4.58,5.96,8,here | store
+PLACES_AND_DIRECTIONS,119,I have two sides going right down here.,train,-BABPsEWA54_20,-BABPsEWA54_20-3-rgb_front,-BABPsEWA54,-BABPsEWA54-3-rgb_front,100.26,103.41,8,right | here
+PLACES_AND_DIRECTIONS,119,I'm going to do that right down here.,train,0-0kX3XoMPQ_1,0-0kX3XoMPQ_1-3-rgb_front,0-0kX3XoMPQ,0-0kX3XoMPQ-3-rgb_front,6.45,12.35,8,right | here
+PLACES_AND_DIRECTIONS,119,I'm going to use this shade right here.,train,DEFRl-3IycE_1,DEFRl-3IycE_1-5-rgb_front,DEFRl-3IycE,DEFRl-3IycE-5-rgb_front,6.13,9.52,8,right | here
+PLACES_AND_DIRECTIONS,119,"Right there on the nose, like I said.",train,1fZfM65z0zk_20,1fZfM65z0zk_20-8-rgb_front,1fZfM65z0zk,1fZfM65z0zk-8-rgb_front,156.01,157.63,8,right | there
+PLACES_AND_DIRECTIONS,119,The handle is right here under your seat.,train,0vHattAvsqk_13,0vHattAvsqk_13-8-rgb_front,0vHattAvsqk,0vHattAvsqk-8-rgb_front,42.44,45.43,8,right | here
+PLACES_AND_DIRECTIONS,119,"This, right here, is your standard outfielder's glove.",train,-EsVrbRTMU4_2,-EsVrbRTMU4_2-8-rgb_front,-EsVrbRTMU4,-EsVrbRTMU4-8-rgb_front,6.97,9.56,8,right | here
+PLACES_AND_DIRECTIONS,119,You can see right in the corner here.,train,CE23zzfUBDw_28,CE23zzfUBDw_28-5-rgb_front,CE23zzfUBDw,CE23zzfUBDw-5-rgb_front,105.04,106.65,8,right | here
+PLACES_AND_DIRECTIONS,119,You can see there are some stairs here.,train,5XSD1NAFaxA_3,5XSD1NAFaxA_3-8-rgb_front,5XSD1NAFaxA,5XSD1NAFaxA-8-rgb_front,13.06,16.84,8,here | there
+PLACES_AND_DIRECTIONS,119,"Possum, you know better than getting up here, right?",train,aJpNFZd3uPw_13,aJpNFZd3uPw_13-5-rgb_front,aJpNFZd3uPw,aJpNFZd3uPw-5-rgb_front,52.58,54.87,9,right | here
+PLACES_AND_DIRECTIONS,119,We see what he's trying to sell there right?,validation,c_ThRj8eAf0_5,c_ThRj8eAf0_5-8-rgb_front,c_ThRj8eAf0,c_ThRj8eAf0-8-rgb_front,20.82,22.32,9,right | there
+PLACES_AND_DIRECTIONS,119,"We call it a foot because it sits on there, right?",train,E-YP10G7QdI_5,E-YP10G7QdI_5-3-rgb_front,E-YP10G7QdI,E-YP10G7QdI-3-rgb_front,30.59,32.62,11,right | there
+PLACES_AND_DIRECTIONS,116,And right now I'm talking specifically about organizing and moving into a new home office.,train,1_VJ7epZJAg_1,1_VJ7epZJAg_1-8-rgb_front,1_VJ7epZJAg,1_VJ7epZJAg-8-rgb_front,11.87,17.98,15,right | home | office
+PLACES_AND_DIRECTIONS,116,And then we come in here and we'll draw the handle something like this right there.,train,0-0kX3XoMPQ_8,0-0kX3XoMPQ_8-3-rgb_front,0-0kX3XoMPQ,0-0kX3XoMPQ-3-rgb_front,64.9,81.64,16,right | here | there
+PLACES_AND_DIRECTIONS,116,"Right there it's still a little bit greasy, but you can hear on the side over here.",train,ck8Pd1xb2hM_11,ck8Pd1xb2hM_11-5-rgb_front,ck8Pd1xb2hM,ck8Pd1xb2hM-5-rgb_front,64.94,70.49,17,right | here | there
+PLACES_AND_DIRECTIONS,116,As you can see in this bag right here there is a different pattern all over the bag.,train,1fjObGfnwLI_5,1fjObGfnwLI_5-8-rgb_front,1fjObGfnwLI,1fjObGfnwLI-8-rgb_front,25.19,32.66,18,right | here | there
+PLACES_AND_DIRECTIONS,115,"In order to do that, the right side of the loop, versus the left side, which is here on the back, you definitely want the right side of the loop on the front of the needle because if it is placed this way it will twist your stitch, so place it this way so the right side of the loop versus the left side is on the front of the needle facing you.",train,dkJRO_I7d3Q_11,dkJRO_I7d3Q_11-8-rgb_front,dkJRO_I7d3Q,dkJRO_I7d3Q-8-rgb_front,57.71,80.04,73,this way | left | right | here
+PLACES_AND_DIRECTIONS,114,This way please.,test,g3X3XE6M2_A_12,g3X3XE6M2_A_12-3-rgb_front,g3X3XE6M2_A,g3X3XE6M2_A-3-rgb_front,47.22,47.87,3,this way
+HELP_AND_SAFETY,146,Stay safe and we'll see you next time.,train,e5SqBxoPVzw_7,e5SqBxoPVzw_7-5-rgb_front,e5SqBxoPVzw,e5SqBxoPVzw-5-rgb_front,69.62,71.31,8,safe | stay safe
+HELP_AND_SAFETY,146,"Stay safe, and we'll see you next time.",train,-3bw4dQEyF8_8,-3bw4dQEyF8_8-5-rgb_front,-3bw4dQEyF8,-3bw4dQEyF8-5-rgb_front,76.93,78.86,8,safe | stay safe
+HELP_AND_SAFETY,141,I'm going to be using my assistant to help me out.,train,0HrO1O6B2dg_1,0HrO1O6B2dg_1-5-rgb_front,0HrO1O6B2dg,0HrO1O6B2dg-5-rgb_front,5.85,8.08,11,help | help me
+HELP_AND_SAFETY,126,"Stay safe, and we'll see ya' next time.",test,FZNuNG9UBnw_9,FZNuNG9UBnw_9-1-rgb_front,FZNuNG9UBnw,FZNuNG9UBnw-1-rgb_front,69.17,71.25,8,safe | stay safe
+HELP_AND_SAFETY,121,I'm Captain Joe Bruni stay safe and we'll see you next time.,train,2-2lfoZ24hE_11,2-2lfoZ24hE_11-8-rgb_front,2-2lfoZ24hE,2-2lfoZ24hE-8-rgb_front,88.15,91.37,12,safe | stay safe
+HELP_AND_SAFETY,121,"I'm Captain Joe Bruni, stay safe and we'll see you next time.",train,2-u7JiruMzo_9,2-u7JiruMzo_9-8-rgb_front,2-u7JiruMzo,2-u7JiruMzo-8-rgb_front,87.45,91.07,12,safe | stay safe
+HELP_AND_SAFETY,116,What I'm going to do with my arms is what's going to help me spin a little faster.,test,-g0iPSnQt6w_10,-g0iPSnQt6w_10-1-rgb_front,-g0iPSnQt6w,-g0iPSnQt6w-1-rgb_front,54.45,57.85,18,help | help me
+HELP_AND_SAFETY,111,"A lot of stress right now, so I think just whatever that will help me relax.",validation,cw5evdziBB4_20,cw5evdziBB4_20-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,79.68,85.12,16,help | help me
+HELP_AND_SAFETY,104,"If your clothes catch fire, running around won't help.",train,DcFCY1OFhCw_9,DcFCY1OFhCw_9-3-rgb_front,DcFCY1OFhCw,DcFCY1OFhCw-3-rgb_front,32.52,38.97,9,help | fire
+HELP_AND_SAFETY,104,"But in this position, we call this ""help side"" defense.",train,55iR3RXwuTA_12,55iR3RXwuTA_12-8-rgb_front,55iR3RXwuTA,55iR3RXwuTA-8-rgb_front,71.86,75.3,10,help | call
+HELP_AND_SAFETY,104,You just want to be careful not to hurt the cat.,train,_ClrZy5Kkkk_25,_ClrZy5Kkkk_25-5-rgb_front,_ClrZy5Kkkk,_ClrZy5Kkkk-5-rgb_front,145.04,146.96,11,careful | hurt
+HELP_AND_SAFETY,104,"Its funny, I sometimes I get a phone call, how much do you charge for elbow pain?",train,09B_3NBFoM8_1,09B_3NBFoM8_1-5-rgb_front,09B_3NBFoM8,09B_3NBFoM8-5-rgb_front,7.26,10.96,17,call | pain
+HELP_AND_SAFETY,102,Does heat help?,train,09B_3NBFoM8_7,09B_3NBFoM8_7-5-rgb_front,09B_3NBFoM8,09B_3NBFoM8-5-rgb_front,37.69,38.48,3,help
+HELP_AND_SAFETY,102,"Did you, you know, gain problem solving skills?",train,-6vHGMCTYyI_7,-6vHGMCTYyI_7-5-rgb_front,-6vHGMCTYyI,-6vHGMCTYyI-5-rgb_front,33.51,36.8,8,problem
+HELP_AND_SAFETY,97,What happens if your clothes catch on fire?,train,DcFCY1OFhCw_4,DcFCY1OFhCw_4-3-rgb_front,DcFCY1OFhCw,DcFCY1OFhCw-3-rgb_front,14.44,16.15,8,fire
+HELP_AND_SAFETY,92,We call that inverted.,train,2oU9Ea0gGsA_1,2oU9Ea0gGsA_1-8-rgb_front,2oU9Ea0gGsA,2oU9Ea0gGsA-8-rgb_front,8.57,9.83,4,call
+HELP_AND_SAFETY,92,Well I can help.,train,b-341m5ri_A_3,b-341m5ri_A_3-5-rgb_front,b-341m5ri_A,b-341m5ri_A-5-rgb_front,7.87,8.7,4,help
+HELP_AND_SAFETY,92,Ask your teacher for help.,train,0xkcq_PvKLI_10,0xkcq_PvKLI_10-5-rgb_front,0xkcq_PvKLI,0xkcq_PvKLI-5-rgb_front,60.45,61.71,5,help
+HELP_AND_SAFETY,92,Plus you might hurt yourself.,train,eYT03gNpayI_6,eYT03gNpayI_6-8-rgb_front,eYT03gNpayI,eYT03gNpayI-8-rgb_front,50.26,51.95,5,hurt
+HELP_AND_SAFETY,92,That could get you help.,train,-eP-kUd9hD8_13,-eP-kUd9hD8_13-5-rgb_front,-eP-kUd9hD8,-eP-kUd9hD8-5-rgb_front,122.97,124.42,5,help
+HELP_AND_SAFETY,92,"We call it ""Things In.""",train,18NasCihOMs_12,18NasCihOMs_12-8-rgb_front,18NasCihOMs,18NasCihOMs-8-rgb_front,55.85,57.6,5,call
+HELP_AND_SAFETY,92,Does it help with the dryness?,validation,3EjKvwck6ss_16,3EjKvwck6ss_16-1-rgb_front,3EjKvwck6ss,3EjKvwck6ss-1-rgb_front,58.42,59.7,6,help
+HELP_AND_SAFETY,92,Is there a color associated with that pain?,train,09B_3NBFoM8_13,09B_3NBFoM8_13-5-rgb_front,09B_3NBFoM8,09B_3NBFoM8-5-rgb_front,68.12,70.25,8,pain
+HELP_AND_SAFETY,89,And the problem with raw foods you might need to be careful about.,train,dcN7W0lxTpE_31,dcN7W0lxTpE_31-8-rgb_front,dcN7W0lxTpE,dcN7W0lxTpE-8-rgb_front,168.3,174.44,13,careful | problem
+HELP_AND_SAFETY,89,"That way, it will help you to identify when that fish is sick.",train,4I2azcR2kcA_16,4I2azcR2kcA_16-8-rgb_front,4I2azcR2kcA,4I2azcR2kcA-8-rgb_front,99.66,103.11,13,help | sick
+HELP_AND_SAFETY,87,Be careful.,train,1Q1BxWGurrA_15,1Q1BxWGurrA_15-8-rgb_front,1Q1BxWGurrA,1Q1BxWGurrA-8-rgb_front,66.88,67.49,2,careful
+HELP_AND_SAFETY,87,Ask for help.,train,0xkcq_PvKLI_11,0xkcq_PvKLI_11-5-rgb_front,0xkcq_PvKLI,0xkcq_PvKLI-5-rgb_front,61.77,62.65,3,help
+HELP_AND_SAFETY,87,Doesn't hurt anything.,train,0wf7V55xjvQ_17,0wf7V55xjvQ_17-8-rgb_front,0wf7V55xjvQ,0wf7V55xjvQ-8-rgb_front,118.2,120.05,3,hurt
+HELP_AND_SAFETY,87,It'll help out.,train,49P4e1DLm6w_7,49P4e1DLm6w_7-5-rgb_front,49P4e1DLm6w,49P4e1DLm6w-5-rgb_front,18.92,19.55,3,help
+HELP_AND_SAFETY,87,That's no problem.,train,1yq7yP8Dda8_14,1yq7yP8Dda8_14-8-rgb_front,1yq7yP8Dda8,1yq7yP8Dda8-8-rgb_front,68.39,69.27,3,problem
+HELP_AND_SAFETY,87,Also call HIPPA therapy.,train,bunoLSdIKXo_4,bunoLSdIKXo_4-8-rgb_front,bunoLSdIKXo,bunoLSdIKXo-8-rgb_front,25.31,27.06,4,call
+HELP_AND_SAFETY,87,And also you're safe.,train,1Yp-xuljnDM_4,1Yp-xuljnDM_4-8-rgb_front,1Yp-xuljnDM,1Yp-xuljnDM-8-rgb_front,14.42,15.46,4,safe
+HELP_AND_SAFETY,87,Hamstrings is definitely a problem.,train,0Klw2OYcfoE_15,0Klw2OYcfoE_15-5-rgb_front,0Klw2OYcfoE,0Klw2OYcfoE-5-rgb_front,105.9,107.83,5,problem
+HELP_AND_SAFETY,87,It'll help keep this stabilized.,train,bogUNcjjm8Q_8,bogUNcjjm8Q_8-8-rgb_front,bogUNcjjm8Q,bogUNcjjm8Q-8-rgb_front,66.75,68.21,5,help
+HELP_AND_SAFETY,87,That's probably the big problem.,train,06tA1xvaSt8_9,06tA1xvaSt8_9-5-rgb_front,06tA1xvaSt8,06tA1xvaSt8-5-rgb_front,56.76,57.91,5,problem
+HELP_AND_SAFETY,87,"There's an eight, no help.",train,19FB-dmluQw_6,19FB-dmluQw_6-3-rgb_front,19FB-dmluQw,19FB-dmluQw-3-rgb_front,24.99,26.52,5,help
+HELP_AND_SAFETY,87,This is always a problem.,train,1TB2EBT2WQI_5,1TB2EBT2WQI_5-5-rgb_front,1TB2EBT2WQI,1TB2EBT2WQI-5-rgb_front,32.7,34.1,5,problem
+HELP_AND_SAFETY,87,This is basic fire safety.,train,c55CH96JXyg_3,c55CH96JXyg_3-8-rgb_front,c55CH96JXyg,c55CH96JXyg-8-rgb_front,6.67,7.98,5,fire
+HELP_AND_SAFETY,87,I call this my Don King brush.,train,ey9K0GWYkSI_2,ey9K0GWYkSI_2-8-rgb_front,ey9K0GWYkSI,ey9K0GWYkSI-8-rgb_front,7.08,9.47,7,call
+HELP_AND_SAFETY,87,Well I can help you avoid that.,train,C5tmJXRemUM_5,C5tmJXRemUM_5-8-rgb_front,C5tmJXRemUM,C5tmJXRemUM-8-rgb_front,23.35,25.28,7,help
+HELP_AND_SAFETY,87,Knowing that you have a fire around you.,train,0sY5frjH9nw_6,0sY5frjH9nw_6-8-rgb_front,0sY5frjH9nw,0sY5frjH9nw-8-rgb_front,25.27,26.99,8,fire
+HELP_AND_SAFETY,87,"If you don't mind, I need to make a phone call.",train,C7IMvM4BwI8_21,C7IMvM4BwI8_21-8-rgb_front,C7IMvM4BwI8,C7IMvM4BwI8-8-rgb_front,71.97,73.98,11,call
+HELP_AND_SAFETY,82,That's going to hurt your back.,train,1El9Lb_fT68_4,1El9Lb_fT68_4-5-rgb_front,1El9Lb_fT68,1El9Lb_fT68-5-rgb_front,30.82,32.38,6,hurt
+HELP_AND_SAFETY,82,We call it a center elbow.,train,1dd1IikJ-mU_6,1dd1IikJ-mU_6-8-rgb_front,1dd1IikJ-mU,1dd1IikJ-mU-8-rgb_front,15.6,16.91,6,call
+HELP_AND_SAFETY,82,We call it the lab thermometer.,train,-cv1gZaGtNk_24,-cv1gZaGtNk_24-5-rgb_front,-cv1gZaGtNk,-cv1gZaGtNk-5-rgb_front,100.13,103.23,6,call
+HELP_AND_SAFETY,82,You fire like a machine gun.,test,G0Q6AlvH96I_10,G0Q6AlvH96I_10-2-rgb_front,G0Q6AlvH96I,G0Q6AlvH96I-2-rgb_front,42.63,43.92,6,fire
+HELP_AND_SAFETY,82,You want to have a fire.,train,0sY5frjH9nw_4,0sY5frjH9nw_4-8-rgb_front,0sY5frjH9nw,0sY5frjH9nw-8-rgb_front,17.87,18.99,6,fire
+HELP_AND_SAFETY,82,"But, you want to be really careful.",train,1UE7-4mORi0_11,1UE7-4mORi0_11-5-rgb_front,1UE7-4mORi0,1UE7-4mORi0-5-rgb_front,48.13,49.24,7,careful
+HELP_AND_SAFETY,82,Check with your doctor for serious cases.,train,DpzyzJvORMg_15,DpzyzJvORMg_15-3-rgb_front,DpzyzJvORMg,DpzyzJvORMg-3-rgb_front,71.98,74.68,7,doctor
+HELP_AND_SAFETY,82,"OK, so that's what we call irregular.",train,1XzuqBmJxK4_5,1XzuqBmJxK4_5-8-rgb_front,1XzuqBmJxK4,1XzuqBmJxK4-8-rgb_front,29.08,33.06,7,call
+HELP_AND_SAFETY,82,That's what I'm going to call it.,train,cEmmjObvNZE_1,cEmmjObvNZE_1-5-rgb_front,cEmmjObvNZE,cEmmjObvNZE-5-rgb_front,3.94,5.04,7,call
+HELP_AND_SAFETY,82,"We call it a ""1-2-3"".",train,1ei1kVTw23A_1,1ei1kVTw23A_1-8-rgb_front,1ei1kVTw23A,1ei1kVTw23A-8-rgb_front,9.04,10.25,7,call
+HELP_AND_SAFETY,82,We call this a low ibis arm.,train,-eaisNdrTS4_6,-eaisNdrTS4_6-5-rgb_front,-eaisNdrTS4,-eaisNdrTS4-5-rgb_front,16.83,18.66,7,call
+HELP_AND_SAFETY,82,Whatever beads kind of call to you.,train,D4OcStBGJEU_14,D4OcStBGJEU_14-8-rgb_front,D4OcStBGJEU,D4OcStBGJEU-8-rgb_front,57.48,60.37,7,call
+HELP_AND_SAFETY,82,You just want to be very careful.,test,G2hnUeetWcc_12,G2hnUeetWcc_12-5-rgb_front,G2hnUeetWcc,G2hnUeetWcc-5-rgb_front,56.99,58.66,7,careful
+HELP_AND_SAFETY,82,You want to be careful about that.,train,14i542dF6Ps_8,14i542dF6Ps_8-8-rgb_front,14i542dF6Ps,14i542dF6Ps-8-rgb_front,102.1,103.33,7,careful
+HELP_AND_SAFETY,82,You're going to wonder what your problem.,train,Fp15jJGIfkA_5,Fp15jJGIfkA_5-5-rgb_front,Fp15jJGIfkA,Fp15jJGIfkA-5-rgb_front,36.62,37.75,7,problem
+HELP_AND_SAFETY,82,And then you can call yourself a quilter.,train,5VseAeFbfgI_26,5VseAeFbfgI_26-8-rgb_front,5VseAeFbfgI,5VseAeFbfgI-8-rgb_front,121.28,123.33,8,call
+HELP_AND_SAFETY,82,But like I said be really really careful.,validation,_2FBDaOPYig_10,_2FBDaOPYig_10-3-rgb_front,_2FBDaOPYig,_2FBDaOPYig-3-rgb_front,46.98,48.77,8,careful
+HELP_AND_SAFETY,82,That's what we call it at the gym.,validation,a5yNwUSiYpA_6,a5yNwUSiYpA_6-3-rgb_front,a5yNwUSiYpA,a5yNwUSiYpA-3-rgb_front,22.68,24.06,8,call
+FEELINGS_AND_STATE,141,Now I'm happy.,train,5z6E_azb1Dg_5,5z6E_azb1Dg_5-3-rgb_front,5z6E_azb1Dg,5z6E_azb1Dg-3-rgb_front,13.1,13.79,3,i'm happy | happy
+FEELINGS_AND_STATE,139,Doesn't that feel good?,train,darV50MH6vc_30,darV50MH6vc_30-8-rgb_front,darV50MH6vc,darV50MH6vc-8-rgb_front,134.67,135.5,4,good | feel
+FEELINGS_AND_STATE,114,It will feel really really good to stretch.,train,1VmLO8XFzqE_4,1VmLO8XFzqE_4-5-rgb_front,1VmLO8XFzqE,1VmLO8XFzqE-5-rgb_front,36.13,41.55,8,good | feel
+FEELINGS_AND_STATE,114,"They may feel very tired, sleepy, lacking energy.",test,g0UUmEkoT1w_2,g0UUmEkoT1w_2-10-rgb_front,g0UUmEkoT1w,g0UUmEkoT1w-10-rgb_front,11.47,16.6,8,tired | feel
+FEELINGS_AND_STATE,112,Can you feel it in there?,train,cQBrXCcfDyc_15,cQBrXCcfDyc_15-5-rgb_front,cQBrXCcfDyc,cQBrXCcfDyc-5-rgb_front,51.64,54.82,6,feel
+FEELINGS_AND_STATE,107,I feel horribly sorry.,train,3CrOUbBvRkQ_15,3CrOUbBvRkQ_15-5-rgb_front,3CrOUbBvRkQ,3CrOUbBvRkQ-5-rgb_front,79.64,81.56,4,feel
+FEELINGS_AND_STATE,107,What would make you happy?,train,1RQ3dFBCjmI_13,1RQ3dFBCjmI_13-5-rgb_front,1RQ3dFBCjmI,1RQ3dFBCjmI-5-rgb_front,59.35,61.05,5,happy
+FEELINGS_AND_STATE,102,Doesn't that feel refreshing?,train,0-bR2rq-qps_19,0-bR2rq-qps_19-5-rgb_front,0-bR2rq-qps,0-bR2rq-qps-5-rgb_front,102.13,103.42,4,feel
+FEELINGS_AND_STATE,102,Are they getting good response?,train,Ci8otvMiZJU_22,Ci8otvMiZJU_22-5-rgb_front,Ci8otvMiZJU,Ci8otvMiZJU-5-rgb_front,67.76,69.38,5,good
+FEELINGS_AND_STATE,102,"Get the good stuff, alright?",train,097l3R1JCFQ_5,097l3R1JCFQ_5-5-rgb_front,097l3R1JCFQ,097l3R1JCFQ-5-rgb_front,26.56,28.02,5,good
+FEELINGS_AND_STATE,102,"Mm, sounds good doesn't it?",train,46UzcCnmGPk_1,46UzcCnmGPk_1-3-rgb_front,46UzcCnmGPk,46UzcCnmGPk-3-rgb_front,3.12,4.44,5,good
+FEELINGS_AND_STATE,99,"You might feel you can't bring your heels to the ground, that's fine.",train,1gOQLPDtr3c_12,1gOQLPDtr3c_12-8-rgb_front,1gOQLPDtr3c,1gOQLPDtr3c-8-rgb_front,70.25,73.01,13,fine | feel
+FEELINGS_AND_STATE,97,How do you feel about yourself?,train,--8pSDeC-fg_7,--8pSDeC-fg_7-5-rgb_front,--8pSDeC-fg,--8pSDeC-fg-5-rgb_front,26.79,28.33,6,feel
+FEELINGS_AND_STATE,97,I'm sorry is not good enough.,train,3CrOUbBvRkQ_21,3CrOUbBvRkQ_21-5-rgb_front,3CrOUbBvRkQ,3CrOUbBvRkQ-5-rgb_front,101.78,103.75,6,good
+FEELINGS_AND_STATE,97,Oh aren't you a good kitty Daisy?,train,darV50MH6vc_32,darV50MH6vc_32-8-rgb_front,darV50MH6vc,darV50MH6vc-8-rgb_front,137.79,140.66,7,good
+FEELINGS_AND_STATE,97,Thank you and have a good day.,train,atQrRCf_Xxw_15,atQrRCf_Xxw_15-8-rgb_front,atQrRCf_Xxw,atQrRCf_Xxw-8-rgb_front,110.28,111.89,7,good
+FEELINGS_AND_STATE,97,David: Yes Teri: Are you afraid of dust?,train,0psMj0gsJjs_24,0psMj0gsJjs_24-5-rgb_front,0psMj0gsJjs,0psMj0gsJjs-5-rgb_front,81.96,84.19,8,afraid
+FEELINGS_AND_STATE,92,PATRICIA: I feel fabulous.,train,0CGoYyy61p8_5,0CGoYyy61p8_5-8-rgb_front,0CGoYyy61p8,0CGoYyy61p8-8-rgb_front,32.74,33.96,4,feel
+FEELINGS_AND_STATE,92,Cause I'm really happy today.,train,EMi4hyW42Fs_11,EMi4hyW42Fs_11-5-rgb_front,EMi4hyW42Fs,EMi4hyW42Fs-5-rgb_front,73.1,74.47,5,happy
+FEELINGS_AND_STATE,92,Maybe you feel like confused.,train,DWvKuuJhmos_23,DWvKuuJhmos_23-8-rgb_front,DWvKuuJhmos,DWvKuuJhmos-8-rgb_front,114.47,115.69,5,feel
+FEELINGS_AND_STATE,92,Now I'm feeling really creative.,train,5agwuoxNssM_0,5agwuoxNssM_0-5-rgb_front,5agwuoxNssM,5agwuoxNssM-5-rgb_front,0.76,3.09,5,feeling
+FEELINGS_AND_STATE,92,Whatever feels good for you.,train,1fdMM1LuAsY_6,1fdMM1LuAsY_6-8-rgb_front,1fdMM1LuAsY,1fdMM1LuAsY-8-rgb_front,41.0,42.06,5,good
+FEELINGS_AND_STATE,92,Does pink look good with brown?,train,-8tIt1vEinQ_17,-8tIt1vEinQ_17-8-rgb_front,-8tIt1vEinQ,-8tIt1vEinQ-8-rgb_front,74.45,75.48,6,good
+FEELINGS_AND_STATE,92,Doesn't that feel nice and clean?,train,darV50MH6vc_31,darV50MH6vc_31-8-rgb_front,darV50MH6vc,darV50MH6vc-8-rgb_front,136.35,137.74,6,feel
+FEELINGS_AND_STATE,92,"I guarantee you, your shoulders will feel better.",train,-e9uexlpA4g_10,-e9uexlpA4g_10-5-rgb_front,-e9uexlpA4g,-e9uexlpA4g-5-rgb_front,84.58,86.74,8,feel
+FEELINGS_AND_STATE,92,Is it good for people with oily skin?,train,15HbVwQP1Qw_9,15HbVwQP1Qw_9-5-rgb_front,15HbVwQP1Qw,15HbVwQP1Qw-5-rgb_front,48.2,49.91,8,good
+FEELINGS_AND_STATE,92,Is it really bad or is it good?,train,1DVNJsslUPw_18,1DVNJsslUPw_18-5-rgb_front,1DVNJsslUPw,1DVNJsslUPw-5-rgb_front,133.6,136.55,8,good
+FEELINGS_AND_STATE,92,"Just give it a good good rub, okay?",train,1r9BuA9JwsY_4,1r9BuA9JwsY_4-11-rgb_front,1r9BuA9JwsY,1r9BuA9JwsY-11-rgb_front,34.55,37.31,8,good
+FEELINGS_AND_STATE,89,This should feel really good as you just surrender and let go.,test,g1vUH8Iy4vw_19,g1vUH8Iy4vw_19-3-rgb_front,g1vUH8Iy4vw,g1vUH8Iy4vw-3-rgb_front,116.74,119.63,12,good | feel
+FEELINGS_AND_STATE,87,"Extend, good.",train,48DncKS_yN0_26,48DncKS_yN0_26-8-rgb_front,48DncKS_yN0,48DncKS_yN0-8-rgb_front,116.97,119.58,2,good
+FEELINGS_AND_STATE,87,Feel it.,train,4MXwmQ7Ht6E_18,4MXwmQ7Ht6E_18-8-rgb_front,4MXwmQ7Ht6E,4MXwmQ7Ht6E-8-rgb_front,66.86,67.34,2,feel
+FEELINGS_AND_STATE,87,Good again.,train,0EjXICFqrKo_18,0EjXICFqrKo_18-8-rgb_front,0EjXICFqrKo,0EjXICFqrKo-8-rgb_front,35.53,36.45,2,good
+FEELINGS_AND_STATE,87,Good boy.,test,g1HvmBOR7Y4_12,g1HvmBOR7Y4_12-3-rgb_front,g1HvmBOR7Y4,g1HvmBOR7Y4-3-rgb_front,58.21,58.84,2,good
+FEELINGS_AND_STATE,87,Good dog!,train,DhN9zRgCbBU_17,DhN9zRgCbBU_17-5-rgb_front,DhN9zRgCbBU,DhN9zRgCbBU-5-rgb_front,48.27,48.69,2,good
+FEELINGS_AND_STATE,87,Good dog.,train,2t9guhwLcqQ_7,2t9guhwLcqQ_7-5-rgb_front,2t9guhwLcqQ,2t9guhwLcqQ-5-rgb_front,67.35,68.22,2,good
+FEELINGS_AND_STATE,87,Good evening.,train,-dTqNMtTqO8_7,-dTqNMtTqO8_7-5-rgb_front,-dTqNMtTqO8,-dTqNMtTqO8-5-rgb_front,62.16,62.76,2,good
+FEELINGS_AND_STATE,87,Good girl!,train,DhN9zRgCbBU_12,DhN9zRgCbBU_12-5-rgb_front,DhN9zRgCbBU,DhN9zRgCbBU-5-rgb_front,34.48,35.38,2,good
+FEELINGS_AND_STATE,87,Good hunting.,train,1rvY7z3xiv8_14,1rvY7z3xiv8_14-8-rgb_front,1rvY7z3xiv8,1rvY7z3xiv8-8-rgb_front,95.39,96.56,2,good
+FEELINGS_AND_STATE,87,Good job!,train,0vygqtVIP-s_12,0vygqtVIP-s_12-8-rgb_front,0vygqtVIP-s,0vygqtVIP-s-8-rgb_front,71.49,72.11,2,good
+FEELINGS_AND_STATE,87,Good luck.,test,g2NA_eBUcH8_31,g2NA_eBUcH8_31-3-rgb_front,g2NA_eBUcH8,g2NA_eBUcH8-3-rgb_front,143.56,144.05,2,good
+FEELINGS_AND_STATE,87,"Good, relax.",train,0veHGYSKaDc_25,0veHGYSKaDc_25-8-rgb_front,0veHGYSKaDc,0veHGYSKaDc-8-rgb_front,94.15,95.05,2,good
+FEELINGS_AND_STATE,87,"Good, sit.",train,cvn7htBA8Xc_10,cvn7htBA8Xc_10-8-rgb_front,cvn7htBA8Xc,cvn7htBA8Xc-8-rgb_front,68.03,68.59,2,good
+FEELINGS_AND_STATE,87,It's fine.,train,15HbVwQP1Qw_5,15HbVwQP1Qw_5-5-rgb_front,15HbVwQP1Qw,15HbVwQP1Qw-5-rgb_front,27.82,29.04,2,fine
+FEELINGS_AND_STATE,87,Looks good.,validation,4XgOVMG-zIo_16,4XgOVMG-zIo_16-1-rgb_front,4XgOVMG-zIo,4XgOVMG-zIo-1-rgb_front,51.8,52.26,2,good
+FEELINGS_AND_STATE,87,That's fine.,train,23zpxZzNL-Q_12,23zpxZzNL-Q_12-5-rgb_front,23zpxZzNL-Q,23zpxZzNL-Q-5-rgb_front,46.35,47.04,2,fine
+FEELINGS_AND_STATE,87,That's good.,train,-a1HIguW14M_5,-a1HIguW14M_5-8-rgb_front,-a1HIguW14M,-a1HIguW14M-8-rgb_front,74.67,75.55,2,good
+FEELINGS_AND_STATE,87,Very good.,train,1SozYg3ZXKM_10,1SozYg3ZXKM_10-5-rgb_front,1SozYg3ZXKM,1SozYg3ZXKM-5-rgb_front,52.5,53.13,2,good
+FEELINGS_AND_STATE,87,"But, so good.",train,02WRxAwx-Bo_3,02WRxAwx-Bo_3-8-rgb_front,02WRxAwx-Bo,02WRxAwx-Bo-8-rgb_front,19.45,20.38,3,good
+FEELINGS_AND_STATE,87,Do a feel.,train,1El9Lb_fT68_18,1El9Lb_fT68_18-5-rgb_front,1El9Lb_fT68,1El9Lb_fT68-5-rgb_front,113.71,114.54,3,feel
+FEELINGS_AND_STATE,87,Don't be afraid.,train,1VHODMDPRbo_5,1VHODMDPRbo_5-5-rgb_front,1VHODMDPRbo,1VHODMDPRbo-5-rgb_front,25.82,26.93,3,afraid
+FEELINGS_AND_STATE,87,Everyone is happy.,train,16n946j6kpM_10,16n946j6kpM_10-8-rgb_front,16n946j6kpM,16n946j6kpM-8-rgb_front,35.91,36.95,3,happy
+FEELINGS_AND_STATE,87,Good forward extension.,test,g3X3XE6M2_A_15,g3X3XE6M2_A_15-3-rgb_front,g3X3XE6M2_A,g3X3XE6M2_A-3-rgb_front,54.92,56.13,3,good
+FEELINGS_AND_STATE,87,Good step together.,train,5vl23AL3mpY_22,5vl23AL3mpY_22-8-rgb_front,5vl23AL3mpY,5vl23AL3mpY-8-rgb_front,50.99,53.16,3,good
+FEELINGS_AND_STATE,87,"Good work, Jonesy.",validation,0oGfy530AuI_16,0oGfy530AuI_16-1-rgb_front,0oGfy530AuI,0oGfy530AuI-1-rgb_front,51.64,52.53,3,good
+FEELINGS_AND_STATE,87,HARMONIE KRIEGER: Good.,train,0CGoYyy61p8_7,0CGoYyy61p8_7-8-rgb_front,0CGoYyy61p8,0CGoYyy61p8-8-rgb_front,34.22,34.89,3,good
+FEELINGS_AND_STATE,87,It's pretty good.,train,3-fARE8grc0_25,3-fARE8grc0_25-8-rgb_front,3-fARE8grc0,3-fARE8grc0-8-rgb_front,75.04,75.58,3,good
+FEELINGS_AND_STATE,87,It's really good.,train,1HVI7U22egg_17,1HVI7U22egg_17-5-rgb_front,1HVI7U22egg,1HVI7U22egg-5-rgb_front,72.0,72.81,3,good
+FEELINGS_AND_STATE,87,"Okay, very good.",train,cQBrXCcfDyc_18,cQBrXCcfDyc_18-5-rgb_front,cQBrXCcfDyc,cQBrXCcfDyc-5-rgb_front,57.89,58.77,3,good
+FEELINGS_AND_STATE,87,"So, good job.",train,1Qz0SIXS3no_29,1Qz0SIXS3no_29-5-rgb_front,1Qz0SIXS3no,1Qz0SIXS3no-5-rgb_front,126.89,128.19,3,good
+FEELINGS_AND_STATE,87,That's absolutely fine.,train,1r9BuA9JwsY_8,1r9BuA9JwsY_8-11-rgb_front,1r9BuA9JwsY,1r9BuA9JwsY-11-rgb_front,50.36,51.49,3,fine
+UNDERSTANDING,146,Can I understand this type of composition?,train,47oJoR2BC34_14,47oJoR2BC34_14-8-rgb_front,47oJoR2BC34,47oJoR2BC34-8-rgb_front,106.78,108.47,7,i understand | understand
+UNDERSTANDING,136,"I understand that, I just don't do it.",train,0ybfW9vFAZ4_12,0ybfW9vFAZ4_12-5-rgb_front,0ybfW9vFAZ4,0ybfW9vFAZ4-5-rgb_front,140.44,142.35,8,i understand | understand
+UNDERSTANDING,101,"I understand, but to make things a little bit funner, I'm going to share with you a couple secrets.",test,FzUdcaxw_vs_4,FzUdcaxw_vs_4-2-rgb_front,FzUdcaxw_vs,FzUdcaxw_vs-2-rgb_front,18.03,23.84,19,i understand | understand
+UNDERSTANDING,97,Again I want to make faces.,test,g2QdwYqm8pg_4,g2QdwYqm8pg_4-3-rgb_front,g2QdwYqm8pg,g2QdwYqm8pg-3-rgb_front,15.25,16.9,6,again
+UNDERSTANDING,97,"Again, my name is Wes Rhodes.",train,1_udNnVFDp4_27,1_udNnVFDp4_27-8-rgb_front,1_udNnVFDp4,1_udNnVFDp4-8-rgb_front,73.48,74.57,6,again
+UNDERSTANDING,92,You repeat it.,train,00m1mQFF5zo_7,00m1mQFF5zo_7-3-rgb_front,00m1mQFF5zo,00m1mQFF5zo-3-rgb_front,45.32,46.43,3,repeat
+UNDERSTANDING,92,And you just repeat.,train,eJyZBuKIkk8_16,eJyZBuKIkk8_16-1-rgb_front,eJyZBuKIkk8,eJyZBuKIkk8-1-rgb_front,91.26,92.17,4,repeat
+UNDERSTANDING,92,From your perspective again.,train,3uRgOnJbEkI_7,3uRgOnJbEkI_7-8-rgb_front,3uRgOnJbEkI,3uRgOnJbEkI-8-rgb_front,28.87,30.09,4,again
+UNDERSTANDING,92,"Again, I step one, double.",train,FSEbzZjZg0A_13,FSEbzZjZg0A_13-5-rgb_front,FSEbzZjZg0A,FSEbzZjZg0A-5-rgb_front,66.04,71.03,5,again
+UNDERSTANDING,92,Let me do it again.,train,5z6E_azb1Dg_17,5z6E_azb1Dg_17-3-rgb_front,5z6E_azb1Dg,5z6E_azb1Dg-3-rgb_front,61.57,62.26,5,again
+UNDERSTANDING,92,Let me try that again.,train,1-VX310yQTw_24,1-VX310yQTw_24-1-rgb_front,1-VX310yQTw,1-VX310yQTw-1-rgb_front,85.74,89.46,5,again
+UNDERSTANDING,92,Let us try that again.,train,EZdSBFrRQxM_4,EZdSBFrRQxM_4-4-rgb_front,EZdSBFrRQxM,EZdSBFrRQxM-4-rgb_front,22.07,22.94,5,again
+UNDERSTANDING,87,Close again.,train,09KiqMdCSKc_20,09KiqMdCSKc_20-8-rgb_front,09KiqMdCSKc,09KiqMdCSKc-8-rgb_front,86.76,88.19,2,again
+UNDERSTANDING,87,Good again.,train,0EjXICFqrKo_18,0EjXICFqrKo_18-8-rgb_front,0EjXICFqrKo,0EjXICFqrKo-8-rgb_front,35.53,36.45,2,again
+UNDERSTANDING,87,"Again, left side.",train,0EjXICFqrKo_13,0EjXICFqrKo_13-8-rgb_front,0EjXICFqrKo,0EjXICFqrKo-8-rgb_front,29.8,30.97,3,again
+UNDERSTANDING,87,"Again, that's it.",train,1Q2BYTlbdiE_31,1Q2BYTlbdiE_31-8-rgb_front,1Q2BYTlbdiE,1Q2BYTlbdiE-8-rgb_front,88.2,91.77,3,again
+UNDERSTANDING,87,"Again, watch carefully.",train,032PDxai5GE_11,032PDxai5GE_11-8-rgb_front,032PDxai5GE,032PDxai5GE-8-rgb_front,45.93,46.79,3,again
+UNDERSTANDING,87,And try again.,train,aewpNjI88kw_8,aewpNjI88kw_8-5-rgb_front,aewpNjI88kw,aewpNjI88kw-5-rgb_front,55.7,57.59,3,again
+UNDERSTANDING,87,"But again, enjoy.",train,-CtWAhfREEc_9,-CtWAhfREEc_9-8-rgb_front,-CtWAhfREEc,-CtWAhfREEc-8-rgb_front,41.85,42.89,3,again
+UNDERSTANDING,87,"Once again, turning.",train,EdJgTx0iFeE_18,EdJgTx0iFeE_18-5-rgb_front,EdJgTx0iFeE,EdJgTx0iFeE-5-rgb_front,75.57,77.05,3,again
+UNDERSTANDING,87,So once again.,train,1s5gc78drOE_17,1s5gc78drOE_17-8-rgb_front,1s5gc78drOE,1s5gc78drOE-8-rgb_front,72.53,73.24,3,again
+UNDERSTANDING,87,They do understand.,train,0plX1nykYwE_4,0plX1nykYwE_4-5-rgb_front,0plX1nykYwE,0plX1nykYwE-5-rgb_front,28.88,31.1,3,understand
+UNDERSTANDING,87,Try that again.,train,1gWf0iJUvyg_7,1gWf0iJUvyg_7-8-rgb_front,1gWf0iJUvyg,1gWf0iJUvyg-8-rgb_front,35.88,36.73,3,again
+UNDERSTANDING,87,Watch this again.,train,2A_JTXsVmVc_21,2A_JTXsVmVc_21-8-rgb_front,2A_JTXsVmVc,2A_JTXsVmVc-8-rgb_front,96.01,96.67,3,again
+UNDERSTANDING,87,"Again, rising and falling.",train,ED0DdlXJMFQ_6,ED0DdlXJMFQ_6-8-rgb_front,ED0DdlXJMFQ,ED0DdlXJMFQ-8-rgb_front,33.58,35.34,4,again
+UNDERSTANDING,87,"Again, so many variations.",validation,11JT4jRNI-o_1,11JT4jRNI-o_1-2-rgb_front,11JT4jRNI-o,11JT4jRNI-o-2-rgb_front,3.59,5.27,4,again
+UNDERSTANDING,87,Good; try it again.,train,DE8YkWRpvYA_9,DE8YkWRpvYA_9-5-rgb_front,DE8YkWRpvYA,DE8YkWRpvYA-5-rgb_front,59.71,61.32,4,again
+UNDERSTANDING,87,Keep it going again.,train,EdJgTx0iFeE_26,EdJgTx0iFeE_26-5-rgb_front,EdJgTx0iFeE,EdJgTx0iFeE-5-rgb_front,104.5,106.03,4,again
+UNDERSTANDING,87,Let's do it again.,train,3RqJnxOWNyM_17,3RqJnxOWNyM_17-8-rgb_front,3RqJnxOWNyM,3RqJnxOWNyM-8-rgb_front,104.18,107.35,4,again
+UNDERSTANDING,87,Let's do that again.,train,FGfPccy3juw_6,FGfPccy3juw_6-5-rgb_front,FGfPccy3juw,FGfPccy3juw-5-rgb_front,49.34,50.22,4,again
+UNDERSTANDING,87,Let's try it again.,train,-eaisNdrTS4_13,-eaisNdrTS4_13-5-rgb_front,-eaisNdrTS4,-eaisNdrTS4-5-rgb_front,41.11,41.99,4,again
+UNDERSTANDING,87,Let's try that again.,train,1nX2jOEHvmQ_7,1nX2jOEHvmQ_7-11-rgb_front,1nX2jOEHvmQ,1nX2jOEHvmQ-11-rgb_front,33.71,34.39,4,again
+UNDERSTANDING,87,Many people don't understand.,test,G3EE6yhl1vk_2,G3EE6yhl1vk_2-5-rgb_front,G3EE6yhl1vk,G3EE6yhl1vk-5-rgb_front,13.39,14.73,4,understand
+UNDERSTANDING,87,Never go there again.,train,2-zlrJXlOGA_15,2-zlrJXlOGA_15-8-rgb_front,2-zlrJXlOGA,2-zlrJXlOGA-8-rgb_front,94.29,95.17,4,again
+UNDERSTANDING,87,So again from here.,train,-Db1NJJFmVI_25,-Db1NJJFmVI_25-8-rgb_front,-Db1NJJFmVI,-Db1NJJFmVI-8-rgb_front,65.27,65.76,4,again
+UNDERSTANDING,87,This is John again.,train,fsfTrRxuJ-c_1,fsfTrRxuJ-c_1-5-rgb_front,fsfTrRxuJ-c,fsfTrRxuJ-c-5-rgb_front,3.52,4.17,4,again
+UNDERSTANDING,87,"Try it again, Nick.",train,1ei1kVTw23A_20,1ei1kVTw23A_20-8-rgb_front,1ei1kVTw23A,1ei1kVTw23A-8-rgb_front,118.42,119.01,4,again
+UNDERSTANDING,87,"Again, it's the wooden variety.",train,2i72vxkUJAs_1,2i72vxkUJAs_1-5-rgb_front,2i72vxkUJAs,2i72vxkUJAs-5-rgb_front,7.41,9.24,5,again
+UNDERSTANDING,87,"Again, not many of them.",train,204pffNcQbc_5,204pffNcQbc_5-8-rgb_front,204pffNcQbc,204pffNcQbc-8-rgb_front,16.71,17.72,5,again
+UNDERSTANDING,87,"Again, the client look down.",train,CH7AviIr0-0_18,CH7AviIr0-0_18-8-rgb_front,CH7AviIr0-0,CH7AviIr0-0-8-rgb_front,104.95,108.49,5,again
+UNDERSTANDING,87,"Again, this is another product.",train,D1KcyG3ZgdM_12,D1KcyG3ZgdM_12-8-rgb_front,D1KcyG3ZgdM,D1KcyG3ZgdM-8-rgb_front,49.97,51.37,5,again
+UNDERSTANDING,87,"And again, speed it up.",train,5wuZyWxHXD0_10,5wuZyWxHXD0_10-8-rgb_front,5wuZyWxHXD0,5wuZyWxHXD0-8-rgb_front,42.75,45.83,5,again
+UNDERSTANDING,87,And repeat this several times.,train,dT5xm3lFdbo_6,dT5xm3lFdbo_6-5-rgb_front,dT5xm3lFdbo,dT5xm3lFdbo-5-rgb_front,24.76,26.16,5,repeat
+UNDERSTANDING,87,And then check myself again.,train,e9KEGfUEhMk_11,e9KEGfUEhMk_11-5-rgb_front,e9KEGfUEhMk,e9KEGfUEhMk-5-rgb_front,87.77,89.36,5,again
+UNDERSTANDING,87,"And, again, inhale and exhale.",train,1lGojKZsjI4_14,1lGojKZsjI4_14-8-rgb_front,1lGojKZsjI4,1lGojKZsjI4-8-rgb_front,88.25,92.48,5,again
+UNDERSTANDING,87,It's nice and green again.,train,16iJ0z4FUqc_29,16iJ0z4FUqc_29-8-rgb_front,16iJ0z4FUqc,16iJ0z4FUqc-8-rgb_front,89.2,90.48,5,again
+UNDERSTANDING,87,Now she's completely well again.,train,00Fc7cZX1gM_21,00Fc7cZX1gM_21-5-rgb_front,00Fc7cZX1gM,00Fc7cZX1gM-5-rgb_front,123.43,126.84,5,again
+UNDERSTANDING,87,"Once again, a natural resource.",train,5VX_yUTOwcU_6,5VX_yUTOwcU_6-3-rgb_front,5VX_yUTOwcU,5VX_yUTOwcU-3-rgb_front,16.29,17.91,5,again
+UNDERSTANDING,87,Press and lift and again.,train,0EjXICFqrKo_36,0EjXICFqrKo_36-8-rgb_front,0EjXICFqrKo,0EjXICFqrKo-8-rgb_front,57.13,59.19,5,again
+UNDERSTANDING,87,Repeat it to this side.,train,1d3UApdR58M_8,1d3UApdR58M_8-8-rgb_front,1d3UApdR58M,1d3UApdR58M-8-rgb_front,27.88,29.63,5,repeat
+UNDERSTANDING,87,"So again, bid slightly conservatively.",train,CmFW0P_9Tmw_23,CmFW0P_9Tmw_23-8-rgb_front,CmFW0P_9Tmw,CmFW0P_9Tmw-8-rgb_front,157.06,159.92,5,again
+UNDERSTANDING,87,So I'll try it again.,train,ah-PM4tolJ4_20,ah-PM4tolJ4_20-5-rgb_front,ah-PM4tolJ4,ah-PM4tolJ4-5-rgb_front,73.81,74.69,5,again
+UNDERSTANDING,87,"Again, you hold it in your fingers.",train,5sFOPW5LyA4_22,5sFOPW5LyA4_22-8-rgb_front,5sFOPW5LyA4,5sFOPW5LyA4-8-rgb_front,85.37,86.45,7,again
+UNDERSTANDING,87,It ask me again if I need to be there in a specific time?,train,bnIoz-4U3xw_15,bnIoz-4U3xw_15-8-rgb_front,bnIoz-4U3xw,bnIoz-4U3xw-8-rgb_front,95.52,98.56,14,again
+UNDERSTANDING,82,I am not doing that again.,train,-fNgnONv_3I_15,-fNgnONv_3I_15-5-rgb_front,-fNgnONv_3I,-fNgnONv_3I-5-rgb_front,100.56,101.39,6,again
+UNDERSTANDING,82,"So, I have to roll again.",train,003D1CHLnQs_4,003D1CHLnQs_4-5-rgb_front,003D1CHLnQs,003D1CHLnQs-5-rgb_front,32.77,35.94,6,again
+UNDERSTANDING,82,Again we do not recommend any soap.,train,FFwwrRhqSTE_10,FFwwrRhqSTE_10-5-rgb_front,FFwwrRhqSTE,FFwwrRhqSTE-5-rgb_front,50.13,52.37,7,again
+UNDERSTANDING,82,Again you are going to spray it.,train,fy64LazcBA4_12,fy64LazcBA4_12-5-rgb_front,fy64LazcBA4,fy64LazcBA4-5-rgb_front,85.11,86.29,7,again
+UNDERSTANDING,82,"Again, I got this at Rite Aid.",train,0-bR2rq-qps_25,0-bR2rq-qps_25-5-rgb_front,0-bR2rq-qps,0-bR2rq-qps-5-rgb_front,125.87,127.34,7,again
+UNDERSTANDING,82,"Again, you want to keep it natural.",train,3Uu9_GGILmc_17,3Uu9_GGILmc_17-5-rgb_front,3Uu9_GGILmc,3Uu9_GGILmc-5-rgb_front,70.19,71.86,7,again

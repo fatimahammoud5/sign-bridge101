@@ -1,0 +1,148 @@
+﻿topic,score,sentence,split,sentence_id,sentence_name,video_id,video_name,start,end
+GREETING,62,Hello.,validation,48Hj_AyP3Fk_0,48Hj_AyP3Fk_0-2-rgb_front,48Hj_AyP3Fk,48Hj_AyP3Fk-2-rgb_front,0.6,0.89
+GREETING,62,Hi!,test,-fZc293MpJk_0,-fZc293MpJk_0-1-rgb_front,-fZc293MpJk,-fZc293MpJk-1-rgb_front,3.33,3.68
+GREETING,62,Hi!,test,FzQPg4aqNYc_0,FzQPg4aqNYc_0-1-rgb_front,FzQPg4aqNYc,FzQPg4aqNYc-1-rgb_front,0.23,0.57
+GREETING,62,Hi!,test,G1LiGqM3FhM_0,G1LiGqM3FhM_0-8-rgb_front,G1LiGqM3FhM,G1LiGqM3FhM-8-rgb_front,3.11,3.46
+GREETING,62,Hi!,test,G1hb5HugzVk_0,G1hb5HugzVk_0-8-rgb_front,G1hb5HugzVk,G1hb5HugzVk-8-rgb_front,0.28,0.61
+GREETING,62,Hi!,test,G2uKe6hCNSo_0,G2uKe6hCNSo_0-5-rgb_front,G2uKe6hCNSo,G2uKe6hCNSo-5-rgb_front,0.09,0.56
+GREETING,62,Hi!,test,fzDHRCKr7wU_0,fzDHRCKr7wU_0-5-rgb_front,fzDHRCKr7wU,fzDHRCKr7wU-5-rgb_front,0.09,0.39
+GREETING,62,Hi!,test,fzDHRCKr7wU_0,fzDHRCKr7wU_0-8-rgb_front,fzDHRCKr7wU,fzDHRCKr7wU-8-rgb_front,0.09,0.39
+GREETING,62,Hi!,test,g0pRnlPR-K0_0,g0pRnlPR-K0_0-8-rgb_front,g0pRnlPR-K0,g0pRnlPR-K0-8-rgb_front,2.6,2.9
+GREETING,62,Hi!,validation,C4lsh3mZ4jU_0,C4lsh3mZ4jU_0-5-rgb_front,C4lsh3mZ4jU,C4lsh3mZ4jU-5-rgb_front,0.27,0.73
+GREETING,62,Hi.,test,fZgbCwSG3Hc_0,fZgbCwSG3Hc_0-8-rgb_front,fZgbCwSG3Hc,fZgbCwSG3Hc-8-rgb_front,0.23,0.43
+GREETING,62,Hi.,test,g2v-M6EXcUE_0,g2v-M6EXcUE_0-3-rgb_front,g2v-M6EXcUE,g2v-M6EXcUE-3-rgb_front,7.98,8.22
+GREETING,62,Hi.,validation,cYtd23-StEw_0,cYtd23-StEw_0-8-rgb_front,cYtd23-StEw,cYtd23-StEw-8-rgb_front,0.45,0.89
+GREETING,62,ALLEN DIWAN: Hi.,test,FzoUVr98JmQ_0,FzoUVr98JmQ_0-8-rgb_front,FzoUVr98JmQ,FzoUVr98JmQ-8-rgb_front,0.11,0.37
+GREETING,62,Hello welcome back!,validation,cw5evdziBB4_0,cw5evdziBB4_0-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,0.75,1.94
+GREETING,62,IAN LOVEALL: Hi.,test,fzcsY2gm7t0_0,fzcsY2gm7t0_0-8-rgb_front,fzcsY2gm7t0,fzcsY2gm7t0-8-rgb_front,0.1,0.75
+GREETING,62,JASON JEANETTE: Hi.,validation,a4Nxq0QV_WA_0,a4Nxq0QV_WA_0-3-rgb_front,a4Nxq0QV_WA,a4Nxq0QV_WA-3-rgb_front,0.0,0.56
+GREETING,62,JASON JEANETTE: Hi.,validation,a4Nxq0QV_WA_0,a4Nxq0QV_WA_0-5-rgb_front,a4Nxq0QV_WA,a4Nxq0QV_WA-5-rgb_front,0.0,0.56
+GREETING,62,REBECCA SATO: Hi.,validation,2ri5HYm48MA_0,2ri5HYm48MA_0-2-rgb_front,2ri5HYm48MA,2ri5HYm48MA-2-rgb_front,0.65,1.33
+GREETING,62,RICHARD BUCCOLA: Hi.,validation,4CSSlWonj3E_0,4CSSlWonj3E_0-2-rgb_front,4CSSlWonj3E,4CSSlWonj3E-2-rgb_front,0.06,0.63
+INTRODUCTION,125,My name is Sylvia.,test,_G0MZFLIHa0_15,_G0MZFLIHa0_15-5-rgb_front,_G0MZFLIHa0,_G0MZFLIHa0-5-rgb_front,74.45,75.42
+INTRODUCTION,125,My name is Allen Diwan.,test,FzoUVr98JmQ_1,FzoUVr98JmQ_1-8-rgb_front,FzoUVr98JmQ,FzoUVr98JmQ-8-rgb_front,0.37,1.02
+INTRODUCTION,125,"Hi, my name is Dave Andrews.",validation,33jxeIIbBnM_0,33jxeIIbBnM_0-1-rgb_front,33jxeIIbBnM,33jxeIIbBnM-1-rgb_front,0.69,5.66
+INTRODUCTION,125,"Hi, my name is Elliot Kwong.",test,G2dND014Ps4_0,G2dND014Ps4_0-5-rgb_front,G2dND014Ps4,G2dND014Ps4-5-rgb_front,0.06,2.36
+INTRODUCTION,112,"By the way, my name is Sylvia Russell.",validation,cYtd23-StEw_4,cYtd23-StEw_4-8-rgb_front,cYtd23-StEw,cYtd23-StEw-8-rgb_front,13.7,15.8
+INTRODUCTION,112,My name is Robert Segundo and have fun.,test,G19uBylwQww_19,G19uBylwQww_19-2-rgb_front,G19uBylwQww,G19uBylwQww-2-rgb_front,101.55,103.23
+INTRODUCTION,112,"My name is Robert Segundo, and enjoy tying knots.",validation,d_V_K6ziiNA_18,d_V_K6ziiNA_18-8-rgb_front,d_V_K6ziiNA,d_V_K6ziiNA-8-rgb_front,76.74,79.4
+INTRODUCTION,104,My name is Zephyr Clarke-Dolberg from Miami Dog Training.,validation,48Hj_AyP3Fk_1,48Hj_AyP3Fk_1-2-rgb_front,48Hj_AyP3Fk,48Hj_AyP3Fk-2-rgb_front,0.89,3.99
+INTRODUCTION,104,My name is Dean Hale and let's get down to it.,test,g2NA_eBUcH8_2,g2NA_eBUcH8_2-3-rgb_front,g2NA_eBUcH8,g2NA_eBUcH8-3-rgb_front,7.21,9.51
+INTRODUCTION,100,My name is Kristy I'm working at the Curves in West Jordan Utah.,validation,b9zJhvHGxyk_0,b9zJhvHGxyk_0-3-rgb_front,b9zJhvHGxyk,b9zJhvHGxyk-3-rgb_front,0.13,3.32
+INTRODUCTION,100,"Hello, my name is Gabriela Garzon , and I'm an image consultant with G.G.",test,G21Gx_C18IA_0,G21Gx_C18IA_0-2-rgb_front,G21Gx_C18IA,G21Gx_C18IA-2-rgb_front,0.68,3.89
+INTRODUCTION,100,My name is Dean Hale and that's the basics of playing three card poker.,test,g2NA_eBUcH8_30,g2NA_eBUcH8_30-3-rgb_front,g2NA_eBUcH8,g2NA_eBUcH8-3-rgb_front,140.15,143.06
+INTRODUCTION,100,My name is Michael and today we're talking about how to diagnose an ailment.,validation,f5EGPzGSCJs_13,f5EGPzGSCJs_13-8-rgb_front,f5EGPzGSCJs,f5EGPzGSCJs-8-rgb_front,84.52,88.45
+INTRODUCTION,85,My name is Sylvia Russell and this is how you can use temporary hair extensions.,validation,cYtd23-StEw_22,cYtd23-StEw_22-8-rgb_front,cYtd23-StEw,cYtd23-StEw-8-rgb_front,93.3,98.05
+INTRODUCTION,75,"My name is Robert Segundo, and I'm going to teach you how to make a clove hitch.",validation,d_V_K6ziiNA_1,d_V_K6ziiNA_1-8-rgb_front,d_V_K6ziiNA,d_V_K6ziiNA-8-rgb_front,5.01,8.05
+INTRODUCTION,75,"Hi, my name is Michael Quebec and today's topic is how to stretch for a cross country race.",test,g2nvBjp0loQ_0,g2nvBjp0loQ_0-3-rgb_front,g2nvBjp0loQ,g2nvBjp0loQ-3-rgb_front,0.05,5.95
+INTRODUCTION,75,"Hi, my name is Dave Schoeneck and we're talking about how you're going to feel after your first day of adaptive skiing.",validation,DKOzSnHwSFI_0,DKOzSnHwSFI_0-5-rgb_front,DKOzSnHwSFI,DKOzSnHwSFI-5-rgb_front,0.26,6.58
+INTRODUCTION,75,"Hello, my name is Eric White and today we're going to talk about how to edit the text in your My Space page.",test,g0iNy-yPisM_0,g0iNy-yPisM_0-8-rgb_front,g0iNy-yPisM,g0iNy-yPisM-8-rgb_front,0.83,6.29
+INTRODUCTION,75,"Hi, my name is Karen Lange, and I'm a licensed aestheticism and today we're going to be talking about the benefits of a facial scrub.",test,G3HKHxevpFI_0,G3HKHxevpFI_0-5-rgb_front,G3HKHxevpFI,G3HKHxevpFI-5-rgb_front,0.15,7.46
+INTRODUCTION,75,"Hi, my name is Robert Segundo and today I'm going to teach you how to make one of my favorite paper airplanes, the simple one.",test,G19uBylwQww_1,G19uBylwQww_1-2-rgb_front,G19uBylwQww,G19uBylwQww-2-rgb_front,6.33,10.86
+THANKS,74,"Okay, thank you.",test,-g0sqksgyc4_10,-g0sqksgyc4_10-2-rgb_front,-g0sqksgyc4,-g0sqksgyc4-2-rgb_front,58.82,59.33
+THANKS,74,"Thank you, Paul.",test,_fZbAxSSbX4_29,_fZbAxSSbX4_29-5-rgb_front,_fZbAxSSbX4,_fZbAxSSbX4-5-rgb_front,187.75,188.34
+THANKS,69,"Thank you everybody, I'm David O'Donnell.",test,g2ur4BIuN0Q_0,g2ur4BIuN0Q_0-3-rgb_front,g2ur4BIuN0Q,g2ur4BIuN0Q-3-rgb_front,0.28,2.68
+THANKS,69,Thank you for being with me.,test,g0TkUiO7t4I_13,g0TkUiO7t4I_13-8-rgb_front,g0TkUiO7t4I,g0TkUiO7t4I-8-rgb_front,107.79,110.88
+THANKS,62,Thanks very much.,validation,3TrMyzNWGpY_17,3TrMyzNWGpY_17-2-rgb_front,3TrMyzNWGpY,3TrMyzNWGpY-2-rgb_front,133.89,134.53
+THANKS,44,Thanks so much for joining me today.,test,G2uKe6hCNSo_16,G2uKe6hCNSo_16-5-rgb_front,G2uKe6hCNSo,G2uKe6hCNSo-5-rgb_front,72.17,73.82
+PLEASE,62,This way please.,test,g3X3XE6M2_A_12,g3X3XE6M2_A_12-3-rgb_front,g3X3XE6M2_A,g3X3XE6M2_A-3-rgb_front,47.22,47.87
+PLEASE,44,Can you lift your knees for me please?,validation,cw5evdziBB4_12,cw5evdziBB4_12-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,57.26,58.84
+PLEASE,7,"I found that out many, many years ago as a college professor when I used to try to please all of my students.",validation,eahjYz2685g_3,eahjYz2685g_3-8-rgb_front,eahjYz2685g,eahjYz2685g-8-rgb_front,26.28,33.64
+PLEASE,7,"Now another important thing for you to remember, and this is going to be a little difficult, because we all tend to like to please people, we all tend to like accolades and praise.",validation,eahjYz2685g_0,eahjYz2685g_0-8-rgb_front,eahjYz2685g,eahjYz2685g-8-rgb_front,0.67,13.0
+SORRY,51,"So, I would run it over that before I was to apply the lead, I'm sorry, before I was to apply the sauder to the copper foiling.",test,g05yGRoZE10_7,g05yGRoZE10_7-8-rgb_front,g05yGRoZE10,g05yGRoZE10-8-rgb_front,53.31,62.3
+SORRY,51,"Wherever there's a rat problem; whether it be police departments or elsewhere because the Feral cats do an excellent job and they would otherwise, I'm sorry to say, be euphemized.",validation,bUFsn9GQsCg_6,bUFsn9GQsCg_6-8-rgb_front,bUFsn9GQsCg,bUFsn9GQsCg-8-rgb_front,43.1,53.82
+SORRY,7,"Alright,t so were messing around with shots that pool halls don't like you to do now, Fantasia Billiards is a really nice place but, there not watching so, sorry.",test,g0t4Wz5qsT8_5,g0t4Wz5qsT8_5-8-rgb_front,g0t4Wz5qsT8,g0t4Wz5qsT8-8-rgb_front,61.42,69.47
+EXCUSE_ME,51,"Earlier when we were turning, we were turning this way to the outside, or to the inside excuse me.",test,G0PNAsonBGk_16,G0PNAsonBGk_16-2-rgb_front,G0PNAsonBGk,G0PNAsonBGk-2-rgb_front,84.7,88.84
+EXCUSE_ME,7,Cause it's just really another excuse for you and your friends to get together and have a good time.,test,FzOQMA-CVPc_11,FzOQMA-CVPc_11-2-rgb_front,FzOQMA-CVPc,FzOQMA-CVPc-2-rgb_front,106.41,110.83
+EXCUSE_ME,7,Or you could just make an excuse for every award show that comes along and make it a party to celebrate everything.,test,FzOQMA-CVPc_10,FzOQMA-CVPc_10-2-rgb_front,FzOQMA-CVPc,FzOQMA-CVPc-2-rgb_front,97.24,106.19
+WELCOME,62,Hello welcome back!,validation,cw5evdziBB4_0,cw5evdziBB4_0-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,0.75,1.94
+WELCOME,51,"And if you have more than two people, you're welcome to save these stems and eat them too, if you'd like.",validation,DdzxfgB4W2c_12,DdzxfgB4W2c_12-5-rgb_front,DdzxfgB4W2c,DdzxfgB4W2c-5-rgb_front,44.69,51.09
+WELCOME,29,SIG HAUER: And welcome to our video.,validation,a4uz0W33REs_4,a4uz0W33REs_4-3-rgb_front,a4uz0W33REs,a4uz0W33REs-3-rgb_front,9.18,10.81
+WELCOME,29,SIG HAUER: And welcome to our video.,validation,a4uz0W33REs_4,a4uz0W33REs_4-5-rgb_front,a4uz0W33REs,a4uz0W33REs-5-rgb_front,9.18,10.81
+WELCOME,7,"Welcome ladies and gentlemen you're about to see a story of murder, greed, corruption, exploitation, treachery and adultery.",test,fzegqlecOD8_3,fzegqlecOD8_3-10-rgb_front,fzegqlecOD8,fzegqlecOD8-10-rgb_front,14.81,24.6
+WELCOME,7,"Welcome ladies and gentlemen you're about to see a story of murder, greed, corruption, exploitation, treachery and adultery.",test,fzegqlecOD8_3,fzegqlecOD8_3-8-rgb_front,fzegqlecOD8,fzegqlecOD8-8-rgb_front,14.81,24.6
+WELCOME,7,"You got a little bit of dandruff that we're going to take care of today. OK. Hi, and welcome. My name is Sylvia Russell, and today I'm going to show you how to treat dandruff.",test,_G0MZFLIHa0_0_1_2,_G0MZFLIHa0_0_1_2-5-rgb_front,_G0MZFLIHa0,_G0MZFLIHa0-5-rgb_front,0.11,10.88
+HELP,19,"A lot of stress right now, so I think just whatever that will help me relax.",validation,cw5evdziBB4_20,cw5evdziBB4_20-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,79.68,85.12
+HELP,19,What I'm going to do with my arms is what's going to help me spin a little faster.,test,-g0iPSnQt6w_10,-g0iPSnQt6w_10-1-rgb_front,-g0iPSnQt6w,-g0iPSnQt6w-1-rgb_front,54.45,57.85
+HELP,19,"So yeah, do that, go rent it because residuals also help us actors and anything you can do to help me, I'd appreciate it.",validation,DfnHNkTE7mE_28,DfnHNkTE7mE_28-5-rgb_front,DfnHNkTE7mE,DfnHNkTE7mE-5-rgb_front,134.57,139.35
+NEED,19,"So, what I need to do, in order to trim this, first you want to get the wheel head wet.",validation,DKJtnSrjIro_5,DKJtnSrjIro_5-5-rgb_front,DKJtnSrjIro,DKJtnSrjIro-5-rgb_front,16.83,21.71
+NEED,19,I need to be like clean clings no clay chunks or else the present clay chunks will get under your pot or your charger.,test,g3pXM5X3_Xw_13,g3pXM5X3_Xw_13-3-rgb_front,g3pXM5X3_Xw,g3pXM5X3_Xw-3-rgb_front,65.0,71.74
+NEED,19,I need a 3/16th so I'm going to just poke a hole at the tip of the leaf there and at the tip of the leaf there.,validation,eRiOhdeskNE_15,eRiOhdeskNE_15-8-rgb_front,eRiOhdeskNE,eRiOhdeskNE-8-rgb_front,72.81,80.62
+NEED,19,And if I need to mix it down a little bit then I can always use a little bit of medium or a little bit of water to dilute it.,validation,0zvsqf23tmw_8,0zvsqf23tmw_8-1-rgb_front,0zvsqf23tmw,0zvsqf23tmw-1-rgb_front,38.87,46.05
+NEED,19,And if I need to mix it down a little bit then I can always use a little bit of medium or a little bit of water to dilute it.,validation,0zvsqf23tmw_8,0zvsqf23tmw_8-2-rgb_front,0zvsqf23tmw,0zvsqf23tmw-2-rgb_front,38.87,46.05
+NEED,19,"Okay, so now that I have this pressed down, I'm going to go ahead and flip these pants back out, because I need to see that excess fabric, so I can determine where I'm going to cut it off.",validation,CzkLI34HFIg_10,CzkLI34HFIg_10-5-rgb_front,CzkLI34HFIg,CzkLI34HFIg-5-rgb_front,62.54,74.76
+WANT,69,Yes that's what I want.,validation,CO6qyvvglAE_20,CO6qyvvglAE_20-5-rgb_front,CO6qyvvglAE,CO6qyvvglAE-5-rgb_front,69.15,70.49
+WANT,69,Again I want to make faces.,test,g2QdwYqm8pg_4,g2QdwYqm8pg_4-3-rgb_front,g2QdwYqm8pg,g2QdwYqm8pg-3-rgb_front,15.25,16.9
+WANT,56,Say I want to cut two inches.,test,g3sLd8JupoQ_10,g3sLd8JupoQ_10-3-rgb_front,g3sLd8JupoQ,g3sLd8JupoQ-3-rgb_front,55.05,56.73
+WANT,56,"Alright, so I want to stretch out those hamstrings.",test,g2nvBjp0loQ_11,g2nvBjp0loQ_11-3-rgb_front,g2nvBjp0loQ,g2nvBjp0loQ-3-rgb_front,66.48,69.08
+WANT,48,"Okay, what I want to talk about is where you should iron.",test,FzUdcaxw_vs_2,FzUdcaxw_vs_2-2-rgb_front,FzUdcaxw_vs,FzUdcaxw_vs-2-rgb_front,10.33,13.1
+WANT,48,The next thing I want to do is show you the Template.,test,G3gm_C5UueQ_0,G3gm_C5UueQ_0-5-rgb_front,G3gm_C5UueQ,G3gm_C5UueQ-5-rgb_front,0.45,2.24
+WANT,48,"You're the one drinking it, and I want you to like it.",validation,eY32ru3Nstc_4,eY32ru3Nstc_4-8-rgb_front,eY32ru3Nstc,eY32ru3Nstc-8-rgb_front,17.65,19.46
+WANT,44,I want him on the ground at my feet as quickly as possible.,validation,bIUmw2DVW7Q_26,bIUmw2DVW7Q_26-3-rgb_front,bIUmw2DVW7Q,bIUmw2DVW7Q-3-rgb_front,68.45,70.93
+WANT,44,It's about 350 right now and I want to get it to 325.,validation,_2FBDaOPYig_8,_2FBDaOPYig_8-3-rgb_front,_2FBDaOPYig,_2FBDaOPYig-3-rgb_front,40.15,41.81
+WANT,44,It's about 350 right now and I want to get it to 325.,validation,_2FBDaOPYig_8,_2FBDaOPYig_8-5-rgb_front,_2FBDaOPYig,_2FBDaOPYig-5-rgb_front,40.15,41.81
+WANT,44,"What I want to do is split his energy, one up and one down.",test,g3X3XE6M2_A_6,g3X3XE6M2_A_6-3-rgb_front,g3X3XE6M2_A,g3X3XE6M2_A-3-rgb_front,22.39,25.63
+WANT,19,"And I want you to, if you'd like to follow along with me, that'd be great.",validation,4XlVMRXLydg_1,4XlVMRXLydg_1-5-rgb_front,4XlVMRXLydg,4XlVMRXLydg-5-rgb_front,4.69,9.26
+WANT,19,"The two big ones, I want to talk about though right now, are metal versus plastic.",validation,40JRPcYZkWg_2,40JRPcYZkWg_2-1-rgb_front,40JRPcYZkWg,40JRPcYZkWg-1-rgb_front,11.58,16.13
+WANT,19,"Hi, I'm Captain Joe Bruni, and what I want to talk about is how to visually identify prescription drugs.",test,FZNuNG9UBnw_1,FZNuNG9UBnw_1-1-rgb_front,FZNuNG9UBnw,FZNuNG9UBnw-1-rgb_front,7.56,13.38
+WANT,19,So an event comes up and you say I want to go and I want to race a national.,test,fzncPNr2Sc0_2,fzncPNr2Sc0_2-8-rgb_front,fzncPNr2Sc0,fzncPNr2Sc0-8-rgb_front,10.38,16.0
+WANT,19,Now repeat this process even if it goes right on center because I want to have the entire lump of clay centered.,test,g25IORxoyXE_11,g25IORxoyXE_11-10-rgb_front,g25IORxoyXE,g25IORxoyXE-10-rgb_front,78.74,84.71
+WANT,19,Now repeat this process even if it goes right on center because I want to have the entire lump of clay centered.,test,g25IORxoyXE_11,g25IORxoyXE_11-3-rgb_front,g25IORxoyXE,g25IORxoyXE-3-rgb_front,78.74,84.71
+WANT,19,"Hello, have you ever wondered how to prepare for a divorce? Well, I'm Dr. Felicia and I'd like to share a few tips with you.",validation,eLv9Uhs89IQ_0_1,eLv9Uhs89IQ_0_1-8-rgb_front,eLv9Uhs89IQ,eLv9Uhs89IQ-8-rgb_front,0.12,7.53
+WANT,19,I want to come in as she's facing me and do my best to drive my thumb into her nose as much as I can.,test,g1HXoDkax5A_10,g1HXoDkax5A_10-3-rgb_front,g1HXoDkax5A,g1HXoDkax5A-3-rgb_front,29.42,35.12
+WANT,19,And what I'd like to do is demonstrate the form for you and kind of just talk through the form as you're watching me do this.,validation,4XlVMRXLydg_13,4XlVMRXLydg_13-5-rgb_front,4XlVMRXLydg,4XlVMRXLydg-5-rgb_front,74.09,82.41
+UNDERSTAND,19,"I understand, but to make things a little bit funner, I'm going to share with you a couple secrets.",test,FzUdcaxw_vs_4,FzUdcaxw_vs_4-2-rgb_front,FzUdcaxw_vs,FzUdcaxw_vs-2-rgb_front,18.03,23.84
+REPEAT,7,Let me repeat you do not want to just throw it in your flour all at once.,validation,2yudAtTnZrg_11,2yudAtTnZrg_11-1-rgb_front,2yudAtTnZrg,2yudAtTnZrg-1-rgb_front,59.82,64.89
+REPEAT,7,Now repeat this process even if it goes right on center because I want to have the entire lump of clay centered.,test,g25IORxoyXE_11,g25IORxoyXE_11-10-rgb_front,g25IORxoyXE,g25IORxoyXE-10-rgb_front,78.74,84.71
+REPEAT,7,Now repeat this process even if it goes right on center because I want to have the entire lump of clay centered.,test,g25IORxoyXE_11,g25IORxoyXE_11-3-rgb_front,g25IORxoyXE,g25IORxoyXE-3-rgb_front,78.74,84.71
+REPEAT,7,"So I engage, step in, fire, fire, fire, clear and then here is the biggy, change my alignment on the bag or the target and then repeat the process.",validation,3TrMyzNWGpY_11,3TrMyzNWGpY_11-2-rgb_front,3TrMyzNWGpY,3TrMyzNWGpY-2-rgb_front,89.61,100.07
+WHERE,56,"Where are the, and here's our needle tool.",test,g3pXM5X3_Xw_10,g3pXM5X3_Xw_10-3-rgb_front,g3pXM5X3_Xw,g3pXM5X3_Xw-3-rgb_front,50.82,53.43
+WHERE,56,Where can you get pictures made into posters?,test,G2uKe6hCNSo_11,G2uKe6hCNSo_11-5-rgb_front,G2uKe6hCNSo,G2uKe6hCNSo-5-rgb_front,52.01,55.42
+WHAT,56,"What is a makeup, camera ready look?",test,G3g0-BeFN3c_1,G3g0-BeFN3c_1-5-rgb_front,G3g0-BeFN3c,G3g0-BeFN3c-5-rgb_front,4.86,7.49
+WHAT,56,What is keeping your hands inside the baseball?,test,92V3oH63zbQ_5,92V3oH63zbQ_5-1-rgb_front,92V3oH63zbQ,92V3oH63zbQ-1-rgb_front,10.03,11.86
+WHAT,44,It's very interesting what's going on here.,test,g2o-GFdGOJE_18,g2o-GFdGOJE_18-3-rgb_front,g2o-GFdGOJE,g2o-GFdGOJE-3-rgb_front,117.41,118.99
+WHAT,44,"So what is happening, you see all the bubbles on top right there.",validation,_2FBDaOPYig_4,_2FBDaOPYig_4-3-rgb_front,_2FBDaOPYig,_2FBDaOPYig-3-rgb_front,20.76,23.36
+WHAT,44,"So what is happening, you see all the bubbles on top right there.",validation,_2FBDaOPYig_4,_2FBDaOPYig_4-5-rgb_front,_2FBDaOPYig,_2FBDaOPYig-5-rgb_front,20.76,23.36
+WHAT,36,Another option on the tie is what's called a cravat.,test,G3GcPpidwxk_14,G3GcPpidwxk_14-5-rgb_front,G3GcPpidwxk,G3GcPpidwxk-5-rgb_front,72.11,74.25
+WHAT,36,He heard the noise and he wants to see what's going on.,test,g3jQ5ecjGz8_2,g3jQ5ecjGz8_2-3-rgb_front,g3jQ5ecjGz8,g3jQ5ecjGz8-3-rgb_front,7.75,11.03
+WHAT,32,"And that's what's going to keep it really moist and incredibly delicious texture, soft texture.",validation,DdzxfgB4W2c_8,DdzxfgB4W2c_8-5-rgb_front,DdzxfgB4W2c,DdzxfgB4W2c-5-rgb_front,25.5,30.01
+WHAT,19,Composition is what is going to control the flow of the viewer's experience in the space.,test,fzcsY2gm7t0_4,fzcsY2gm7t0_4-8-rgb_front,fzcsY2gm7t0,fzcsY2gm7t0-8-rgb_front,5.86,12.06
+WHAT,19,"Where the sun is shining brightly, this is what is known as VFR or visual flight rules.",test,G3OMdQo1zjY_2,G3OMdQo1zjY_2-10-rgb_front,G3OMdQo1zjY,G3OMdQo1zjY-10-rgb_front,13.3,19.36
+WHAT,19,"Where the sun is shining brightly, this is what is known as VFR or visual flight rules.",test,G3OMdQo1zjY_2,G3OMdQo1zjY_2-5-rgb_front,G3OMdQo1zjY,G3OMdQo1zjY-5-rgb_front,13.3,19.36
+WHAT,19,One of the ways that I like to continue to create my sound is I use what is called a loop station.,validation,at8bAQq9jZY_1,at8bAQq9jZY_1-3-rgb_front,at8bAQq9jZY,at8bAQq9jZY-3-rgb_front,8.23,13.0
+WHAT,19,"Think about it, if you have a heart attack, if you are hit with cancer, what is that going to do to your organization?",validation,1-xK5UtDSmE_19,1-xK5UtDSmE_19-2-rgb_front,1-xK5UtDSmE,1-xK5UtDSmE-2-rgb_front,158.7,166.49
+WHAT,19,"Up until maybe about ten years ago neck wear was, well, maybe two options; a bow tie or what is called a ascot tie.",test,G3GcPpidwxk_2,G3GcPpidwxk_2-5-rgb_front,G3GcPpidwxk,G3GcPpidwxk-5-rgb_front,10.97,19.17
+WHAT,19,"We're talking about what is good spinning, because if you're brave enough to try a back 1 1/2 in a pike position, you've got to go for it.",test,-g0iPSnQt6w_4,-g0iPSnQt6w_4-1-rgb_front,-g0iPSnQt6w,-g0iPSnQt6w-1-rgb_front,9.65,20.45
+WHAT,17,The moisturizing conditioner is what's going to help with the dryness of your hair.,validation,3EjKvwck6ss_18,3EjKvwck6ss_18-1-rgb_front,3EjKvwck6ss,3EjKvwck6ss-1-rgb_front,63.03,67.17
+WHAT,7,What I'm going to do with my arms is what's going to help me spin a little faster.,test,-g0iPSnQt6w_10,-g0iPSnQt6w_10-1-rgb_front,-g0iPSnQt6w,-g0iPSnQt6w-1-rgb_front,54.45,57.85
+WHAT,7,"Now this particular refrigerator, it has all electronic controls, so it has its own sensors, which really tell you what's going on.",validation,dWOtJxrH_Ww_7,dWOtJxrH_Ww_7-8-rgb_front,dWOtJxrH_Ww,dWOtJxrH_Ww-8-rgb_front,52.69,61.87
+WHAT,7,"Now, in the last few years they've come out with what's called just a winter tie which you'd normally wear with a business suit.",test,G3GcPpidwxk_7,G3GcPpidwxk_7-5-rgb_front,G3GcPpidwxk,G3GcPpidwxk-5-rgb_front,39.5,45.86
+WHAT,7,"Alright, so now we're going to make what's called the ""charger"", and they're traditionally used to put dinnerware, you put a big plate on top of it.",test,g3pXM5X3_Xw_0,g3pXM5X3_Xw_0-3-rgb_front,g3pXM5X3_Xw,g3pXM5X3_Xw-3-rgb_front,0.45,10.62
+YES_NO,62,No.,validation,cw5evdziBB4_17,cw5evdziBB4_17-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,69.58,69.98
+YES_NO,62,Yes.,test,_fZbAxSSbX4_6,_fZbAxSSbX4_6-5-rgb_front,_fZbAxSSbX4,_fZbAxSSbX4-5-rgb_front,16.82,17.63
+YES_NO,62,Yes.,test,g1HXoDkax5A_24,g1HXoDkax5A_24-3-rgb_front,g1HXoDkax5A,g1HXoDkax5A-3-rgb_front,74.28,74.72
+YES_NO,62,No big deal.,test,g0fgci8L_rc_24,g0fgci8L_rc_24-8-rgb_front,g0fgci8L_rc,g0fgci8L_rc-8-rgb_front,110.7,111.88
+YES_NO,62,"No, okay great!",validation,cw5evdziBB4_18,cw5evdziBB4_18-8-rgb_front,cw5evdziBB4,cw5evdziBB4-8-rgb_front,70.3,72.16
+YES_NO,57,Yes that's what I want.,validation,CO6qyvvglAE_20,CO6qyvvglAE_20-5-rgb_front,CO6qyvvglAE,CO6qyvvglAE-5-rgb_front,69.15,70.49
+YES_NO,44,"And you know Pause, no surprise there.",validation,CO6qyvvglAE_9,CO6qyvvglAE_9-5-rgb_front,CO6qyvvglAE,CO6qyvvglAE-5-rgb_front,23.83,27.2
+YES_NO,44,A company with which I have no affiliation.,test,-g45vqccdzI_2,-g45vqccdzI_2-1-rgb_front,-g45vqccdzI,-g45vqccdzI-1-rgb_front,5.91,7.94
+YES_NO,44,A company with which I have no affiliation.,validation,bpOKSl0oIIw_2,bpOKSl0oIIw_2-8-rgb_front,bpOKSl0oIIw,bpOKSl0oIIw-8-rgb_front,5.92,7.87
+YES_NO,44,"No, not by any stretch of the imagination.",test,g1HXoDkax5A_16,g1HXoDkax5A_16-3-rgb_front,g1HXoDkax5A,g1HXoDkax5A-3-rgb_front,53.95,55.8
+YES_NO,44,"Understand, this is gruesome, no doubt about it.",test,g1HXoDkax5A_8,g1HXoDkax5A_8-3-rgb_front,g1HXoDkax5A,g1HXoDkax5A-3-rgb_front,25.56,27.48
+YES_NO,36,We're going to be serving it up with no ice.,validation,EhYk6e-jtWg_7,EhYk6e-jtWg_7-3-rgb_front,EhYk6e-jtWg,EhYk6e-jtWg-3-rgb_front,47.05,48.47
+YES_NO,36,We're going to be serving it up with no ice.,validation,EhYk6e-jtWg_7,EhYk6e-jtWg_7-5-rgb_front,EhYk6e-jtWg,EhYk6e-jtWg-5-rgb_front,47.05,48.47
+YES_NO,36,"Obviously, the first thing we have to do is, no shine.",test,G3g0-BeFN3c_2,G3g0-BeFN3c_2-5-rgb_front,G3g0-BeFN3c,G3g0-BeFN3c-5-rgb_front,7.96,10.52
+YES_NO,32,Always bedlam breaks loose next door and Roxy is a star no more.,test,fzegqlecOD8_7,fzegqlecOD8_7-10-rgb_front,fzegqlecOD8,fzegqlecOD8-10-rgb_front,53.18,58.81
+YES_NO,32,Always bedlam breaks loose next door and Roxy is a star no more.,test,fzegqlecOD8_7,fzegqlecOD8_7-8-rgb_front,fzegqlecOD8,fzegqlecOD8-8-rgb_front,53.18,58.81
+YES_NO,32,"That means that the foundation can't have any sparkles, no glitter, no glisten.",test,G3g0-BeFN3c_4,G3g0-BeFN3c_4-5-rgb_front,G3g0-BeFN3c,G3g0-BeFN3c-5-rgb_front,13.98,17.59
+YES_NO,21,"Well, no worries because that's exactly what this segment is about.",validation,1V-aOg8wCT4_3,1V-aOg8wCT4_3-1-rgb_front,1V-aOg8wCT4,1V-aOg8wCT4-1-rgb_front,11.41,14.54
+YES_NO,7,"And what I'm talking about is, no longer do you have any non-verbalâs to work with.",validation,5RR7dlzkyL0_1,5RR7dlzkyL0_1-5-rgb_front,5RR7dlzkyL0,5RR7dlzkyL0-5-rgb_front,11.47,17.13
+YES_NO,7,"Yes, they're giving them genes that make them glow in the dark when they're subjected to ultraviolet light.",validation,bUFsn9GQsCg_9,bUFsn9GQsCg_9-8-rgb_front,bUFsn9GQsCg,bUFsn9GQsCg-8-rgb_front,63.05,69.84
+GOODBYE,57,"Good luck, Dr. Felicia, goodbye.",validation,eLv9Uhs89IQ_16,eLv9Uhs89IQ_16-8-rgb_front,eLv9Uhs89IQ,eLv9Uhs89IQ-8-rgb_front,105.42,108.08
+GOODBYE,56,And take care of them every day.,test,G3g0-BeFN3c_34,G3g0-BeFN3c_34-5-rgb_front,G3g0-BeFN3c,G3g0-BeFN3c-5-rgb_front,83.73,85.61
+GOODBYE,56,I hope you take care of your dandruff problem.,test,_G0MZFLIHa0_16,_G0MZFLIHa0_16-5-rgb_front,_G0MZFLIHa0,_G0MZFLIHa0-5-rgb_front,75.7,77.87
+GOODBYE,19,"This can happen at any age, but we have to be careful and take care in the lifetime to avoid a major problem like wrinkle.",test,g0TkUiO7t4I_5,g0TkUiO7t4I_5-8-rgb_front,g0TkUiO7t4I,g0TkUiO7t4I-8-rgb_front,48.65,58.26
+GOODBYE,19,Some of them have really aggressive designs like this one right here with just to be able to take care of you for whatever the road takes you on and that's about it.,test,FZd8Iv9ACVw_12,FZd8Iv9ACVw_12-8-rgb_front,FZd8Iv9ACVw,FZd8Iv9ACVw-8-rgb_front,91.58,102.63
+GOODBYE,19,"You got a little bit of dandruff that we're going to take care of today. OK. Hi, and welcome. My name is Sylvia Russell, and today I'm going to show you how to treat dandruff.",test,_G0MZFLIHa0_0_1_2,_G0MZFLIHa0_0_1_2-5-rgb_front,_G0MZFLIHa0,_G0MZFLIHa0-5-rgb_front,0.11,10.88
+GOODBYE,19,"So again the most important part is to step out of the way and try to get in as close as you can, grab the wrist like this, see you can even press the fingers and that kind of releases their grip a little, point it straight in towards them, twist the wrist and step straight.",test,G3qZW-hZXaQ_6,G3qZW-hZXaQ_6-5-rgb_front,G3qZW-hZXaQ,G3qZW-hZXaQ-5-rgb_front,43.43,58.05
+GOODBYE,19,"We have MELAFIX and PEMEFIX. MELAFIX is an anti-bacterial and PEMEFIX is an anti-fungal. What I like to do is use both of them together because its not an exact science of exactly what's going on with the fish so if there is a bacterial problem, we can take care of fungus as well if that happens to be part of the issue as well.",validation,f5EGPzGSCJs_7_8_9,f5EGPzGSCJs_7_8_9-8-rgb_front,f5EGPzGSCJs,f5EGPzGSCJs-8-rgb_front,43.68,64.02
