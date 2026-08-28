@@ -1,0 +1,62 @@
+name: sign_bridge
+description: "SignBridge accessibility application."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.11.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  flutter_foreground_task: ^10.0.0
+  path_provider: ^2.1.5
+  speech_to_text: ^7.4.0
+  flutter_tts: ^4.2.5
+  permission_handler: ^11.4.0
+  record: ^6.2.1
+  noise_meter: ^5.0.2
+  torch_light: 1.1.0
+  
+  tflite_flutter: ^0.11.0
+  csv: ^6.0.0
+
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+
+  flutter_local_notifications: ^22.2.0
+  intl: ^0.20.2
+  video_player: ^2.11.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/models/yamnet_classification.tflite
+    - assets/models/yamnet_class_map.csv
+    - assets/models/yamnet_embedding.tflite
+    - assets/models/sound_classifier.tflite
+    - assets/models/sound_classifier_labels.txt
+    - assets/models/mobile_sound_classifier.json
+    - assets/models/mobile_sound_classifier_v3.json
+    - assets/videos/
+    - assets/videos/education/
+    - assets/videos/education/level1/
+    - assets/videos/education/level1/learn/
+    - assets/videos/education/level1/predict/
+    - assets/videos/education/level2/learn/
+    - assets/videos/education/level2/predict/
+    - assets/videos/education/level3/learn/
+    - assets/videos/education/level3/predict/
+    - assets/videos/education/level4/learn/
+    - assets/videos/education/level4/predict/

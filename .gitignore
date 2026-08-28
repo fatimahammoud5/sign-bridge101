@@ -1,0 +1,117 @@
+# ==================================================
+# Miscellaneous
+# ==================================================
+
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+.atom/
+.build/
+.buildlog/
+.history/
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# ==================================================
+# IDE: IntelliJ, Android Studio, VS Code
+# ==================================================
+
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# ==================================================
+# Flutter / Dart / Pub
+# ==================================================
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Flutter symbolication files
+app.*.symbols
+
+# Flutter obfuscation files
+app.*.map.json
+
+# ==================================================
+# Android
+# ==================================================
+
+android/.gradle/
+android/local.properties
+android/key.properties
+
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+*.jks
+*.keystore
+
+# ==================================================
+# iOS
+# ==================================================
+
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+
+# ==================================================
+# Python
+# ==================================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Python virtual environments
+.venv/
+venv/
+env/
+.venv_fi/
+.venv_signavatars/
+
+# ==================================================
+# Environment variables and API keys
+# ==================================================
+
+.env
+.env.*
+!.env.example
+
+# ==================================================
+# Flask
+# ==================================================
+
+instance/
+*.sqlite3
+*.db
+
+# ==================================================
+# Temporary files
+# ==================================================
+
+*.tmp
+*.temp
+
+# Large downloaded archive
+signavatars_first_100mb.bin
