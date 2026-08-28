@@ -115,3 +115,14 @@ instance/
 
 # Large downloaded archive
 signavatars_first_100mb.bin
+
+# Authentication cookies
+**/cookies.txt
+
+# Incomplete downloads
+*.part
+
+# Embedded external repository
+openasl_test/bgutil-ytdlp-pot-provider/
+# Large OpenASL source video
+openasl_test/how_are_you_source.mp4
