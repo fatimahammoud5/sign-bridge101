@@ -150,3 +150,17 @@ sound_training/outputs/embeddings.npz
 
 # Generated sound training dataset
 sound_training/dataset/
+# ASL training datasets and generated features
+ASL-Smart-Video-Translator/data/
+ASL-Smart-Video-Translator/**/features/
+ASL-Smart-Video-Translator/**/features_v2/
+ASL-Smart-Video-Translator/**/split_videos/
+
+# ASL virtual environments
+ASL-Smart-Video-Translator/.venv/
+ASL-Smart-Video-Translator/.venv_fi/
+ASL-Smart-Video-Translator/.venv_signavatars/
+
+# Archives and incomplete downloads
+ASL-Smart-Video-Translator/*.zip
+ASL-Smart-Video-Translator/*.part
