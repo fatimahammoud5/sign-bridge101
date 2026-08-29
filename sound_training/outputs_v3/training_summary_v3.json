@@ -1,0 +1,14 @@
+{
+  "classes": [
+    "explosion",
+    "drone",
+    "aircraft",
+    "siren",
+    "dog_bark",
+    "other"
+  ],
+  "train_windows": 10685,
+  "test_windows": 2766,
+  "prediction_match": 1.0,
+  "max_probability_difference": 2.9071232027222393e-06
+}

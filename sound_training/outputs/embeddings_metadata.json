@@ -1,0 +1,23 @@
+{
+  "classes": [
+    "explosion",
+    "drone",
+    "dog_bark",
+    "aircraft",
+    "siren",
+    "other"
+  ],
+  "sample_rate": 16000,
+  "max_files_per_class": 100,
+  "embedding_dimension": 1024,
+  "embedding_count": 4361,
+  "class_file_counts": {
+    "explosion": 100,
+    "drone": 100,
+    "dog_bark": 100,
+    "aircraft": 100,
+    "siren": 100,
+    "other": 100
+  },
+  "failed_files": []
+}

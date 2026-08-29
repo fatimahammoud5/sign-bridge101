@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+   explosion     0.8636    0.8444    0.8539       180
+       drone     0.8205    1.0000    0.9014        32
+    dog_bark     0.9326    0.9222    0.9274       270
+    aircraft     0.9534    0.9293    0.9412       198
+       siren     0.9913    0.9383    0.9641       243
+       other     0.3000    0.4688    0.3659        32
+
+    accuracy                         0.9005       955
+   macro avg     0.8102    0.8505    0.8256       955
+weighted avg     0.9139    0.9005    0.9060       955
