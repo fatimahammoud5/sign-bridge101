@@ -147,3 +147,6 @@ sound_training/ESC-50-master/
 # Generated training dataset and large embeddings
 sound_training/dataset_v2/
 sound_training/outputs/embeddings.npz
+
+# Generated sound training dataset
+sound_training/dataset/
