@@ -126,3 +126,24 @@ signavatars_first_100mb.bin
 openasl_test/bgutil-ytdlp-pot-provider/
 # Large OpenASL source video
 openasl_test/how_are_you_source.mp4
+
+# Virtual environments anywhere in the project
+**/.venv/
+**/.venv_export/
+**/venv/
+**/__pycache__/
+
+# Downloaded sound dataset archive
+sound_training/ESC-50-master.zip
+
+# Sound training virtual environments
+sound_training/.venv/
+sound_training/.venv_export/
+
+# Downloaded ESC-50 dataset
+sound_training/ESC-50-master.zip
+sound_training/ESC-50-master/
+
+# Generated training dataset and large embeddings
+sound_training/dataset_v2/
+sound_training/outputs/embeddings.npz
