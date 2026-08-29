@@ -1,0 +1,11 @@
+file,true_label,predicted_label,confidence,correct
+12306.npy,computer,computer,0.898825466632843,True
+12320.npy,computer,computer,0.9209513664245605,True
+17713.npy,drink,drink,0.9630114436149597,True
+17730.npy,drink,drink,0.9798474311828613,True
+64275.npy,yes,drink,0.7278354167938232,False
+64297.npy,yes,yes,0.9429983496665955,True
+38482.npy,no,computer,0.6355589628219604,False
+38525.npy,no,computer,0.5357028841972351,False
+06326.npy,bird,computer,0.5823786854743958,False
+06335.npy,bird,bird,0.8179991841316223,True

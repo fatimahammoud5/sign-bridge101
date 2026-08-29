@@ -1,0 +1,17 @@
+              precision    recall  f1-score   support
+
+    computer       1.00      1.00      1.00         3
+         yes       1.00      1.00      1.00         3
+          no       1.00      1.00      1.00         3
+        help       0.75      1.00      0.86         3
+        need       1.00      1.00      1.00         3
+         who       1.00      1.00      1.00         3
+       hello       0.75      1.00      0.86         3
+      please       1.00      1.00      1.00         3
+       where       1.00      1.00      1.00         3
+         why       1.00      1.00      1.00         3
+        stop       1.00      0.33      0.50         3
+
+    accuracy                           0.94        33
+   macro avg       0.95      0.94      0.93        33
+weighted avg       0.95      0.94      0.93        33

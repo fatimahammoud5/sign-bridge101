@@ -1,0 +1,26 @@
+{
+  "feature_version": "motion_266_v1",
+  "sequence_length": 30,
+  "model_features": 266,
+  "classes": [
+    "computer",
+    "yes",
+    "no",
+    "help",
+    "want",
+    "need",
+    "drink",
+    "eat",
+    "who",
+    "what",
+    "now"
+  ],
+  "models": [
+    "asl_v2_candidate_42.keras",
+    "asl_v2_candidate_2026.keras"
+  ],
+  "validation_accuracy": 0.7142857142857143,
+  "validation_macro_f1": 0.746969696969697,
+  "test_accuracy": 0.5,
+  "test_macro_f1": 0.4151515151515151
+}

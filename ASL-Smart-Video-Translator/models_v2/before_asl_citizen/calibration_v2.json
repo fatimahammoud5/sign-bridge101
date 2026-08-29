@@ -1,0 +1,20 @@
+{
+  "confidence_threshold": 0.6500000000000002,
+  "margin_threshold": 0.03,
+  "accepted_accuracy": 0.7619047619047619,
+  "coverage": 0.75,
+  "score": 10.75,
+  "per_class_thresholds": {
+    "computer": 0.9,
+    "yes": 0.5850000000000002,
+    "no": 0.9,
+    "help": 0.877748966217041,
+    "want": 0.5850000000000002,
+    "need": 0.9,
+    "drink": 0.5850000000000002,
+    "eat": 0.7975069284439087,
+    "who": 0.9,
+    "what": 0.7270879149436951,
+    "now": 0.9
+  }
+}

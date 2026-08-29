@@ -1,0 +1,89 @@
+ASL MODEL ERROR ANALYSIS
+========================
+
+Test Accuracy: 18.64%
+
+CLASSIFICATION REPORT
+========================
+              precision    recall  f1-score   support
+
+    computer       0.00      0.00      0.00         2
+        like       0.00      0.00      0.00         2
+         hot       1.00      0.33      0.50         3
+         who       0.00      0.00      0.00         2
+       drink       0.20      1.00      0.33         2
+         yes       0.00      0.00      0.00         2
+          no       0.00      0.00      0.00         2
+         now       1.00      0.50      0.67         2
+      finish       0.00      0.00      0.00         3
+      change       0.00      0.00      0.00         2
+        need       0.00      0.00      0.00         2
+        cool       0.00      0.00      0.00         3
+       woman       0.00      0.00      0.00         3
+        want       0.00      0.00      0.00         2
+        walk       0.50      0.50      0.50         2
+       white       0.10      0.50      0.17         2
+      orange       0.00      0.00      0.00         2
+        bird       0.00      0.00      0.00         2
+        tall       0.33      0.50      0.40         2
+        many       0.50      0.33      0.40         3
+        cook       0.00      0.00      0.00         2
+         cow       0.00      0.00      0.00         2
+         hat       0.00      0.00      0.00         2
+         all       0.22      1.00      0.36         2
+    accident       0.00      0.00      0.00         2
+    birthday       0.00      0.00      0.00         2
+        dark       0.50      0.50      0.50         2
+
+    accuracy                           0.19        59
+   macro avg       0.16      0.19      0.14        59
+weighted avg       0.17      0.19      0.15        59
+
+
+MOST COMMON CONFUSIONS
+========================
+want -> finish : 2
+like -> white : 2
+bird -> drink : 2
+yes -> who : 1
+yes -> need : 1
+woman -> who : 1
+woman -> like : 1
+woman -> finish : 1
+who -> finish : 1
+who -> drink : 1
+white -> finish : 1
+walk -> finish : 1
+tall -> white : 1
+orange -> white : 1
+orange -> drink : 1
+now -> white : 1
+no -> white : 1
+no -> drink : 1
+need -> white : 1
+need -> tall : 1
+many -> dark : 1
+many -> all : 1
+hot -> drink : 1
+hot -> birthday : 1
+hat -> who : 1
+hat -> birthday : 1
+finish -> who : 1
+finish -> need : 1
+finish -> birthday : 1
+dark -> all : 1
+cow -> drink : 1
+cow -> all : 1
+cool -> who : 1
+cool -> drink : 1
+cool -> change : 1
+cook -> white : 1
+cook -> all : 1
+computer -> finish : 1
+computer -> all : 1
+change -> many : 1
+change -> all : 1
+birthday -> white : 1
+birthday -> all : 1
+accident -> walk : 1
+accident -> tall : 1

@@ -1,0 +1,70 @@
+{
+  "classes": [
+    "computer",
+    "yes",
+    "no",
+    "help",
+    "need",
+    "who",
+    "hello",
+    "please",
+    "where",
+    "why",
+    "stop"
+  ],
+  "model_features": 266,
+  "candidates": [
+    {
+      "seed": 2026,
+      "path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_candidate_2026.keras",
+      "best_epoch": 26,
+      "val_accuracy": 0.9696969696969697,
+      "val_macro_f1": 0.9688311688311688
+    },
+    {
+      "seed": 42,
+      "path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_candidate_42.keras",
+      "best_epoch": 29,
+      "val_accuracy": 0.9393939393939394,
+      "val_macro_f1": 0.9385281385281385
+    },
+    {
+      "seed": 123,
+      "path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_candidate_123.keras",
+      "best_epoch": 29,
+      "val_accuracy": 0.9393939393939394,
+      "val_macro_f1": 0.9285714285714287
+    }
+  ],
+  "best_candidate": {
+    "seed": 2026,
+    "path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_candidate_2026.keras",
+    "best_epoch": 26,
+    "val_accuracy": 0.9696969696969697,
+    "val_macro_f1": 0.9688311688311688
+  },
+  "test_loss": 0.6536827683448792,
+  "test_accuracy": 0.939393937587738,
+  "test_macro_f1": 0.9285714285714287,
+  "model_path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_improved.keras",
+  "rejection": {
+    "confidence_threshold": 0.35,
+    "margin_threshold": 0.03,
+    "accepted_accuracy": 0.967741935483871,
+    "coverage": 0.9393939393939394,
+    "score": 10.93939393939394,
+    "per_class_thresholds": {
+      "computer": 0.9,
+      "yes": 0.6409350037574768,
+      "no": 0.7139542102813721,
+      "help": 0.40936896204948425,
+      "need": 0.5908188819885254,
+      "who": 0.9,
+      "hello": 0.9,
+      "please": 0.8944798111915588,
+      "where": 0.6340171694755554,
+      "why": 0.7733958959579468,
+      "stop": 0.848005473613739
+    }
+  }
+}

@@ -1,0 +1,6 @@
+true/predicted,computer,drink,yes,no,bird
+computer,2,0,0,0,0
+drink,0,2,0,0,0
+yes,0,1,1,0,0
+no,2,0,0,0,0
+bird,1,0,0,0,1

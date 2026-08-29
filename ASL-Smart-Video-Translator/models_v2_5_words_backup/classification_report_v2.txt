@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+    computer       0.40      1.00      0.57         2
+       drink       0.67      1.00      0.80         2
+         yes       1.00      0.50      0.67         2
+          no       0.00      0.00      0.00         2
+        bird       1.00      0.50      0.67         2
+
+    accuracy                           0.60        10
+   macro avg       0.61      0.60      0.54        10
+weighted avg       0.61      0.60      0.54        10

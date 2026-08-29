@@ -1,0 +1,25 @@
+{
+  "feature_version": "motion_266_v1",
+  "sequence_length": 30,
+  "model_features": 266,
+  "classes": [
+    "computer",
+    "yes",
+    "no",
+    "help",
+    "need",
+    "who",
+    "hello",
+    "please",
+    "where",
+    "why",
+    "stop"
+  ],
+  "models": [
+    "asl_v2_candidate_2026.keras"
+  ],
+  "validation_accuracy": 0.9696969696969697,
+  "validation_macro_f1": 0.9688311688311688,
+  "test_accuracy": 0.9393939393939394,
+  "test_macro_f1": 0.9285714285714287
+}

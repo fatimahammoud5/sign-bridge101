@@ -1,0 +1,12 @@
+{
+  "sequence_length": 30,
+  "raw_features": 126,
+  "confidence_threshold": 0.6,
+  "margin_threshold": 0.12,
+  "detection_interval": 1,
+  "prediction_interval": 3,
+  "smoothing_window": 4,
+  "stable_count": 2,
+  "detector_width": 320,
+  "no_hand_reset_frames": 8
+}

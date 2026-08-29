@@ -1,0 +1,20 @@
+{
+  "feature_version": "motion_266_v1",
+  "sequence_length": 30,
+  "raw_features": 126,
+  "model_features": 266,
+  "classes": [
+    "computer",
+    "yes",
+    "no",
+    "help",
+    "want",
+    "need",
+    "drink",
+    "eat",
+    "who",
+    "what",
+    "now"
+  ],
+  "selected_seed": 123
+}

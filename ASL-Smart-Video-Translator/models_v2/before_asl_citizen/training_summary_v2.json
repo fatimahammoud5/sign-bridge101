@@ -1,0 +1,70 @@
+{
+  "classes": [
+    "computer",
+    "yes",
+    "no",
+    "help",
+    "want",
+    "need",
+    "drink",
+    "eat",
+    "who",
+    "what",
+    "now"
+  ],
+  "model_features": 266,
+  "candidates": [
+    {
+      "seed": 123,
+      "path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_candidate_123.keras",
+      "best_epoch": 26,
+      "val_accuracy": 0.7142857142857143,
+      "val_macro_f1": 0.7404761904761905
+    },
+    {
+      "seed": 2026,
+      "path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_candidate_2026.keras",
+      "best_epoch": 18,
+      "val_accuracy": 0.6785714285714286,
+      "val_macro_f1": 0.7188311688311688
+    },
+    {
+      "seed": 42,
+      "path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_candidate_42.keras",
+      "best_epoch": 13,
+      "val_accuracy": 0.6785714285714286,
+      "val_macro_f1": 0.7176767676767677
+    }
+  ],
+  "best_candidate": {
+    "seed": 123,
+    "path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_candidate_123.keras",
+    "best_epoch": 26,
+    "val_accuracy": 0.7142857142857143,
+    "val_macro_f1": 0.7404761904761905
+  },
+  "test_loss": 2.6946849822998047,
+  "test_accuracy": 0.44999998807907104,
+  "test_macro_f1": 0.36639118457300274,
+  "model_path": "C:\\Users\\User\\Documents\\ASL-Smart-Translator\\models_v2\\asl_v2_improved.keras",
+  "rejection": {
+    "confidence_threshold": 0.6500000000000002,
+    "margin_threshold": 0.03,
+    "accepted_accuracy": 0.7619047619047619,
+    "coverage": 0.75,
+    "score": 10.75,
+    "per_class_thresholds": {
+      "computer": 0.9,
+      "yes": 0.5850000000000002,
+      "no": 0.9,
+      "help": 0.877748966217041,
+      "want": 0.5850000000000002,
+      "need": 0.9,
+      "drink": 0.5850000000000002,
+      "eat": 0.7975069284439087,
+      "who": 0.9,
+      "what": 0.7270879149436951,
+      "now": 0.9
+    }
+  }
+}
